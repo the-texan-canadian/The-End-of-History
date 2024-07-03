@@ -1,0 +1,551 @@
+﻿POPS = {
+    s:STATE_BIHAR = {
+        region_state:IDA = {
+            create_pop = {
+                culture = bihari
+                size = 9145478
+            }
+            create_pop = {
+                culture = bihari
+                religion = sunni
+                size = 5314748
+            }
+        }
+    }
+    s:STATE_NORTH_BENGAL = {
+        region_state:IDA = {
+            create_pop = {
+                culture = bengali
+                religion = hindu
+                size = 3512484
+            }
+            create_pop = {
+                culture = bengali
+                size = 1884594
+            }
+        }
+        region_state:BNG = {
+            create_pop = {
+                culture = bengali
+                religion = hindu
+                size = 2351481
+            }
+            create_pop = {
+                culture = bengali
+                size = 6684818
+            }
+        }
+    }
+    s:STATE_ASSAM = {
+        region_state:IDA = {
+            create_pop = {
+                culture = assamese
+                religion = hindu
+                size = 2018474
+            }
+            create_pop = {
+                culture = thai
+                size = 1345311
+            }
+            create_pop = {
+                culture = manipuri
+                size = 1521555
+            }
+            create_pop = {
+                culture = assamese
+                size = 615184
+            }
+            create_pop = {
+                culture = bengali
+                size = 218488
+            }
+        }
+    }
+    s:STATE_DELHI = {
+        region_state:IDA = {
+            create_pop = {
+                culture = avadhi
+                religion = hindu
+                size = 4515121
+            }
+            create_pop = {
+                culture = british
+                size = 85411
+            }
+            create_pop = {
+                culture = kanauji
+                size = 3221515
+            }
+            create_pop = {
+                culture = panjabi
+                religion = sunni
+                size = 984541
+            }
+            create_pop = {
+                culture = avadhi
+                size = 3220154
+            }
+            create_pop = {
+                culture = kanauji
+                religion = sunni
+                size = 1348484
+            }
+            create_pop = {
+                culture = panjabi
+                size = 1741784
+            }
+            create_pop = {
+                culture = nepali
+                size = 2114848
+            }
+        }
+    }
+    s:STATE_AWADH = {
+        region_state:IDA = {
+            create_pop = {
+                culture = avadhi
+                religion = hindu
+                size = 7311848
+            }
+            create_pop = {
+                culture = nepali
+                size = 3821081
+            }
+            create_pop = {
+                culture = kanauji
+                size = 1901818
+            }
+            create_pop = {
+                culture = avadhi
+                size = 1776515
+            }
+            create_pop = {
+                culture = kanauji
+                religion = sunni
+                size = 848151
+            }
+        }
+    }
+    s:STATE_GUJARAT = {
+        region_state:IDA = {
+            create_pop = {
+                culture = gujarati
+                size = 5984841
+            }
+            create_pop = {
+                culture = sindi
+                size = 684154
+            }
+        }
+    }
+    s:STATE_CENTRAL_INDIA = {
+        region_state:IDA = {
+            create_pop = {
+                culture = marathi
+                size = 4512217
+            }
+            create_pop = {
+                culture = avadhi
+                size = 2256147
+            }
+            create_pop = {
+                culture = kanauji
+                size = 1848914
+            }
+        }
+    }
+    s:STATE_KASHMIR = {
+        region_state:IDA = {
+            create_pop = {
+                culture = kashmiri
+                size = 784512
+            }
+            create_pop = {
+                culture = panjabi
+                size = 148481
+            }
+            create_pop = {
+                culture = tibetan
+                religion = mahayana
+                size = 215148
+            }
+            create_pop = {
+                culture = kashmiri
+                religion = hindu
+                size = 314938
+            }
+            create_pop = {
+                culture = pashtun
+                size = 95881
+            }
+        }
+        region_state:PRC = {
+            create_pop = {
+                culture = kashmiri
+                size = 1025
+            }
+            create_pop = {
+                culture = tibetan
+                religion = mahayana
+                size = 3201
+            }
+        }
+        region_state:PAK = {
+            create_pop = {
+                culture = kashmiri
+                size = 71204
+            }
+            create_pop = {
+                culture = pashtun
+                size = 21012
+            }
+            create_pop = {
+                culture = panjabi
+                size = 8915
+            }
+        }
+    }
+    s:STATE_PUNJAB = {
+        region_state:PAK = {
+            create_pop = {
+                culture = panjabi
+                religion = sunni
+                size = 5201848
+            }
+            create_pop = {
+                culture = avadhi
+                religion = hindu
+                size = 1318648
+            }
+            create_pop = {
+                culture = panjabi
+                size = 4554102
+            }
+            create_pop = {
+                culture = panjabi
+                religion = hindu
+                size = 1320148
+            }
+        }
+        region_state:IDA = {
+            create_pop = {
+                culture = nepali
+                size = 588105
+            }
+            create_pop = {
+                culture = panjabi
+                religion = sunni
+                size = 134501
+            }
+            create_pop = {
+                culture = avadhi
+                religion = hindu
+                size = 3021845
+            }
+        }
+    }
+    s:STATE_NAGPUR = {
+        region_state:IDA = {
+            create_pop = {
+                culture = kanauji
+                size = 481501
+            }
+            create_pop = {
+                culture = tamil
+                size = 560121
+            }
+            create_pop = {
+                culture = telegu
+                size = 1332014
+            }
+            create_pop = {
+                culture = marathi
+                size = 1684512
+            }
+        }
+    }
+    s:STATE_SOUTH_BENGAL = {
+        region_state:IDA = {
+            create_pop = {
+                culture = bengali
+                religion = hindu
+                size = 5420114
+            }
+            create_pop = {
+                culture = bengali
+                size = 520312
+            }
+        }
+        region_state:BNG = {
+            create_pop = {
+                culture = bengali
+                religion = hindu
+                size = 412140
+            }
+            create_pop = {
+                culture = bengali
+                size = 5681201
+            }
+        }
+    }
+    s:STATE_SINDH = {
+        region_state:PAK = {
+            create_pop = {
+                culture = sindi
+                size = 681548
+            }
+            create_pop = {
+                culture = sindi
+                religion = shiite
+                size = 285421
+            }
+            create_pop = {
+                culture = sindi
+                religion = hindu
+                size = 984155
+            }
+        }
+        region_state:IDA = {
+            create_pop = {
+                culture = sindi
+                size = 8012
+            }
+            create_pop = {
+                culture = sindi
+                religion = shiite
+                size = 2014
+            }
+            create_pop = {
+                culture = sindi
+                religion = hindu
+                size = 3506
+            }
+        }
+    }
+    s:STATE_RAJPUTANA = {
+        region_state:IDA = {
+            create_pop = {
+                culture = rajput
+                size = 4891211
+            }
+            create_pop = {
+                culture = avadhi
+                size = 1248447
+            }
+        }
+    }
+    s:STATE_CEYLON = {
+        region_state:SRI = {
+            create_pop = {
+                culture = sinhala
+                size = 895105
+            }
+            create_pop = {
+                culture = tamil
+                size = 1022184
+            }
+            create_pop = {
+                culture = sinhala
+                religion = sunni
+                size = 120148
+            }
+        }
+        region_state:MLD = {
+            create_pop = {
+                culture = sinhala
+                size = 57933
+            }
+        }
+    }
+    s:STATE_INDIAN_OCEAN_TERRITORY = {
+        region_state:REU = {
+            create_pop = {
+                culture = french
+                size = 146801
+            }
+            create_pop = {
+                culture = afro_antillean
+                size = 38021
+            }
+            create_pop = {
+                culture = swahili
+                size = 16805
+            }
+        }
+        region_state:MRT = {
+            create_pop = {
+                culture = french
+                size = 20114
+            }
+            create_pop = {
+                culture = afro_antillean
+                size = 32012
+            }
+            create_pop = {
+                culture = british
+                size = 78901
+            }
+        }
+        region_state:SYC = {
+            create_pop = {
+                culture = french
+                size = 270
+            }
+            create_pop = {
+                culture = swahili
+                size = 9220
+            }
+            create_pop = {
+                culture = british
+                size = 340
+            }
+        }
+    }
+    s:STATE_ORISSA = {
+        region_state:IDA = {
+            create_pop = {
+                culture = oriya
+                size = 3984512
+            }
+            create_pop = {
+                culture = bengali
+                size = 1684515
+            }
+        }
+    }
+    s:STATE_CIRCARS = {
+        region_state:IDA = {
+            create_pop = {
+                culture = telegu
+                size = 5121210
+            }
+            create_pop = {
+                culture = kannada
+                size = 845412
+            }
+            create_pop = {
+                culture = telegu
+                religion = sunni
+                size = 684514
+            }
+            create_pop = {
+                culture = kannada
+                religion = shiite
+                size = 421451
+            }
+        }
+    }
+    s:STATE_MYSORE = {
+        region_state:IDA = {
+            create_pop = {
+                culture = kannada
+                religion = hindu
+                size = 3581245
+            }
+            create_pop = {
+                culture = kannada
+                size = 1584842
+            }
+        }
+    }
+    s:STATE_TRAVANCORE = {
+        region_state:IDA = {
+            create_pop = {
+                culture = malayalam
+                size = 2078415
+            }
+            create_pop = {
+                culture = malayalam
+                religion = shiite
+                size = 820120
+            }
+            create_pop = {
+                culture = malayalam
+                religion = sunni
+                size = 198451
+            }
+            create_pop = {
+                culture = malayalam
+                religion = oriental_orthodox
+                size = 21024
+            }
+        }
+    }
+    s:STATE_MADRAS = {
+        region_state:IDA = {
+            create_pop = {
+                culture = tamil
+                size = 4850124
+            }
+            create_pop = {
+                culture = british
+                size = 120230
+            }
+            create_pop = {
+                culture = kannada
+                size = 2287198
+            }
+            create_pop = {
+                culture = tamil
+                religion = sunni
+                size = 602018
+            }
+        }
+    }
+    s:STATE_HYDERABAD = {
+        region_state:IDA = {
+            create_pop = {
+                culture = telegu
+                size = 3565014
+            }
+            create_pop = {
+                culture = avadhi
+                religion = shiite
+                size = 751051
+            }
+            create_pop = {
+                culture = avadhi
+                size = 175150
+            }
+            create_pop = {
+                culture = marathi
+                size = 2001181
+            }
+            create_pop = {
+                culture = kannada
+                religion = hindu
+                size = 316490
+            }
+        }
+    }
+    s:STATE_BOMBAY = {
+        region_state:IDA = {
+            create_pop = {
+                culture = marathi
+                size = 4032211
+            }
+            create_pop = {
+                culture = sindi
+                religion = jewish
+                size = 81511
+            }
+            create_pop = {
+                culture = kannada
+                religion = hindu
+                size = 1203285
+            }
+            create_pop = {
+                culture = british
+                size = 81501
+            }
+            create_pop = {
+                culture = sindi
+                size = 2287230
+            }
+            create_pop = {
+                culture = kannada
+                size = 640997
+            }
+        }
+    }
+}

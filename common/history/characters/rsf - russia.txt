@@ -1,0 +1,8 @@
+﻿CHARACTERS = {
+	c:RSF ?= {
+		# Presidents
+		create_character = {
+			template = RSF_vladimir_putin
+		}
+	}
+}

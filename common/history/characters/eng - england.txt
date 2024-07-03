@@ -1,0 +1,7 @@
+﻿CHARACTERS = {
+	c:ENG ?= {
+		create_character = {
+			template = ENG_elizabeth_windsor
+		}	
+	}
+}

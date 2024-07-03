@@ -1,0 +1,7 @@
+﻿CHARACTERS = {
+	c:GER ?= {
+		create_character = {
+			template = GER_gerhard_schorder
+		}	
+	}
+}

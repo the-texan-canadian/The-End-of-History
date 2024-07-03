@@ -1,0 +1,25 @@
+﻿### France character template file ###
+
+## game start interest group leaders ##
+
+FRC_jacques_chirac = {
+	first_name = Jacques
+	last_name = Chirac
+	historical = yes
+	ruler = yes
+	birth_date = 1932.11.29
+	dna = dna_jacques_chirac
+	interest_group = ig_industrialists
+	ideology = ideology_socialist
+	traits = {
+		basic_political_operator
+		direct
+		ambitious
+	}
+	on_created = {
+
+	}
+	trait_generation = {
+		# nothing!
+	}
+}

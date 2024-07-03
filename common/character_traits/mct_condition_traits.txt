@@ -1,0 +1,252 @@
+﻿### More Character Traits - Conditions
+
+rambler = {
+	type = condition
+	texture = "gfx/interface/icons/character_trait_icons/rambler.dds"
+	
+	character_modifier = {
+        character_expedition_events_explorer_mult = 1
+		character_health_add = 0.2
+	}
+
+	command_modifier = {
+		character_battle_condition_charted_terrain_mult = 1
+	}
+	
+	country_modifier = {
+	}
+	
+	interest_group_modifier = {
+	}
+	
+	possible = {
+		age > define:NPortrait|GRACEFUL_AGING_START
+	}
+	
+	weight = {
+		value = 20
+		if = {
+			limit = {
+				OR = {
+					has_trait = cancer
+				}
+			}
+			multiply = 0.1
+		}
+        if = {
+			limit = {
+				has_trait = well_travelled
+			}
+			multiply = 2
+		}
+	}
+	
+	replace = {																
+	}
+}
+
+hunter = {
+	type = condition
+	texture = "gfx/interface/icons/character_trait_icons/hunter.dds"
+	
+	character_modifier = {
+        character_popularity_add = 10
+	}
+
+	command_modifier = {
+		character_battle_condition_camouflaged_mult  = 1
+        unit_defense_forested_mult = 0.15
+	}
+	
+	country_modifier = {
+        interest_group_ig_landowners_approval_add = 1
+	}
+	
+	interest_group_modifier = {
+	}
+	
+	possible = {
+		age > define:NPortrait|GRACEFUL_AGING_START
+	}
+	
+	weight = {
+		value = 10
+		if = {
+			limit = {
+				OR = {
+					has_trait = cancer
+				}
+			}
+			multiply = 0.1
+		}
+        if = {
+			limit = {
+				interest_group = {
+					OR = {
+						is_interest_group_type = ig_landowners
+						is_interest_group_type = ig_armed_forces
+					}
+				}
+			}
+			multiply = 3
+		}
+	}
+	
+	replace = {																
+	}
+}
+
+horse_rider = {
+	type = condition
+	texture = "gfx/interface/icons/character_trait_icons/horse_rider.dds"
+	
+	character_modifier = {
+		character_health_add = 0.1
+	}
+
+	command_modifier = {
+		character_battle_condition_rapid_advance_mult = 0.5
+	}
+	
+	country_modifier = {
+	}
+	
+	interest_group_modifier = {
+	}
+	
+	possible = {
+		age > define:NPortrait|GRACEFUL_AGING_START
+	}
+	
+	weight = {
+		value = 10
+		if = {
+			limit = {
+				OR = {
+					has_trait = cancer
+				}
+			}
+			multiply = 0.1
+		}
+        if = {
+			limit = {
+				interest_group = {
+					OR = {
+						is_interest_group_type = ig_landowners
+						is_interest_group_type = ig_armed_forces
+                        is_interest_group_type = ig_rural_folk
+					}
+				}
+			}
+			multiply = 2
+		}
+	}
+	
+	replace = {																
+	}
+}
+
+swimmer = {
+	type = condition
+	texture = "gfx/interface/icons/character_trait_icons/swimmer.dds"
+	
+	character_modifier = {
+        character_health_add = 0.3
+	}
+
+	command_modifier = {
+	}
+	
+	country_modifier = {
+	}
+	
+	interest_group_modifier = {
+	}
+	
+	possible = {
+		age > define:NPortrait|GRACEFUL_AGING_START
+	}
+	
+	weight = {
+		value = 10
+		if = {
+			limit = {
+				OR = {
+					has_trait = cancer
+				}
+			}
+			multiply = 0.1
+		}
+        if = {
+			limit = {
+                OR = {
+					has_role = admiral
+				}
+			}
+			multiply = 3
+		}
+	}
+	
+	replace = {																
+	}
+}
+
+fencer = {
+	type = condition
+	texture = "gfx/interface/icons/character_trait_icons/fencer.dds"
+	
+	character_modifier = {
+        character_health_add = 0.2
+        character_popularity_add = 10
+	}
+
+	command_modifier = {
+        unit_kill_rate_add = 0.1
+	}
+	
+	country_modifier = {
+	}
+	
+	interest_group_modifier = {
+	}
+	
+	possible = {
+		age > define:NPortrait|GRACEFUL_AGING_START
+	}
+	
+	weight = {
+		value = 10
+		if = {
+			limit = {
+				OR = {
+					has_trait = cancer
+				}
+			}
+			multiply = 0.1
+		}
+        if = {
+			limit = {
+				interest_group = {
+					OR = {
+						is_interest_group_type = ig_landowners
+						is_interest_group_type = ig_armed_forces
+					}
+				}
+			}
+			multiply = 2
+		}
+        if = {
+			limit = {
+                OR = {
+					has_role = admiral
+                    has_role = general
+                    has_trait = military_officer
+				}
+			}
+			multiply = 2
+		}
+	}
+	
+	replace = {																
+	}
+}

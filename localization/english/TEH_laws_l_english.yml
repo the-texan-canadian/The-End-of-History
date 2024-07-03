@@ -1,0 +1,59 @@
+﻿l_english:
+  
+ # Environmental Policies group
+ lawgroup_environmental:0 "Environmental Policies"
+ lawgroup_environmental_desc:0 "The legislative measures aimed at protecting and improving the environment."
+
+ law_natural_reserves:0 "No Enviromental Controls"
+ law_natural_reserves_desc:0 "The governement does little to nothing to protect the enviroment or prevent rampant dispoiling of nature. While this may be good for the economy, it has long terms negative effects."
+
+ law_nature_preservation:0 "Nature Preservation"
+ law_nature_preservation_desc:0 "Policies focused on maintaining and restoring natural habitats. Agricultural and industrial activities are restricted to prevent environmental degradation."
+
+ law_green_technology:0 "Green Technology"
+ law_green_technology_desc:0 "Promotion of environmentally friendly technologies and practices. Industries are encouraged to adopt innovations that reduce environmental impact."
+
+ law_pollution_controls:0 "Pollution Controls"
+ law_pollution_controls_desc:0 "Regulations aimed at reducing pollution levels in air, water, and soil. Industrial activities are monitored and penalized for excessive emissions."
+
+ law_climate_action_plan:0 "Climate Action Plan"
+ law_climate_action_plan_desc:0 "Comprehensive strategies to combat climate change. Measures include reducing carbon emissions, improving energy efficiency, and protecting forests."
+
+ law_waste_management:0 "Waste Management"
+ law_waste_management_desc:0 "Policies to improve waste collection, recycling, and disposal systems. Focuses on reducing pollution and improving public health through better waste management practices."
+
+
+ # Military Oversight group
+ lawgroup_military_oversight:0 "Military Oversight"
+ lawgroup_military_oversight_desc:0 "The degree of control and regulation exerted over the military's conduct and operations."
+
+ law_unrestricted_warfare:0 "Unrestricted Warfare"
+ law_unrestricted_warfare_desc:0 "The military operates without any constraints on their conduct. War crimes and breaches of international law are permitted."
+
+ law_limited_warfare:0 "Limited Warfare"
+ law_limited_warfare_desc:0 "The military has some constraints on their conduct. War crimes are officially discouraged but not strictly policed."
+
+ law_military_tribunals:0 "Military Tribunals"
+ law_military_tribunals_desc:0 "The military is subject to its own system of justice. War crimes and breaches of conduct are tried by military courts."
+
+ law_civilian_oversight:0 "Civilian Oversight"
+ law_civilian_oversight_desc:0 "The military is subject to oversight by civilian authorities. War crimes and breaches of conduct are tried in civilian courts."
+
+ law_humanitarian_warfare:0 "Humanitarian Warfare"
+ law_humanitarian_warfare_desc:0 "The military operates under strict rules of engagement that prioritize the protection of civilian lives and property. War crimes are severely punished."
+
+
+ # Election Oversight group
+ lawgroup_election_fairness:0 "Election Oversight and Fairness"
+ lawgroup_election_fairness_desc:0 "The degree of oversight and regulations for the nations elections."
+
+ law_no_election_regulation:0 "No Election Regulation"
+ law_no_election_regulation_desc:0 "There are no regulations ensuring fair elections. Fraud and suppression of opposition are rampant."
+ 
+ law_partial_election_regulation:0 "Partial Election Regulation"
+ law_partial_election_regulation_desc:0 "Some regulations are in place to ensure fair elections. Fraud and suppression are less frequent but still occur."
+ 
+ law_full_election_regulation:0 "Full Election Regulation"
+ law_full_election_regulation_desc:0 "Comprehensive regulations are in place to ensure fair elections. Fraud and suppression are rare."
+
+

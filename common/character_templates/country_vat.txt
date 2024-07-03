@@ -1,0 +1,23 @@
+﻿### Vatican City character template file ###
+
+### Pope
+
+VAT_john_paul = { # Pope John Paul II
+	first_name = John
+	last_name = Paul_II
+	historical = yes
+	interest_group = ig_devout
+	ideology = ideology_paternalistic
+	ruler = yes
+	birth_date = 1920.05.18
+	dna = dna_john_paul_ii
+	traits = {
+		sickly 
+		tactful
+		pious
+		expert_political_operator
+	}
+	trait_generation = {
+
+	}
+}

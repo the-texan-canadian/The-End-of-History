@@ -1,0 +1,7 @@
+﻿CHARACTERS = {
+	c:IRQ ?= {
+		create_character = {
+			template = per_saddam_hussein_template
+		}	
+	}
+}

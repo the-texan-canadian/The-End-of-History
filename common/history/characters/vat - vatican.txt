@@ -1,0 +1,8 @@
+﻿CHARACTERS = {
+	c:VAT ?= {
+		# Popes
+		create_character = {
+			template = VAT_john_paul
+		}
+	}
+}

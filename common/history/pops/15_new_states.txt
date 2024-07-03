@@ -1,0 +1,1188 @@
+﻿POPS = {
+    s:STATE_ARUBA = {
+        region_state:ARB = {
+            create_pop = {
+                culture = afro_caribbean
+                size = 84510
+            }
+            create_pop = {
+                culture = dutch
+                size = 33210
+            }
+        }
+    }
+    s:STATE_FAROYAR = {
+        region_state:FAO = {
+            create_pop = {
+                culture = faroese
+                religion = atheism
+                size = 8400
+            }
+            create_pop = {
+                culture = faroese
+                size = 2010
+            }
+            create_pop = {
+                culture = faroese
+                religion = pagan
+                size = 32480
+            }
+            create_pop = {
+                culture = icelandic
+                size = 12050
+            }
+            create_pop = {
+                culture = danish
+                size = 2370
+            }
+        }
+    }
+    s:STATE_CORNWALL = {
+        region_state:ENG = {
+            create_pop = {
+                culture = cornish
+                religion = atheism
+                size = 210850
+            }
+            create_pop = {
+                culture = cornish
+                religion = pagan
+                size = 28450
+            }
+            create_pop = {
+                culture = british
+                religion = atheism
+                size = 98780
+            }
+            create_pop = {
+                culture = welsh
+                size = 184710
+            }
+        }
+    }
+    s:STATE_CHANNEL_ISLANDS = {
+        region_state:JSY = {
+            create_pop = {
+                culture = british
+                religion = atheism
+                size = 46020
+            }
+            create_pop = {
+                culture = french
+                size = 67840
+            }
+        }
+        region_state:GSY = {
+            create_pop = {
+                culture = british
+                religion = atheism
+                size = 9480
+            }
+            create_pop = {
+                culture = french
+                size = 53170
+            }
+        }
+    }
+    s:STATE_MANX = {
+        region_state:MNX = {
+            create_pop = {
+                culture = irish
+                size = 30140
+            }
+            create_pop = {
+                culture = scottish
+                size = 13540
+            }
+            create_pop = {
+                culture = manx
+                size = 50500
+            }
+        }
+    }
+    s:STATE_WEST_MIDLANDS = {
+        region_state:ENG = {
+            create_pop = {
+                culture = british
+                size = 3214580
+            }
+            create_pop = {
+                culture = british
+                religion = atheism
+                size = 7674550
+            }
+            create_pop = {
+                culture = welsh
+                size = 345820
+            }
+        }
+    }
+    s:STATE_GUAM = {
+        region_state:GUA = {
+            create_pop = {
+                culture = polynesian
+                size = 168800
+            }
+        }
+    }
+    s:STATE_SOUTH_JUTLAND = {
+        region_state:DEN = {
+            create_pop = {
+                culture = danish
+                religion = atheism
+                size = 69840
+            }
+            create_pop = {
+                culture = danish
+                size = 178410
+            }
+            create_pop = {
+                culture = north_german
+                religion = atheism
+                size = 22690
+            }
+        }
+    }
+    s:STATE_VADUZ = {
+        region_state:LIE = {
+            create_pop = {
+                culture = swiss
+                size = 11870
+            }
+            create_pop = {
+                culture = swiss
+                religion = atheism
+                size = 5080
+            }
+            create_pop = {
+                culture = south_german
+                size = 16870
+            }
+            create_pop = {
+                culture = north_italian
+                size = 5420
+            }
+        }
+    }
+    s:STATE_LUBUSZ = {
+        region_state:POL = {
+            create_pop = {
+                culture = polish
+                size = 1385060
+            }
+            create_pop = {
+                culture = north_german
+                size = 474150
+            }
+            create_pop = {
+                culture = north_german
+                religion = atheism
+                size = 178410
+            }
+        }
+    }
+    s:STATE_VORPOMMERN = {
+        region_state:GER = {
+            create_pop = {
+                culture = north_german
+                religion = atheism
+                size = 89970
+            }
+            create_pop = {
+                culture = north_german
+                size = 301450
+            }
+        }
+    }
+    s:STATE_ANDORRA = {
+        region_state:ADR = {
+            create_pop = {
+                culture = catalan
+                religion = atheism
+                size = 21030
+            }
+            create_pop = {
+                culture = catalan
+                size = 23190
+            }
+            create_pop = {
+                culture = spanish
+                size = 19380
+            }
+            create_pop = {
+                culture = portuguese
+                size = 9300
+            }
+            create_pop = {
+                culture = french
+                size = 3100
+            }
+        }
+    }
+    s:STATE_WAKE_ISLAND = {
+        region_state:USS = {
+            create_pop = {
+                culture = yankee
+                size = 1000
+            }
+        }
+    }
+    s:STATE_ANTARCTIC_ISLANDS = {
+        region_state:AUZ = {
+            create_pop = {
+                culture = australian
+                size = 100
+            }
+        }
+        region_state:FRC = {
+            create_pop = {
+                culture = french
+                size = 4000
+            }
+        }
+        region_state:SAF = {
+            create_pop = {
+                culture = british
+                size = 300
+            }
+        }
+    }
+    s:STATE_MARIANA_ISLANDS = {
+        region_state:NMI = {
+            create_pop = {
+                culture = melanesian
+                religion = protestant
+                size = 38990
+            }
+            create_pop = {
+                culture = melanesian
+                size = 2300
+            }
+        }
+    }
+    s:STATE_PALAU = {
+        region_state:PLA = {
+            create_pop = {
+                culture = melanesian
+                religion = protestant
+                size = 18230
+            }
+            create_pop = {
+                culture = melanesian
+                religion = sunni
+                size = 4500
+            }
+        }
+    }
+    s:STATE_PITCAIRN = {
+        region_state:PTC = {
+            create_pop = {
+                culture = british
+                size = 470
+            }
+        }
+    }
+    s:STATE_COOK_ISLANDS = {
+        region_state:COO = {
+            create_pop = {
+                culture = polynesian
+                religion = protestant
+                size = 17450
+            }
+            create_pop = {
+                culture = polynesian
+                size = 1290
+            }
+        }
+    }
+    s:STATE_KIRIBATI = {
+        region_state:KIR = {
+            create_pop = {
+                culture = polynesian
+                religion = protestant
+                size = 36870
+            }
+            create_pop = {
+                culture = catholic
+                religion = protestant
+                size = 67680
+            }
+            create_pop = {
+                culture = polynesian
+                size = 20000
+            }
+        }
+    }
+    s:STATE_TOKELAU = {
+        region_state:TKL = {
+            create_pop = {
+                culture = polynesian
+                religion = protestant
+                size = 14990
+            }
+            create_pop = {
+                culture = polynesian
+                size = 1290
+            }
+        }
+    }
+    s:STATE_NIUE = {
+        region_state:NIU = {
+            create_pop = {
+                culture = polynesian
+                religion = protestant
+                size = 19370
+            }
+            create_pop = {
+                culture = polynesian
+                size = 250
+            }
+        }
+    }
+    s:STATE_WALLIS = {
+        region_state:WFT = {
+            create_pop = {
+                culture = polynesian
+                religion = catholic
+                size = 64840
+            }
+            create_pop = {
+                culture = polynesian
+                size = 2870
+            }
+        }
+    }
+    s:STATE_GUINEA_ISLANDS = {
+        region_state:SAO = {
+            create_pop = {
+                religion = catholic
+                culture = fang
+                size = 180100
+            }
+            create_pop = {
+                culture = fang
+                size = 20640
+            }
+            create_pop = {
+                culture = fulbe
+                size = 20340
+            }
+        }
+        region_state:EQG = {
+            create_pop = {
+                culture = fulbe
+                religion = catholic
+                size = 351200
+            }
+            create_pop = {
+                culture = equatorial_bantu
+                religion = catholic
+                size = 262150
+            }
+            create_pop = {
+                culture = equatorial_bantu
+                size = 60050
+            }
+        }
+    }
+    s:STATE_AR_RUTBA = {
+        region_state:IRQ = {
+            create_pop = {
+                culture = mashriqi
+                size = 1111500
+            }
+            create_pop = {
+                culture = bedouin
+                size = 193980
+            }
+        }
+        region_state:SYR = {
+            create_pop = {
+                culture = mashriqi
+                size = 98750
+            }
+        }
+        region_state:JOR = {
+            create_pop = {
+                culture = mashriqi
+                size = 115240
+            }
+            create_pop = {
+                culture = bedouin
+                size = 10230
+            }
+        }
+    }
+    s:STATE_KRALOVEC = {
+        region_state:RSF = {
+            create_pop = {
+                culture = russian
+                size = 611200
+            }
+            create_pop = {
+                culture = lithuanian
+                size = 41020
+            }
+            create_pop = {
+                culture = polish
+                size = 320100
+            }
+            create_pop = {
+                culture = north_german
+                size = 18000
+            }
+        }
+        region_state:LIT = {
+            create_pop = {
+                culture = russian
+                size = 30450
+            }
+            create_pop = {
+                culture = lithuanian
+                size = 120420
+            }
+            create_pop = {
+                culture = polish
+                size = 24500
+            }
+            create_pop = {
+                culture = north_german
+                size = 6350
+            }
+        }
+    }
+    s:STATE_BIALYSTOK = {
+        region_state:POL = {
+            create_pop = {
+                culture = polish
+                size = 851000
+            }
+            create_pop = {
+                culture = byelorussian
+                size = 652100
+            }
+        }
+    }
+    s:STATE_MUKACHEVO = {
+        region_state:UKR = {
+            create_pop = {
+                culture = ukrainian
+                size = 845010
+            }
+            create_pop = {
+                culture = slovak
+                size = 312680
+            }
+        }
+    }
+    s:STATE_SOUTH_GEORGIA = {
+        region_state:ENG = {
+            create_pop = {
+                culture = british
+                size = 320
+            }
+        }
+    }
+    s:STATE_SAINT_HELENA = {
+        region_state:ENG = {
+            create_pop = {
+                culture = british
+                size = 44390
+            }
+        }
+    }
+    s:STATE_ASCENSION = {
+        region_state:ENG = {
+            create_pop = {
+                culture = british
+                size = 8060
+            }
+        }
+    }
+    s:STATE_TRISTAN_DA_CUNHA = {
+        region_state:ENG = {
+            create_pop = {
+                culture = british
+                size = 2380
+            }
+        }
+    }
+    s:STATE_BOUVET = {
+        region_state:NRW = {
+            create_pop = {
+                culture = norwegian
+                size = 100
+            }
+        }
+    }
+    s:STATE_SVALBARD = {
+        region_state:SVJ = {
+            create_pop = {
+                culture = norwegian
+                size = 25040
+            }
+        }
+    }
+    s:STATE_CLIPPERTON = {
+        region_state:FRC = {
+            create_pop = {
+                culture = french
+                size = 100
+            }
+        }
+    }
+    s:STATE_HELIGO = {
+        region_state:GER = {
+            create_pop = {
+                culture = north_german
+                size = 3150
+            }
+            create_pop = {
+                culture = frisian
+                size = 4510
+            }
+            create_pop = {
+                culture = danish
+                size = 2820
+            }
+            create_pop = {
+                culture = british
+                size = 1070
+            }
+        }
+    }
+    s:STATE_VLASENICA = {
+        region_state:BOS = {
+            create_pop = {
+                culture = bosniak
+                size = 142510
+            }
+            create_pop = {
+                culture = serb
+                size = 356120
+            }
+            create_pop = {
+                culture = croat
+                size = 53410
+            }
+        }
+    }
+    s:STATE_BANJA_LUKA = {
+        region_state:BOS = {
+            create_pop = {
+                culture = bosniak
+                size = 144210
+            }
+            create_pop = {
+                culture = serb
+                size = 518410
+            }
+            create_pop = {
+                culture = croat
+                size = 181450
+            }
+        }
+    }
+    s:STATE_LIVNO = {
+        region_state:BOS = {
+            create_pop = {
+                culture = bosniak
+                size = 198450
+            }
+            create_pop = {
+                culture = serb
+                size = 87940
+            }
+            create_pop = {
+                culture = croat
+                size = 201440
+            }
+        }
+    }
+    s:STATE_PETSAMO = {
+        region_state:RSF = {
+            create_pop = {
+                culture = russian
+                size = 4110
+            }
+            create_pop = {
+                culture = ugrian
+                size = 9510
+            }
+            create_pop = {
+                culture = finnish
+                size = 18510
+            }
+        }
+    }
+    s:STATE_SAAREHIIU = {
+        region_state:EST = {
+            create_pop = {
+                culture = estonian
+                size = 42510
+            }
+        }
+    }
+    s:STATE_PARNU = {
+        region_state:EST = {
+            create_pop = {
+                culture = estonian
+                size = 118840
+            }
+            create_pop = {
+                culture = finnish
+                size = 29610
+            }
+            create_pop = {
+                culture = russian
+                size = 31510
+            }
+        }
+    }
+    s:STATE_TARTU = {
+        region_state:EST = {
+            create_pop = {
+                culture = estonian
+                size = 154210
+            }
+            create_pop = {
+                culture = russian
+                size = 98110
+            }
+        }
+    }
+    s:STATE_REZEKNE = {
+        region_state:LAT = {
+            create_pop = {
+                culture = estonian
+                size = 52140
+            }
+            create_pop = {
+                culture = latvian
+                size = 341540
+            }
+            create_pop = {
+                culture = russian
+                size = 189440
+            }
+        }
+    }
+    s:STATE_KURZEME = {
+        region_state:LAT = {
+            create_pop = {
+                culture = swedish
+                size = 41120
+            }
+            create_pop = {
+                culture = north_german
+                size = 23610
+            }
+            create_pop = {
+                culture = latvian
+                size = 749410
+            }
+            create_pop = {
+                culture = russian
+                size = 4520
+            }
+        }
+    }
+    s:STATE_SIAULIAI = {
+        region_state:LIT = {
+            create_pop = {
+                culture = lithuanian
+                size = 861120
+            }
+            create_pop = {
+                culture = russian
+                size = 26540
+            }
+        }
+    }
+    s:STATE_VILNIUS = {
+        region_state:LIT = {
+            create_pop = {
+                culture = lithuanian
+                size = 747710
+            }
+            create_pop = {
+                culture = russian
+                size = 108770
+            }
+            create_pop = {
+                culture = byelorussian
+                size = 89450
+            }
+            create_pop = {
+                culture = polish
+                size = 195840
+            }
+        }
+    }
+    s:STATE_TURKU = {
+        region_state:FNL = {
+            create_pop = {
+                culture = finnish
+                size = 944710
+            }
+            create_pop = {
+                culture = russian
+                size = 99810
+            }
+            create_pop = {
+                culture = swedish
+                size = 487410
+            }
+        }
+    }
+    s:STATE_KESKI_SUOMI = {
+        region_state:FNL = {
+            create_pop = {
+                culture = finnish
+                size = 620140
+            }
+            create_pop = {
+                culture = russian
+                size = 1840
+            }
+            create_pop = {
+                culture = swedish
+                size = 4840
+            }
+        }
+    }
+    s:STATE_VAASA = {
+        region_state:FNL = {
+            create_pop = {
+                culture = finnish
+                size = 624540
+            }
+        }
+    }
+    s:STATE_FINNMARK = {
+        region_state:NRW = {
+            create_pop = {
+                culture = finnish
+                size = 21440
+            }
+            create_pop = {
+                culture = sami
+                size = 68740
+            }
+            create_pop = {
+                culture = norwegian
+                size = 218440
+            }
+        }
+        region_state:FNL = {
+            create_pop = {
+                culture = finnish
+                size = 7810
+            }
+            create_pop = {
+                culture = sami
+                size = 10470
+            }
+            create_pop = {
+                culture = norwegian
+                size = 1040
+            }
+        }
+    }
+    s:STATE_NORDLAND = {
+        region_state:NRW = {
+            create_pop = {
+                culture = sami
+                size = 184470
+            }
+            create_pop = {
+                culture = norwegian
+                size = 415220
+            }
+        }
+    }
+    s:STATE_JAMTLAND = {
+        region_state:SWD = {
+            create_pop = {
+                culture = swedish
+                size = 81440
+            }
+            create_pop = {
+                culture = norwegian
+                size = 42110
+            }
+        }
+    }
+    s:STATE_HALAIB = {
+        region_state:EGY = {
+            create_pop = {
+                culture = misri
+                size = 5290
+            }
+        }
+        region_state:SDN = {
+            create_pop = {
+                culture = misri
+                size = 6110
+            }
+            create_pop = {
+                culture = sudanese
+                size = 6780
+            }
+        }
+    }
+    s:STATE_PRINCE_EDWARD_ISLAND = {
+        region_state:CAN = {
+            create_pop = {
+                culture = anglo_canadian
+                size = 153300
+            }
+        }
+    }
+    s:STATE_NOVA_SCOTIA = {
+        region_state:CAN = {
+            create_pop = {
+                culture = anglo_canadian
+                size = 932240
+            }
+        }
+    }
+    s:STATE_HAIDA_GWAII = {
+        region_state:CAN = {
+            create_pop = {
+                culture = anglo_canadian
+                size = 4210
+            }
+        }
+    }
+    s:STATE_VANCOUVER_ISLAND = {
+        region_state:CAN = {
+            create_pop = {
+                culture = anglo_canadian
+                size = 759690
+            }
+        }
+    }
+    s:STATE_SKANDERNA = {
+        region_state:SWD = {
+            create_pop = {
+                culture = sami
+                size = 32140
+            }
+            create_pop = {
+                culture = swedish
+                size = 16480
+            }
+        }
+    }
+    s:STATE_JOTUNHEIMEN = {
+        region_state:NRW = {
+            create_pop = {
+                culture = norwegian
+                size = 315420
+            }
+            create_pop = {
+                culture = swedish
+                size = 9780
+            }
+        }
+    }
+    s:STATE_KHARKIV = {
+        region_state:UKR = {
+            create_pop = {
+                culture = ukrainian
+                size = 3154780
+            }
+            create_pop = {
+                culture = russian
+                size = 844120
+            }
+            create_pop = {
+                culture = byelorussian
+                size = 351420
+            }
+            create_pop = {
+                culture = tatar
+                size = 105410
+            }
+            create_pop = {
+                culture = circassian
+                size = 38140
+            }
+        }
+    }
+    s:STATE_SUMY = {
+        region_state:UKR = {
+            create_pop = {
+                culture = ukrainian
+                size = 984150
+            }
+            create_pop = {
+                culture = russian
+                size = 121400
+            }
+            create_pop = {
+                culture = byelorussian
+                size = 484150
+            }
+            create_pop = {
+                culture = tatar
+                size = 21540
+            }
+            create_pop = {
+                culture = circassian
+                size = 84510
+            }
+            create_pop = {
+                culture = gagauz
+                size = 11540
+            }
+        }
+    }
+    s:STATE_KHMELNYT = {
+        region_state:UKR = {
+            create_pop = {
+                culture = ukrainian
+                size = 2845110
+            }
+            create_pop = {
+                culture = russian
+                size = 121400
+            }
+            create_pop = {
+                culture = byelorussian
+                size = 152100
+            }
+            create_pop = {
+                culture = polish
+                size = 365010
+            }
+            create_pop = {
+                culture = circassian
+                size = 84510
+            }
+            create_pop = {
+                culture = gagauz
+                size = 10230
+            }
+        }
+    }
+    s:STATE_ZAPORIZH = {
+        region_state:UKR = {
+            create_pop = {
+                culture = ukrainian
+                size = 1851410
+            }
+            create_pop = {
+                culture = russian
+                size = 120140
+            }
+            create_pop = {
+                culture = byelorussian
+                size = 84560
+            }
+            create_pop = {
+                culture = circassian
+                size = 103650
+            }
+            create_pop = {
+                culture = gagauz
+                size = 20140
+            }
+        }
+    }
+    s:STATE_ZHYTOMYR = {
+        region_state:UKR = {
+            create_pop = {
+                culture = ukrainian
+                size = 1851410
+            }
+            create_pop = {
+                culture = russian
+                size = 84510
+            }
+            create_pop = {
+                culture = byelorussian
+                size = 214510
+            }
+            create_pop = {
+                culture = polish
+                size = 485210
+            }
+            create_pop = {
+                culture = lithuanian
+                size = 201450
+            }
+            create_pop = {
+                culture = circassian
+                size = 74510
+            }
+        }
+    }
+    s:STATE_ODESA = {
+        region_state:UKR = {
+            create_pop = {
+                culture = ukrainian
+                size = 1448840
+            }
+            create_pop = {
+                culture = russian
+                size = 102340
+            }
+            create_pop = {
+                culture = byelorussian
+                size = 84850
+            }
+            create_pop = {
+                culture = bulgarian
+                size = 101210
+            }
+            create_pop = {
+                culture = romanian
+                size = 185210
+            }
+            create_pop = {
+                culture = tatar
+                size = 140120
+            }
+            create_pop = {
+                culture = gagauz
+                size = 32060
+            }
+        }
+    }
+    s:STATE_VICIEBSK = {
+        region_state:BYL = {
+            create_pop = {
+                culture = ukrainian
+                size = 54120
+            }
+            create_pop = {
+                culture = russian
+                size = 40510
+            }
+            create_pop = {
+                culture = byelorussian
+                size = 784810
+            }
+            create_pop = {
+                culture = tatar
+                size = 60140
+            }
+        }
+    }
+    s:STATE_HRODNO = {
+        region_state:BYL = {
+            create_pop = {
+                culture = ukrainian
+                size = 124510
+            }
+            create_pop = {
+                culture = russian
+                size = 325410
+            }
+            create_pop = {
+                culture = byelorussian
+                size = 901540
+            }
+            create_pop = {
+                culture = lithuanian
+                size = 102510
+            }
+        }
+    }
+    s:STATE_MAZYR = {
+        region_state:BYL = {
+            create_pop = {
+                culture = ukrainian
+                size = 201540
+            }
+            create_pop = {
+                culture = russian
+                size = 20150
+            }
+            create_pop = {
+                culture = byelorussian
+                size = 442100
+            }
+        }
+    }
+    s:STATE_HAIYA = {
+        region_state:SDN = {
+            create_pop = {
+                culture = sudanese
+                size = 1201540
+            }
+            create_pop = {
+                culture = misri
+                size = 401240
+            }
+        }
+    }
+    s:STATE_KARIMA = {
+        region_state:EGY = {
+            create_pop = {
+                culture = sudanese
+                size = 2100
+            }
+            create_pop = {
+                culture = misri
+                size = 14510
+            }
+        }
+        region_state:SDN = {
+            create_pop = {
+                culture = sudanese
+                size = 681410
+            }
+            create_pop = {
+                culture = misri
+                size = 281410
+            }
+        }
+    }
+    s:STATE_SOMA = {
+        region_state:ETH = {
+            create_pop = {
+                culture = amhara
+                size = 3000140
+            }
+            create_pop = {
+                culture = tigray
+                size = 2144100
+            }
+            create_pop = {
+                culture = somali
+                size = 6711410
+            }
+        }
+    }
+    s:STATE_CHUBUT = {
+        region_state:ARG = {
+            create_pop = {
+                culture = platinean
+                size = 548740
+            }
+            create_pop = {
+                culture = patagonian
+                size = 365140
+            }
+            create_pop = {
+                culture = welsh
+                size = 232140
+            }
+        }
+    }
+    s:STATE_NEUQUEN = {
+        region_state:ARG = {
+            create_pop = {
+                culture = platinean
+                size = 784520
+            }
+            create_pop = {
+                culture = patagonian
+                size = 201450
+            }
+        }
+    }
+}

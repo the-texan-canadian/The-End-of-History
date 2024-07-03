@@ -1,0 +1,13 @@
+﻿l_english:
+
+ # Diversity & Sexuality Traits, Why not? Have to represent the modern world correctly
+
+ disability:0 "Disabilty"
+ disability_desc:0 "This character has a disability that can effect their daily life."
+ 
+ asexual:0 "Asexual"
+ asexual_desc:0 "This character does not feel sexual attraction all that often and will prefer a life void of it."
+ transgender:0 "Transgender"
+ transgender_desc:0 "This character experiences a mismatch between their body & mind and will seek treatments to transition to their correct sex."
+ homosexual:0 "Homosexual"
+ homosexual_desc:0 "This character feels sexual attraction to those of the same sex as them."

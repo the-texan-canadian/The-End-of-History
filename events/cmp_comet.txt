@@ -1,0 +1,80 @@
+﻿namespace = cmp_comet
+
+# Comet EUIV Easter Egg
+cmp_comet.1 = {
+	type = country_event
+	placement = ROOT
+	
+	title = cmp_comet.1.t
+	desc = cmp_comet.1.d
+	flavor = cmp_comet.1.f
+	
+	event_image = {
+		video = "gfx/event_pictures/comet-event.bk2"
+	}
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+	on_opened_soundeffect = "event:/SFX/Events/europenorthamerica/gold_prospectors"
+
+	icon = "gfx/interface/icons/invention_icons/analytical_philosophy.dds"
+	
+	duration = 3
+	
+	trigger = {
+		NOR = {
+			has_modifier = comet_sighting
+			has_modifier = comet_sighting_intelligentsia
+			has_modifier = comet_sighting_devout
+		}
+		NOT = {
+			has_variable = comet_sighted_flag
+		}
+		game_date >= 2023.1.31
+	}
+
+	immediate = {
+		set_variable = comet_sighted_flag
+	}
+
+	option = { # A precious Shine in the abyss...
+		name = cmp_comet.1.a
+		default_option = yes
+		
+		add_modifier = {
+			name = comet_sighting
+			months = 12
+		}
+	}
+
+	option = { # As Studious as can be...
+		name = cmp_comet.1.b
+		highlighted_option = yes
+		
+		add_modifier = {
+			name = comet_sighting_intelligentsia
+			months = 12
+		}
+		
+		trigger = {
+			ig:ig_intelligentsia = {
+				is_in_government = yes
+			}
+		}
+	}
+	
+	option = { # An Omen of times to come...
+		name = cmp_comet.1.c
+		highlighted_option = yes
+		
+		add_modifier = {
+			name = comet_sighting_devout
+			months = 12
+		}
+		
+		trigger = {
+			ig:ig_devout = {
+				is_in_government = yes
+			}
+		}
+	}
+}

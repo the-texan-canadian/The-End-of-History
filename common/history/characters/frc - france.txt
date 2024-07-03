@@ -1,0 +1,8 @@
+﻿CHARACTERS = {
+	c:FRC ?= {
+		# Presidents
+		create_character = {
+			template = FRC_jacques_chirac
+		}
+	}
+}

@@ -1,0 +1,25 @@
+﻿### Germany character template file ###
+
+## game start interest group leaders ##
+
+GER_gerhard_schorder = {
+	first_name = Gerhard
+	last_name = Schroder
+	historical = yes
+	ruler = yes
+	birth_date = 1944.04.7
+	dna = dna_gerhard_schroder
+	interest_group = ig_trade_unions
+	ideology = ideology_paternalistic
+	traits = {
+		charismatic
+		ambitious
+		innovative
+	}
+	on_created = {
+
+	}
+	trait_generation = {
+		# nothing!
+	}
+}

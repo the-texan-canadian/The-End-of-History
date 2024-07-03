@@ -1,0 +1,23 @@
+﻿### Russia character template file ###
+
+### Presidents
+
+RSF_vladimir_putin = { #Ya Boy Putin
+	first_name = Vladimir
+	last_name = Putin
+	historical = yes
+	interest_group = ig_reactionaries
+	ideology = ideology_authoritarian
+	ruler = yes
+	birth_date = 1952.10.7
+	dna = dna_vladimir_putin
+	traits = {
+		arrogant 
+		ambitious
+		imposing
+		meticulous
+	}
+	trait_generation = {
+
+	}
+}

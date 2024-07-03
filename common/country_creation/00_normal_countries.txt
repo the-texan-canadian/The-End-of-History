@@ -1,0 +1,385 @@
+﻿POL = {
+	
+	states = {
+		STATE_MAZOVIA
+		STATE_BIALYSTOK
+		STATE_LUBUSZ
+		STATE_POMERANIA
+		STATE_WEST_PRUSSIA
+		STATE_EAST_PRUSSIA
+		STATE_POSEN
+		STATE_SILESIA
+		STATE_GREATER_POLAND
+		STATE_LESSER_POLAND
+		STATE_WEST_GALICIA
+		STATE_KRALOVEC
+	}
+	
+	required_num_states = 6
+
+	ai_will_do = { always = no }
+	
+}
+LIT = {
+	
+	states = {
+		STATE_SIAULIAU
+		STATE_VILNIUS
+		STATE_LITHUANIA
+	}
+	
+	required_num_states = 3
+
+	ai_will_do = { always = no }
+	
+}
+LAT = {
+	
+	states = {
+		STATE_REZEKNE
+		STATE_KURZEME
+		STATE_LATVIA
+	}
+	
+	required_num_states = 3
+
+	ai_will_do = { always = no }
+	
+}
+EST = {
+	
+	states = {
+		STATE_SAAREHIIU
+		STATE_PARNU
+		STATE_TARTU
+		STATE_ESTONIA
+	}
+	
+	required_num_states = 3
+
+	ai_will_do = { always = no }
+	
+}
+OST = {
+	
+	states = {
+		STATE_TYROL
+		STATE_STYRIA
+		STATE_AUSTRIA
+		STATE_SOUTH_TYROL
+		STATE_VADUZ
+	}
+	
+	required_num_states = 3
+
+	ai_will_do = { always = no }
+	
+}
+HRV = {
+	
+	provinces = { x36B2E3 xF0A040 xB061C0 x71A0C0 xB39050 xF021C0 xB339EC xEFA0C0 xF9421B x11A0E0 x70DF00 x6D8BC6 x71A041 x458E4C x124D73 x51A021 x106020 x13318D xDA817B x80CF00 x1A4DF9 x902161 x906121 x1E7362 xF06101 xD021A0 xAC2DD3 x5F13FD x9021E0 }
+
+	ai_will_do = { always = no }
+	
+}
+SVK = {
+	
+	states = {
+		STATE_WEST_SLOVAKIA
+		STATE_EAST_SLOVAKIA
+		STATE_MUKACHEVO
+	}
+	
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+	
+}
+CZC = {
+	
+	states = {
+		STATE_BOHEMIA
+		STATE_MORAVIA
+	}
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+	
+}
+HUN = {
+	
+	states = {
+		STATE_CENTRAL_HUNGARY
+		STATE_TRANSDANUBIA
+	}
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+	
+}
+BOS = {
+	
+	states = {
+		STATE_BOSNIA
+		STATE_LIVNO
+		STATE_BANJA_LUKA
+		STATE_VLASENICA
+	}
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+	
+}
+SVN = {
+	
+	provinces = { x124D73 xA709B7 x31E041 x792B8A xB0E040 x44F127 x3060BF x56C78A }
+
+	ai_will_do = { always = no }
+	
+}
+GGZ = {
+	
+	provinces = { x8955DF }
+
+	ai_will_do = { always = no }
+	
+}
+TNT = {
+	
+	provinces = { xB5123B }
+
+	ai_will_do = { always = no }
+	
+}
+ICE = {
+	
+	states = {
+		STATE_ICELAND
+	}
+
+	ai_will_do = { always = no }
+	
+}
+FAO = {
+	
+	states = {
+		STATE_FAROYAR
+	}
+
+	ai_will_do = { always = no }
+	
+}
+GRN = {
+	
+	states = {
+		STATE_GREENLAND
+	}
+
+	ai_will_do = { always = no }
+	
+}
+SCO = {
+	
+	states = {
+		STATE_HIGHLANDS
+		STATE_LOWLANDS
+	}
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+	
+}
+NIR = {
+	
+	states = {
+		STATE_ULSTER
+	}
+
+	ai_will_do = { always = no }
+	
+}
+CYM = {
+	
+	states = {
+		STATE_WALES
+	}
+
+	ai_will_do = { always = no }
+	
+}
+IRE = {
+	
+	states = {
+		STATE_ULSTER
+		STATE_MUNSTER
+		STATE_CONNAUGHT
+		STATE_LEINSTER
+	}
+	
+	required_num_states = 3
+
+	ai_will_do = { always = no }
+	
+}
+LIE = {
+	
+	states = {
+		STATE_VADUZ
+	}
+
+	ai_will_do = { always = no }
+	
+}
+MGR = {
+	
+	states = {
+		STATE_MONTENEGRO
+	}
+
+	ai_will_do = { always = no }
+	
+}
+ADR = {
+	
+	states = {
+		STATE_ANDORRA
+	}
+
+	ai_will_do = { always = no }
+	
+}
+ALB = {
+	
+	states = {
+		STATE_ALBANIA
+	}
+
+	ai_will_do = { always = no }
+	
+}
+NMC = {
+	
+	states = {
+		STATE_SKOPIA
+	}
+
+	ai_will_do = { always = no }
+	
+}
+KOS = {
+	
+	provinces = { xB852BB x45E06A xD02161 xA5D3A9 }
+
+	ai_will_do = { always = no }
+	
+}
+SRB = {
+	
+	provinces = { x62A730 xAC083C x18B761 x9DFFAF x4773E6 xD021E0 x334B53 xEDBA20 x4B1F45 x90A061 x9061A0 x74F1F4 x40AF95 x3B6092 xF9E78E x10A060 x4D115A xC347D8 x626998 x902161 x901B70 x9E1AD1 x11E021 x77143D }
+
+	ai_will_do = { always = no }
+	
+}
+UKR = {
+	
+	states = {
+		STATE_EAST_GALICIA
+		STATE_VOLHYNIA
+		STATE_MUKACHEVO
+		STATE_ZHYTOMYR
+		STATE_CRIMEA
+		STATE_KHMELNYT
+		STATE_CHERSON
+		STATE_ODESA
+		STATE_BESSARABIA
+		STATE_KIEV
+		STATE_SUMY
+		STATE_KHARKIV
+		STATE_LUHANSK
+		STATE_ZAPORIZH
+	}
+	
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+	
+}
+GEO = {
+	
+	states = {
+		STATE_GREATER_CAUCASUS
+	}
+
+	ai_will_do = { always = no }
+	
+}
+AZB = {
+	
+	states = {
+		STATE_AZERBAIJAN
+	}
+
+	ai_will_do = { always = no }
+	
+}
+ARM = {
+	
+	states = {
+		STATE_ARMENIA
+	}
+
+	ai_will_do = { always = no }
+	
+}
+CBD = {
+	
+	states = {
+		STATE_CAMBODIA
+	}
+
+	ai_will_do = { always = no }
+	
+}
+LAS = {
+	
+	states = {
+		STATE_LAOS
+	}
+
+	ai_will_do = { always = no }
+	
+}
+COM = {
+	
+	provinces = { x606ce0 x539d7f x91938f }
+
+	ai_will_do = { always = no }
+	
+}
+MYT = {
+	
+	provinces = { xfdbfdf }
+
+	ai_will_do = { always = no }
+	
+}
+REU = {
+	
+	provinces = { xd690e0 }
+
+	ai_will_do = { always = no }
+	
+}
+MRT = {
+	
+	provinces = { xd0e090 }
+
+	ai_will_do = { always = no }
+	
+}

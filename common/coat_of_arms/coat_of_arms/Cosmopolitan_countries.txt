@@ -1,0 +1,7826 @@
+FRC = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{0 38 84}
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = rgb{116 17 38}
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+BEL = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MGI = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = rgb{1 74 160}
+		color2 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_soyombo_modern.dds"
+		color1 = "yellow_light"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.175 0.5 }
+			rotation = 0
+		}
+	}
+}
+PRC = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_stars_china.png"
+		color1 = "yellow_light"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.3 }
+			rotation = 0
+		}
+	}
+}
+JPN = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+BNG = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green_dark"
+	
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.4 0.5 }
+			rotation = 0
+		}
+	}
+}
+PLA = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "yellow_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.4 0.5 }
+			rotation = 0
+		}
+	}
+}
+MCN = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_stars_micronesia.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NMI = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 0 51 161 }
+	
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_nmi.png"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GUA = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_border_thin.png"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_guam.png"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MSL = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_msh.png"
+		color1 = "white"
+		color2 = "orange"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+BGV = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_frame_circle_roundel_triangles.dds"
+		color1 = "white"
+		color2 = "white"
+		color3 = rgb { 59 205 55}
+		instance =
+		{
+			scale = { 0.66 0.66 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.93 0.93 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_crest_bougainville.png"
+		color1 = "white"
+		color2 = "red_light"
+		instance =
+		{
+			scale = { 0.66 0.66 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SLM = 
+{
+	pattern = "pattern_per_bend_senester.dds"
+	color1 = rgb { 0 65 167 }
+	color2 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_bend_sinister_thin.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.15 0.15 }
+			position = { 0.15 0.25 }
+		}
+		instance =
+		{
+			scale = { 0.15 0.15 }
+			position = { 0.3 0.25 }
+		}
+		instance =
+		{
+			scale = { 0.15 0.15 }
+			position = { 0.15 0.475 }
+		}
+		instance =
+		{
+			scale = { 0.15 0.15 }
+			position = { 0.3 0.475 }
+		}
+		instance =
+		{
+			scale = { 0.15 0.15 }
+			position = { 0.225 0.3625 }
+		}
+	}
+}
+BUH = 
+{
+	pattern = "pattern_per_bend_senester.dds"
+	color1 = "yellow"
+	color2 = "orange"
+	
+	colored_emblem =
+	{
+		texture = "ce_dragon_bhutan.dds"
+		color1 = "white"
+		color2 = "white"
+		color3 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ROK = 
+{
+	pattern = "pattern_per_bend_senester.dds"
+	color1 = "green"
+	color2 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_bend_sinister.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+DRK = 
+{
+	pattern = "pattern_per_bend_senester.dds"
+	color1 = "blue_light"
+	color2 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_bend_sinister_fimbriated.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.35 0.35 }
+			position = { 0.15 0.25 }
+			rotation = 0
+		}
+	}
+}
+NMB = 
+{
+	pattern = "pattern_per_bend_senester.dds"
+	color1 = "blue"
+	color2 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_bend_sinister_fimbriated.dds"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_11.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.35 0.35 }
+			position = { 0.15 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 0.25 0.25 }
+			position = { 0.15 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.2 0.2 }
+			position = { 0.15 0.25 }
+			rotation = 0
+		}
+	}
+}
+TNZ = 
+{
+	pattern = "pattern_per_bend_senester.dds"
+	color1 = "green_light"
+	color2 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_bend_sinister_fimbriated.dds"
+		color1 = "yellow"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+PPN = 
+{
+	pattern = "pattern_per_bend.dds"
+	color1 = "red"
+	color2 = "black"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_bird_raggiana.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.75 0.35 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_southern_cross_australia.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.25 0.65 }
+			rotation = 0
+		}
+	}
+}
+PLA = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "yellow_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.4 0.5 }
+			rotation = 0
+		}
+	}
+}
+NPA = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_nepal.png"
+		color1 = "blue"
+		color2 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SYC = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_seychelles.png"
+		color1 = "blue"
+		color2 = "yellow"
+		color3 = "red"
+		color4 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+IRE = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = "orange"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+PEU = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+BBD = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = rgb{ 255 199 38 }
+		color2 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_trident.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SVG = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1.3 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_rhombus_tri.png"
+		color1 = "green"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+TTG = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_bend_dexter_fimbriated.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CRC = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 0.5 }
+			position = { 0.5 0.7 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.15 0.15 }
+			position = { 0.125 0.175 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.2 0.2 }
+			position = { 0.2 0.325 }
+			rotation = 0
+		}
+	}
+}
+ARB = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 0.2 }
+			position = { 0.5 0.65 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 0.2 }
+			position = { 0.5 0.75 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_04.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.15 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_04.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.22 0.22 }
+			position = { 0.15 0.25 }
+			rotation = 0
+		}
+	}
+}
+GRE = 
+{
+	pattern = "pattern_per_saltire.dds"
+	color1 = "yellow"
+	color2 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_border_grenada.png"
+		color1 = "red"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CAN = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1.3 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_maple_leaf.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ITA = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ADR = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{13 53 111}
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = rgb{255 236 0}
+		color2 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_andorra.png"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MLV = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{13 53 111}
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow_light"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_moldova.png"
+		instance =
+		{
+			scale = { 0.55 0.55 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ROM = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow_light"
+		color2 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CHD = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MLI = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CDI = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "orange"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GIN = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GNB = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tribar.dds"
+		color1 = "yellow"
+		color2 = "green"
+		color3 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.15 0.5 }
+			rotation = 0
+		}
+	}
+}
+BNI = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tribar.dds"
+		color1 = "yellow"
+		color2 = "red"
+		color3 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MGS = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tribar.dds"
+		color1 = "red_light"
+		color2 = "green"
+		color3 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SNG = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GMB = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_fess_fimbriated.dds"
+		color1 = "blue"
+		color2 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SAF = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_pall_fimbriated.dds"
+		color1 = "white"
+		color2 = "green"
+		color3 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+AGO = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cogwheel_machete_angola.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MZB = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_fess_fimbriated.dds"
+		color1 = "black"
+		color2 = "white"
+		instance =
+		{
+			scale = { 1 1.1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 1 1.1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_mozambique.png"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.2 0.5 }
+			rotation = 0
+		}
+	}
+}
+UGA = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_doubled.dds"
+		color1 = "black"
+		color2 = "yellow"
+		color3 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+KYA = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "green_dark"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_fess_fimbriated.dds"
+		color1 = "red_dark"
+		color2 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_nguni_shield_04.dds"
+		color1 = "red_dark"
+		color2 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+TSW = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_fess_fimbriated.dds"
+		color1 = "black"
+		color2 = "white"
+		instance =
+		{
+			scale = { 1 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ESW = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_fess_fimbriated.dds"
+		color1 = "red"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 1 2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_esw.png"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NRI = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+RWA = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_02_bottom_karelia.dds"
+		color1 = "green"
+		color3 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_16.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.25 0.25 }
+			position = { 0.75 0.25 }
+			rotation = 0
+		}
+	}
+}
+BRU = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_per_saltire.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_saltire.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_06.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.2 0.2 }
+			position = { 0.4 0.6 }
+			rotation = 0
+		}
+		instance =
+		{
+			scale = { 0.2 0.2 }
+			position = { 0.6 0.6 }
+			rotation = 0
+		}
+		instance =
+		{
+			scale = { 0.2 0.2 }
+			position = { 0.5 0.35 }
+			rotation = 0
+		}
+	}
+}
+CMR = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "red"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CMR = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NMC = 
+{
+	pattern = "pattern_gironny_16_center.dds"
+	color1 = "red"
+	color2 = "yellow"
+	
+	colored_emblem =
+	{
+		texture = "ce_frame_circle.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_frame_circle.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SWS = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_switzerland.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+WFT = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_wallis_futuna.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NAU = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 0.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_14.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.3 0.7 }
+			rotation = 0
+		}
+	}
+}
+TNG = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cross_switzerland.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+}
+SMO = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_southern_cross_australia.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+}
+IGH = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_fimbriated_large.dds"
+		color1 = "green_light"
+		color2 = "white"
+		color3 = "green_light"
+		instance =
+		{
+			scale = { 1 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_circle_ingush.png"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CRM = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_fimbriated_large.dds"
+		color1 = "blue_light"
+		color2 = "white"
+		color3 = "red"
+		instance =
+		{
+			scale = { 1 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GGZ = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "red_light"
+		instance =
+		{
+			scale = { 1 0.4 }
+			position = { 0.5 0.8 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.15 0.15 }
+			position = { 0.2 0.2 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.15 0.15 }
+			position = { 0.2 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.15 0.15 }
+			position = { 0.35 0.35 }
+			rotation = 0
+		}
+	}
+}
+BOS = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_bosnia.png"
+		color1 = "white"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.55 0.5 }
+			rotation = 0
+		}
+	}
+}
+SLC = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_lucia.png"
+		color1 = "white"
+		color2 = "black"
+		color3 = "yellow_light"
+		instance =
+		{
+			scale = { 0.9 0.9 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GDL = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_guadeloupe.png"
+		color1 = "yellow"
+		color2 = "blue"
+		color3 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MQU = 
+{
+	pattern = "pattern_per_bend_senester.dds"
+	color1 = "red"
+	color2 = "black"
+	
+	
+	colored_emblem =
+	{
+		texture = "ce_bend_sinister.dds"
+		color1 = rgb {5 139 8}
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_bird_hummingbird.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.2 0.35 }
+			rotation = 0
+		}
+	}
+}
+GRK = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_09.dds"
+		color1 = rgb{10 69 124}
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_frame_square.dds"
+		color1 = rgb{10 69 124}
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.1825 0.2 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cross_couped.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.75 0.75 }
+			position = { 0.195 0.28 }
+			rotation = 0
+		}
+	}
+}
+URU = 
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_09.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_frame_square.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.1825 0.2 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_sun_uruguay.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.195 0.28 }
+			rotation = 0
+		}
+	}
+}
+GER =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "red"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+EST =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "black"
+		color2 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+LIT =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "green"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+HRV =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{212 0 0}
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_croatia.png"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.45 }
+			rotation = 0
+		}
+	}
+}
+MLT =
+{
+	pattern = "pattern_bicolour_horizontal.png"
+	color1 = "red"
+	color2 = "white"
+	
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_malta.png"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.15 0.2 }
+			rotation = 0
+		}
+	}
+}
+RSF =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = rgb{26 56 152}
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SLE =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = rgb {0 62 158}
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+LST =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_lesotho.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SAO =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "yellow"
+		color2 = "green_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 0.5 1 }
+			position = { 0.25 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.45 0.5 }
+			rotation = 0
+		}
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+ZZB =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "black"
+		color2 = "green_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MLW =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = rgb { 130 0 0 }
+		color2 = "green_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_sun_malawi.png"
+		color1 = rgb { 130 0 0 }
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.175 }
+			rotation = 0
+		}
+	}
+}
+ZZM =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_zzm.png"
+		color1 = "orange"
+		color2 = "black"
+		color3 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ZMB =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 0.4 }
+			position = { 0.5 0.225 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 -0.4 }
+			position = { 0.5 0.775 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.45 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_zimbabwe.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.15 0.5 }
+			rotation = 0
+		}
+	}
+}
+GBN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "yellow"
+		color2 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+EQG =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 0.5 1 }
+			position = { 0.25 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_eqg.png"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+VNM =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "yellow_light"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MAO =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{ 15 117 98 }
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_macao.png"
+		color1 = "white"
+		color2 = "yellow_light"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+HKN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_hong_kong.png"
+		color1 = "white"
+		color2 = "yellow_light"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+STK =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_kwae_modern.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.95 0.95 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_taegeu_modern.png"
+		color1 = "blue"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.95 0.95 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NRK =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_fimbriated_thin.dds"
+		color1 = "blue"
+		color2 = "red"
+		color3 = "blue"
+		instance =
+		{
+			scale = { 1 1.8 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 2.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.35 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.35 0.5 }
+			rotation = 0
+		}
+	}
+}
+IDA =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "orange"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_wheel_24.png"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+LAS =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "blue"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MAU =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "green"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crescent_star_06_pale.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NGR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "orange"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "orange"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GHA =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "yellow"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+BKF =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ROC =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_sun_taiwan.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+}
+CBD =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "red_light"
+		color2 = "blue"
+		instance =
+		{
+			scale = { 1 1.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_angkor_vat.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SGP =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_crescent_singapore.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+}
+IDS =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MYY =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_stripes_14.png"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_14.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.25 0.25 }
+			position = { 0.35 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crescent.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.35 0.35 }
+			position = { 0.2 0.25 }
+			rotation = 0
+		}
+	}
+}
+LBR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_11.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.3 0.455 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.25 0.25 }
+			position = { 0.15 0.25 }
+			rotation = 0
+		}
+	}
+}
+TGO =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_05.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 2 2 }
+			position = { 0.4 0.6 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.2 0.325 }
+			rotation = 0
+		}
+	}
+}
+ABZ =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_09.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 2 2 }
+			position = { 0.35 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stars_circle_13.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.18 0.28 }
+			rotation = 0
+		}
+	}
+}
+CAF =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_04.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripes_04.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripes_04.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripes_04.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 -0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_frame_square.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.3 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.2 0.2 }
+			position = { 0.2 0.15 }
+			rotation = 0
+		}
+	}
+}
+MYM =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow_dark"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "green_light"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+BII =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_stripe_brunei.png"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_brunei.png"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MLD =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_frame_square.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 0.55 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crescent_large.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SRI =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "orange"
+	
+	colored_emblem =
+	{
+		texture = "ce_border_ceylon.dds"
+		color1 = "red_dark"
+		color2 = "yellow"
+		color3 = "black"
+		instance =
+		{
+			scale = { 0.8 1 }
+			position = { 0.6 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_bicolor_left_third.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 0.3 1 }
+			position = { 0.15 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_lion_sri_lanka.dds"
+		color1 = "yellow"
+		color2 = "black"
+		color3 = "white"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.6 0.5 }
+			rotation = 0
+		}
+	}
+}
+BAH =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "yellow"
+		color2 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+KDS =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_16.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.75 0.75 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+IRQ =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_writing_iraq.png"
+		color1 = "green_light"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+LBN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_fimbriated_thin.dds"
+		color1 = "red"
+		color2 = "white"
+		color3 = "red"
+		instance =
+		{
+			scale = { 1 1.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_tree_lebanon.png"
+		color1 = "green_light"
+		instance =
+		{
+			scale = { 0.55 0.55 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+KUW =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall.png"
+		color1 = "black"
+		color2 = "green_light"
+		color3 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.835 0.5 }
+			rotation = 0
+		}
+	}
+}
+IRA =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_iran_tricolour.png"
+		color1 = "green_light"
+		color2 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_iran_symbol.png"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 0.35 0.35 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SYR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.33 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.66 0.5 }
+			rotation = 0
+		}
+	}
+}
+ZAP =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ZAP_anarch =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+FEJ =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{ 252 221 9 }
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_wiphala_half_1.png"
+		color1 = rgb{ 235 119 17 }
+		color2 = rgb{ 218 18 26 }
+		color3 = rgb{ 116 44 100 }
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_wiphala_half_2.png"
+		color1 = rgb{ 15 71 175 }
+		color2 = rgb{ 7 137 48 }
+		color3 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+FEJ_anarch =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{ 252 221 9 }
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_wiphala_half_1.png"
+		color1 = rgb{ 235 119 17 }
+		color2 = rgb{ 218 18 26 }
+		color3 = rgb{ 116 44 100 }
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_wiphala_half_2.png"
+		color1 = rgb{ 15 71 175 }
+		color2 = rgb{ 7 137 48 }
+		color3 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SIG =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.25 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+ROJ =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow_dark"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.15 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.325 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.675 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.85 0.5 }
+			rotation = 0
+		}
+	}
+}
+HON =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 0.12 0.12 }
+			position = { 0.35 0.425 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 0.12 0.12 }
+			position = { 0.35 0.575 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 0.12 0.12 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 0.12 0.12 }
+			position = { 0.65 0.425 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 0.12 0.12 }
+			position = { 0.65 0.575 }
+			rotation = 0
+		}
+	}
+}
+ARM =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = rgb{23 41 100}
+		color2 = rgb{252 180 0}
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NGK =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = rgb{23 41 100}
+		color2 = rgb{252 180 0}
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_artsakh.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+AZB =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "red"
+		color2 = "green_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crescent_star_08.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+DGS =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = rgb{26 56 152}
+		color2 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CCH =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "green_light"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_chechnya.png"
+		color1 = "white"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NOS =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "red"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SOS =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "orange"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+KCH =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{0 144 208}
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = rgb{0 112 48}
+		color2 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_karachay.png"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+KAB =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{0 144 208}
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = rgb{0 163 48}
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_kabardino.png"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+BYL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "red"
+		color2 = "green_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_belarus_detail.png"
+		color1 = "red"
+		color2 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ALB =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_eagle_albania.dds"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ATA =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_altay.png"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+TVA =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_tuva.png"
+		color1 = "white"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GEO =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_england.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cross_patty.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.225 0.195 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cross_patty.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.775 0.195 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cross_patty.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.225 0.805 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cross_patty.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.775 0.805 }
+			rotation = 0
+		}
+	}
+}
+ABK =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_07.dds"
+		color1 = "green_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 1.3 0.9 }
+			position = { 0.5 0.432 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_hand_abkhazia.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.22 }
+			rotation = 0
+		}
+	}
+}
+ADY =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{42 107 17}
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_stars_adygea.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.9 0.9 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SRB =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = rgb{50 53 120}
+		color2 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_serbia.png"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.375 0.465 }
+			rotation = 0
+		}
+	}
+}
+MGR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_checkered_orle.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 1.25 1.55 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_monte.png"
+		instance =
+		{
+			scale = { 0.65 0.65 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SVN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = rgb{10 13 140}
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_slovenia.png"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.25 0.35 }
+			rotation = 0
+		}
+	}
+}
+SVK =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = rgb{10 13 140}
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_shield_slovakia.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.67 0.65 }
+			position = { 0.3 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_slovakia.png"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.3 0.5 }
+			rotation = 0
+		}
+	}
+}
+BUL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "green"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NCD =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 0 65 147 }
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "red_light"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_coa_ncd.png"
+		color1 = "black"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.4 0.5 }
+			rotation = 0
+		}
+	}
+}
+LHN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = rgb{26 56 152}
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+DSK =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = rgb{26 56 152}
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+OST =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+HUN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = rgb{69 113 79}
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+BLZ =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "blue"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 2.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_belize.png"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GUT =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = "blue_light"
+		instance =
+		{
+			scale = { 1 2.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_guatemala.png"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ELS =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{ 0 29 143 }
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = rgb{ 0 29 143 }
+		instance =
+		{
+			scale = { 1 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_elsalvador.png"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+POR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_left_third.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_portugal.png"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.33 0.5 }
+			rotation = 0
+		}
+	}
+}
+SPA =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1.5 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_spain.png"
+		instance =
+		{
+			scale = { 0.45 0.45 }
+			position = { 0.33 0.5 }
+			rotation = 0
+		}
+	}
+}
+NIC =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{ 0 43 133 }
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = rgb{ 0 43 133 }
+		instance =
+		{
+			scale = { 1 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_nicaragua.png"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+COS =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{ 0 13 96 }
+	
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 2.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+THA =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 2.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SUR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{ 52 98 61 }
+	
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 2.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = rgb{ 131 3 31 }
+		instance =
+		{
+			scale = { 1 1.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+LIE =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_crown_liechtenstein.png"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.25 0.28 }
+			rotation = 0
+		}
+	}
+}
+HAI =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.25 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_haiti.png"
+		instance =
+		{
+			scale = { 0.25 0.25 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+DCR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_per_cross.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cross_england.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_dominicana.png"
+		instance =
+		{
+			scale = { 0.25 0.25 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+JAM =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_per_saltire.dds"
+		color1 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_saltire.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+DCA =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{ 4 106 56 }
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_cross_dominica.png"
+		color1 = "yellow"
+		color2 = "white"
+		color3 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_dominica.png"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MCO =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+POL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+UKR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb {0 84 165}
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CYM =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_dragon_wales.png"
+		instance =
+		{
+			scale = { 0.9 0.9 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NDL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{116 17 38}
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = rgb{33 70 139}
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+LUX =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{116 17 38}
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+DEN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_denmark.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+FNL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_denmark.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SWD =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{28 49 98}
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_denmark.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NIR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_england.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =	
+	{
+		texture = "te_cmp_ulster_banner.png"
+		instance =
+		{
+			scale = { 0.9 0.9 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GIB =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =	
+	{
+		texture = "te_cmp_gibraltar_castle.png"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GSY =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_england.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_cross_capped.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+JSY =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_saltire_fimbriated_02.dds"
+		color1 = "red_light"
+		color2 = "white"
+		color3 = "white"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crown_simple.dds"
+		color1 = "yellow"
+		color2 = "white"
+		color3 = "white"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.12 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_jersey.png"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.28 }
+			rotation = 0
+		}
+	}
+}
+SMN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =	
+	{
+		texture = "te_cmp_coa_san_marino.png"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+VAT =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =	
+	{
+		texture = "te_cmp_coa_vatican.png"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.66 0.5 }
+			rotation = 0
+		}
+	}
+}
+LAT =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red_dark"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal_fifth.dds"
+		color1 = "white"
+		color2 = "red_dark"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+TNT =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal_fifth.dds"
+		color1 = "green_light"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_hammer_sickle_star_ussr.dds"
+		color1 = rgb{255 237 0}
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.2 0.2 }
+			rotation = 0
+		}
+	}
+}
+TNT_communist =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal_fifth.dds"
+		color1 = "green_light"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_hammer_sickle_star_ussr.dds"
+		color1 = rgb{255 237 0}
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.2 0.2 }
+			rotation = 0
+		}
+	}
+}
+TRK =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_crescent_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.4 0.5 }
+			rotation = 0
+		}
+	}
+}
+NCY =
+{
+	pattern = "pattern_two_stripes_fimbriated.dds"
+	color1 = "white"
+	color2 = "red_light"
+	color3 = "red_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_crescent_star_05.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 0.76 0.76 }
+			position = { 0.4 0.5 }
+			rotation = 0
+		}
+	}
+}
+CYP =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	textured_emblem =
+	{
+		texture = "te_cmp_cyprus.png"
+		instance =
+		{
+			scale = { 0.89 0.89 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+KOS =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_kosovo.png"
+		color1 = "white"
+		color2 = "yellow_light"
+		instance =
+		{
+			scale = { 0.89 0.89 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SKN =
+{
+	pattern = "pattern_per_bend_senester.dds"
+	color1 = "green"
+	color2 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_bend_sinister_fimbriated.dds"
+		color1 = "yellow_light"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1.4 1.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_skn.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.5 0.5 }
+		}
+	}
+}
+ATB =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	
+	colored_emblem =
+	{
+		texture = "ce_star_16.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.4 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal_fifth.dds"
+		color1 = "blue_light"
+		color2 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_per_saltire.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 2 }
+			position = { 0.5 1 }
+		}
+	}
+}
+ADK =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_stars_pattern_a.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.35 0.35 }
+			position = { 0.74 0.25 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_cyprus_old.png"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.75 0.6 }
+			rotation = 0
+		}
+	}
+}
+MRR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_montserrat.png"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+PTC =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_pitcairn.png"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+COO =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stars_circle_13.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.75 0.75 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+NZL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_southern_cross_nzl.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.75 0.75 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+AUZ =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_southern_cross_australia.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.75 0.75 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+AGL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_anguilla.png"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+BMD =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_bermuda.png"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+FJI =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_fiji.png"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+TVL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_stars_tuvalu.png"
+		color1 = "yellow_light"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.7 0.5 }
+			rotation = 0
+		}
+	}
+}
+NIU =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.2 0.2 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+		instance =
+		{
+			scale = { 0.1 0.1 }
+			position = { 0.1 0.25 }
+			rotation = 0
+		}
+		instance =
+		{
+			scale = { 0.1 0.1 }
+			position = { 0.4 0.25 }
+			rotation = 0
+		}
+		instance =
+		{
+			scale = { 0.1 0.1 }
+			position = { 0.25 0.4 }
+			rotation = 0
+		}
+		instance =
+		{
+			scale = { 0.1 0.1 }
+			position = { 0.25 0.1 }
+			rotation = 0
+		}
+	}
+}
+CAY =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_cayman.png"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+BVI =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_bvi.png"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+TCI =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.25 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_turks.png"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+}
+UVI =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_uvi.png"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+USS =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_13.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_canton.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.54 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_us.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.25 0.265 }
+			rotation = 0
+		}
+	}
+}
+UPR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_05.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = rgb{ 0 23 167 }
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.54 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.15 0.54 }
+			rotation = 0
+		}
+	}
+}
+CUB =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_05.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.54 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.15 0.54 }
+			rotation = 0
+		}
+	}
+}
+WSH =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.54 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crescent_large.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.75 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.15 0.15 }
+			position = { 0.78 0.5 }
+			rotation = 0
+		}
+	}
+}
+JOR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_07.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.15 0.5 }
+			rotation = 0
+		}
+	}
+}
+VNT =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "black"
+		instance =
+		{
+			scale = { 1 0.75 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.425 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripe_center.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 0.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.375 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_shell_vanuatu.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.125 0.5 }
+			rotation = 0
+		}
+	}
+}
+SDN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1.2 1.2 }
+			position = { 0.5 0.54 }
+			rotation = 0
+		}
+	}
+}
+ABY =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.54 }
+			rotation = 0
+		}
+	}
+}
+ERI =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 2 1 }
+			position = { 1 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_eritrea.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.25 0.5 }
+			rotation = 0
+		}
+	}
+}
+DJI =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.2 0.5 }
+			rotation = 0
+		}
+	}
+}
+SML =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SSD =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_fimbriated_thin.dds"
+		color1 = "black"
+		color2 = "red"
+		color3 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = rgb{10 64 145}
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.54 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05_tilted.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.15 0.5 }
+			rotation = 0
+		}
+	}
+}
+UZB =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_fimbriated_thin.dds"
+		color1 = "blue_light"
+		color2 = "white"
+		color3 = "green_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_crescent_uzbek.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.25 0.175 }
+			rotation = 0
+		}
+	}
+}
+KYR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_sun_kyrgyz.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+KZK =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_sun_kazakh.png"
+		color1 = "yellow_light"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_kazakh.png"
+		color1 = "yellow_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SAU =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_saudi.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.9 0.9 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+AFH =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_taliban.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.9 0.9 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+BHR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_left_third_indented.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1.8 1.8 }
+			position = { 0.65 0.5 }
+			rotation = 0
+		}
+	}
+}
+QAT =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red_dark"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_left_third_indented.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.45 0.5 }
+			rotation = 0
+		}
+	}
+}
+YMN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SLL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_shahada.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.6 0.4 }
+			position = { 0.5 0.175 }
+			rotation = 0
+		}
+	}
+}
+MOR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_star_05_morocco.dds"
+		color1 = "green"
+		color2 = "red_light"
+		instance =
+		{
+			scale = { 0.7 0.7}
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+LBY =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "black"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1.2 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crescent_star_turkey.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+TUN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crescent.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.47 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05_tilted.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.25 0.25 }
+			position = { 0.55 0.5 }
+			rotation = 0
+		}
+	}
+}
+ALG =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_left.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crescent.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.47 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05_tilted.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.35 0.35 }
+			position = { 0.55 0.5 }
+			rotation = 0
+		}
+	}
+}
+EGY =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_egypt.png"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+TKM =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	textured_emblem =
+	{
+		texture = "te_cmp_detail_turkmenistan.png"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+TJK =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_crown_tajik.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ETH =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_detail_ethiopia.png"
+		color1 = "blue"
+		color2 = "yellow"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+HOU =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_iran_tricolour.png"
+		color1 = "red"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_scimitar.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.5 0.55 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05_tilted.dds"
+		color1 = "green"
+		instance =
+		{
+			scale = { 0.2 0.2 }
+			position = { 0.5 0.45 }
+			rotation = 0
+		}
+	}
+}
+UAE =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_bicolor_left_third.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+WPP =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_stripes_13.dds"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_bicolor_left_third.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.175 0.5 }
+			rotation = 0
+		}
+	}
+}
+PAK =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green_dark"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_left_third.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.4 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crescent_rotated.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.6 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05_tilted.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.2 0.2 }
+			position = { 0.7 0.35 }
+			rotation = 0
+		}
+	}
+}
+STC =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05_tilted.dds"
+		color1 = "red"
+		instance =
+		{
+			scale = { 0.35 0.35 }
+			position = { 0.2 0.5 }
+			rotation = 0
+		}
+	}
+}
+OMA =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "red_light"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_bicolor_left_third.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_oman.png"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.175 0.175 }
+			rotation = 0
+		}
+	}
+}
+FAO =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_norway.dds"
+		color1 = "blue_light"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+NRW =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_norway.dds"
+		color1 = "white"
+		color2 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ICE =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{28 79 128}
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_norway.dds"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GRN =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_circle_greenland.png"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SVJ =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_norway.dds"
+		color1 = "white"
+		color2 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ALA =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{28 89 138}
+	
+	colored_emblem =
+	{
+		texture = "ce_cross_norway.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ENG =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_union_flag.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+SCO =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_saltire.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CZC =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall.png"
+		color1 = "blue"
+		color2 = "white"
+		color3 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+PHP =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall.png"
+		color1 = "white"
+		color2 = rgb {0 73 126}
+		color3 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_sun_fili.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.9 0.9 }
+			position = { 0.2 0.5 }
+			rotation = 0
+		}
+	}
+}
+KIR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_sun.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.7 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_waves.dds"
+		color1 = "white"
+		color2 = "blue"
+		instance =
+		{
+			scale = { 2 2 }
+			position = { 0.5 0.6 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripe_bottom.dds"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.7 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_bird_kiribati.png"
+		color1 = "yellow"
+		color2 = "black"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.5 0.2 }
+			rotation = 0
+		}
+	}
+}
+TML =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1.2 1 }
+			position = { 0.6 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 0.75 1 }
+			position = { 0.375 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05_tilted.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.125 0.5 }
+			rotation = 0
+		}
+	}
+}
+ECU =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "blue"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 0.75 }
+			position = { 0.5 0.66 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_ecuador.png"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CMB =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "blue"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 0.75 }
+			position = { 0.5 0.66 }
+			rotation = 0
+		}
+	}
+}
+VZL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "blue"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stars_venezuela.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.7 0.7 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CHL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem =
+	{
+		texture = "ce_tribar.dds"
+		color1 = "white"
+		color2 = "red_light"
+		color3 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_stripe_bottom.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 1 2 }
+			position = { 0.5 0 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.175 0.275 }
+			rotation = 0
+		}
+	}
+}
+BOL =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "yellow"
+		color2 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_bolivia.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+ARG =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "blue_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_sun_argentina.png"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+BRZ =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem =
+	{
+		texture = "ce_rhombus.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_brazil.png"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+GUY =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "green_light"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { 2 1 }
+			position = { 1 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 2 1 }
+			position = { 0.95 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "black"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0 0.5 }
+			rotation = 0
+		}
+	}
+}
+ASM =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "red"
+		instance =
+		{
+			scale = { -2 1 }
+			position = { 0 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "white"
+		instance =
+		{
+			scale = { -2 1 }
+			position = { 0.1 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_asm.png"
+		instance =
+		{
+			scale = { 0.6 0.6 }
+			position = { 0.8 0.5 }
+			rotation = 0
+		}
+	}
+}
+PRG =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	textured_emblem =
+	{
+		texture = "te_cmp_coa_paraguay.png"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+EUR =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_stars_12_circle.png"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+CVD =
+{
+	pattern = "pattern_solid.tga"
+	color1 = rgb{ 0 58 122 }
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_stripe_triple.png"
+		color1 = "white"
+		color2 = "red"
+		instance =
+		{
+			scale = { 1 0.8 }
+			position = { 0.5 0.65 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_stars_10_circle.png"
+		color1 = "yellow_dark"
+		instance =
+		{
+			scale = { 0.8 0.8 }
+			position = { 0.4 0.65 }
+			rotation = 0
+		}
+	}
+}
+COM =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_quadcolor_horizontal.png"
+		color1 = "white"
+		color2 = "red"
+		color3 = rgb {23 68 135}
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "green_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crescent_large.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.5 0.5 }
+			position = { 0.15 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.11 0.11 }
+			position = { 0.25 0.35 }
+			rotation = 0
+		}
+		instance =
+		{
+			scale = { 0.11 0.11 }
+			position = { 0.25 0.45 }
+			rotation = 0
+		}
+		instance =
+		{
+			scale = { 0.11 0.11 }
+			position = { 0.25 0.55 }
+			rotation = 0
+		}
+		instance =
+		{
+			scale = { 0.11 0.11 }
+			position = { 0.25 0.65 }
+			rotation = 0
+		}
+	}
+}
+MYT =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem =
+	{
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "red_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_crescent_pale.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 0.4 0.4 }
+			position = { 0.5 0.25 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_star_gunelve.dds"
+		color1 = "yellow"
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.275 0.75 }
+			rotation = 0
+		}
+		instance =
+		{
+			scale = { 0.3 0.3 }
+			position = { 0.725 0.75 }
+			rotation = 0
+		}
+	}
+}
+REU =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay.png"
+		color1 = "blue"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_bottom.png"
+		color1 = "green"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_cmp_pall_overlay_fly.png"
+		color1 = "red"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+	colored_emblem =
+	{
+		texture = "ce_circle.dds"
+		color1 = "white"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}
+MRT =
+{
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	
+	colored_emblem =
+	{
+		texture = "ce_cmp_quadcolor_horizontal.png"
+		color1 = "blue"
+		color2 = "yellow_light"
+		color3 = "green_light"
+		instance =
+		{
+			scale = { 1 1 }
+			position = { 0.5 0.5 }
+			rotation = 0
+		}
+	}
+}

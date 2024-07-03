@@ -1,0 +1,19 @@
+﻿### Iraq character template file ###
+
+per_saddam_hussein_template = {
+    # Saddam Hussein
+    is_general = yes
+    first_name = Saddam
+    last_name = Hussein
+    historical = yes
+    ruler = yes
+    birth_date = 1937.4.28
+    dna = dna_saddam_hussein
+    interest_group = ig_armed_forces
+    ideology = ideology_authoritarian
+    traits = {
+		cruel
+        imperious
+		wrathful
+    }
+}

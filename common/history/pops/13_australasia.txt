@@ -1,0 +1,133 @@
+﻿POPS = {
+    s:STATE_NEW_SOUTH_WALES = {
+        region_state:AUZ = {
+            create_pop = {
+                culture = aborigine
+                size = 12354
+            }
+            create_pop = {
+                culture = australian
+                size = 5980410
+            }
+            create_pop = {
+                culture = melanesian
+                size = 21608
+            }
+        }
+    }
+    s:STATE_VICTORIA = {
+        region_state:AUZ = {
+            create_pop = {
+                culture = aborigine
+                size = 13111
+            }
+            create_pop = {
+                culture = melanesian
+                size = 13111
+            }
+            create_pop = {
+                culture = australian
+                size = 4702014
+            }
+            create_pop = {
+                culture = japanese
+                size = 2368
+            }
+        }
+    }
+
+    s:STATE_TASMANIA = {
+        region_state:AUZ = {
+            create_pop = {
+                culture = aborigine
+                size = 3265
+            }
+            create_pop = {
+                culture = australian
+                size = 460510
+            }
+        }
+    }
+    s:STATE_QUEENSLAND = {
+        region_state:AUZ = {
+            create_pop = {
+                culture = aborigine
+                size = 26840
+            }
+            create_pop = {
+                culture = australian
+                size = 3900652
+            }
+        }
+    }
+    s:STATE_SOUTH_AUSTRALIA = {
+        region_state:AUZ = {
+            create_pop = {
+                culture = australian
+                size = 1432510
+            }        
+            create_pop = {
+                culture = aborigine
+                size = 10231
+            }
+        }
+    }
+    s:STATE_WESTERN_AUSTRALIA = {
+        region_state:AUZ = {
+            create_pop = {
+                culture = aborigine
+                size = 32358
+            }
+            create_pop = {
+                culture = australian
+                size = 1896652
+            }
+        }
+    }
+    s:STATE_NORTHERN_TERRITORY = {
+        region_state:AUZ = {
+            create_pop = {
+                culture = aborigine
+                size = 50351
+            }
+            create_pop = {
+                culture = australian
+                size = 1813317
+            }
+        }
+    }
+    s:STATE_NORTH_ISLAND = {
+        region_state:NZL = {
+            create_pop = {
+                culture = kiwi
+                size = 3067510
+            }
+            create_pop = {
+                culture = maori
+                religion = protestant
+                size = 264870
+            }
+            create_pop = {
+                culture = maori
+                size = 100354
+            }
+        }
+    }
+    s:STATE_SOUTH_ISLAND = {
+        region_state:NZL = {
+            create_pop = {
+                culture = kiwi
+                size = 991502
+            }
+            create_pop = {
+                culture = maori
+                religion = protestant
+                size = 106351
+            }
+            create_pop = {
+                culture = maori
+                size = 201865
+            }
+        }
+    }
+}

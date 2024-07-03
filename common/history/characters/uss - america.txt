@@ -1,0 +1,8 @@
+﻿CHARACTERS = {
+	c:USS ?= {
+		create_character = {
+			template = usa_clinton_character_template
+		}
+
+	}
+}

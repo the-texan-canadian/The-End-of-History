@@ -1,0 +1,242 @@
+﻿### More Character Traits - Personality
+
+chess_master = {
+	type = skill
+	texture = "gfx/interface/icons/character_trait_icons/chess_master.dds"
+
+	character_modifier = {
+		character_popularity_add = 20
+	}
+
+	command_modifier = {
+		character_battle_condition_blunder_mult = -0.5
+        character_battle_condition_logistics_secured_mult = 0.5
+
+	}
+
+	agitator_modifier = {
+		interest_group_pol_str_mult = 0.025
+	}
+
+	interest_group_modifier = {
+		interest_group_pol_str_mult = 0.05
+	}
+	
+	country_modifier = {
+		country_law_enactment_time_mult = -0.1
+        country_prestige_mult = 0.05
+	}
+
+    possible = {
+		NOT = {
+			has_trait = senile
+		}
+		NOT = { age < define:NCharacters|ADULT_AGE }
+	}
+	
+	weight = {
+		value = 5	# Same base as vanilla traits such as Bandit and Explorer
+        if = {
+            limit = {
+                OR = {
+                    has_trait = academic
+					has_trait = inventor
+                    has_trait = engineer
+                }
+            }
+            multiply = 4
+        }
+		if = {
+			limit = {
+				OR = {
+					has_trait = absent_minded
+                    has_trait = arbitrary
+				}
+			}
+			divide = 5
+		}
+	}
+	
+	replace = {
+	}
+	
+	value = 2
+}
+
+philanthropist = {
+	type = skill
+	texture = "gfx/interface/icons/character_trait_icons/philanthropist.dds"
+
+	character_modifier = {
+		character_popularity_add = 30
+	}
+
+	command_modifier = {
+	}
+
+	agitator_modifier = {
+		interest_group_pol_str_mult = 0.05
+	}
+
+	interest_group_modifier = {
+		interest_group_pol_str_mult = 0.1
+	}
+	
+	country_modifier = {
+		interest_group_ig_devout_approval_add = 1
+        state_loyalists_from_sol_change_mult = 0.15
+	}
+
+    possible = {
+		NOR = {
+			has_trait = greedy
+            has_trait = grifter
+		}
+		NOT = { age < define:NCharacters|ADULT_AGE }
+	}
+	
+	weight = {
+		value = 5	# Same base as vanilla traits such as Bandit and Explorer
+        if = {
+			limit = {
+				OR = {
+					has_trait = kind
+                    has_trait = pious
+				}
+			}
+			multiply = 4
+		}
+		if = {
+			limit = {
+				OR = {
+					has_trait = expensive_tastes
+                    has_trait = cruel
+                    has_trait = hedonist
+                    has_trait = arbitrary
+                    has_trait = corrupt
+				}
+			}
+			divide = 3
+		}
+	}
+	
+	replace = {
+	}
+	
+	value = 2
+}
+
+artist = {
+	type = skill
+	texture = "gfx/interface/icons/character_trait_icons/artist.dds"
+
+	character_modifier = {
+		character_popularity_add = 25
+	}
+
+	command_modifier = {
+        character_battle_condition_good_visibility_mult = 0.5
+	}
+
+	interest_group_modifier = {
+	}
+	
+	country_modifier = {
+		country_prestige_add = 10
+	}
+
+	possible = {
+		NOT = { age < define:NCharacters|ADULT_AGE }
+	}
+	
+	weight = {
+		value = 5	# Same base as vanilla traits such as Bandit and Explorer
+        if = {
+			limit = {
+				OR = {
+					has_trait = opium_addiction
+                    has_trait = romantic
+                    has_trait = rambler
+                    has_trait = eccentric
+				}
+			}
+			multiply = 4
+		}
+		if = {
+			limit = {
+				OR = {
+					has_trait = reserved
+				}
+			}
+			divide = 3
+		}
+	}
+	
+	replace = {
+	}
+	
+	value = 2
+}
+
+well_travelled = {
+	type = skill
+	texture = "gfx/interface/icons/character_trait_icons/well_travelled.dds"
+
+	character_modifier = {
+        character_health_add = 0.1
+		character_popularity_add = 10
+	}
+
+	command_modifier = {
+        character_battle_condition_charted_terrain_mult = 0.5
+	}
+
+	interest_group_modifier = {
+	}
+	
+	country_modifier = {
+		interest_group_ig_landowners_approval_add = 1
+        country_expedition_events_explorer_mult = 0.1
+        country_influence_mult = 0.1
+	}
+
+    possible = {
+		NOR = {
+			has_trait = senile
+            has_trait = cancer
+		}
+		NOT = { age < define:NCharacters|ADULT_AGE }
+	}
+	
+	weight = {
+		value = 10  
+        if = {
+			limit = {
+				OR = {
+                    has_trait = rambler
+                    has_trait = military_officer
+                    has_trait = landed_elite
+                    has_trait = political_dynasty
+                    has_trait = religious_leader
+                    has_trait = soldier
+				}
+			}
+			multiply = 2
+		}
+		if = {
+			limit = {
+				OR = {
+					has_trait = cautious
+                    has_trait = labourer
+                    has_trait = farmer
+				}
+			}
+			divide = 5
+		}
+	}
+	
+	replace = {
+	}
+	
+	value = 2
+}

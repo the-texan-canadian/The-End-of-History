@@ -1,0 +1,31 @@
+﻿### France character template file ###
+
+## game start interest group leaders ##
+
+# Lizzie!
+ENG_elizabeth_windsor = {
+	first_name = Elizabeth
+	last_name = Windsor
+	historical = yes
+	ruler = yes
+	noble = yes
+	female = yes
+	birth_date = 1926.104.21
+	dna = dna_elizabeth_windsor
+	interest_group = ig_industrialists
+	ideology = ideology_moderate
+	culture = cu:british
+	traits = {
+		cautious
+		honorable
+		tactful
+	}
+	on_created = {
+	
+		set_variable = is_married 
+
+	}
+	trait_generation = {
+		# nothing!
+	}
+}
