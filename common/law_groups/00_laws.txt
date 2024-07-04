@@ -201,6 +201,16 @@ lawgroup_slavery = {
 	}	
 }
 
+lawgroup_social_fabric = {
+	law_group_category = human_rights
+	enactment_approval_mult = 2.0
+	base_enactment_days = 150
+	
+	progressive_movement_chance = 2
+	regressive_movement_chance = 0.25
+	
+}
+
 lawgroup_environmental = {
 	law_group_category = human_rights
 	enactment_approval_mult = 2.0
