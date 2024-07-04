@@ -5625,16 +5625,12 @@
 	}
 	s:STATE_DAGESTAN = {
 		create_state = {
-			country = c:DGS
-			owned_provinces = { x8FD393 xC09041 x019041 xDA8EF4 x0F3A99 x3B6A9E x84A24F x9F1D8F xC01040 xDA5ABE x72A1AB x537501 x9CDC20 xBD38C5 x4C6398 x01D041 }
+			country = c:RSF
+			owned_provinces = { x8FD393 xC09041 x019041 xDA8EF4 x0F3A99 x3B6A9E x84A24F x9F1D8F xC01040 xDA5ABE x72A1AB x537501 x9CDC20 xBD38C5 x4C6398 x01D041 x41D080 }
 		}
 		create_state = {
 			country = c:CCH
 			owned_provinces = { x0BDBDA x676C0E x205781 x27E9C3 x2C776A x5C32EA x9A6A44 }
-		}
-		create_state = {
-			country = c:IGH
-			owned_provinces = { x41D080 }
 		}
 		
 		add_homeland = north_caucasian
@@ -5642,27 +5638,12 @@
 	s:STATE_KUBAN = {
 		create_state = {
 			country = c:RSF
-			owned_provinces = { x7BCBCC x6BB70E xC88562 xBCF376 xD9CD9D xAF4F59 x522F82 xE6667B x80D080 x0E69B9 x33CC4D x6F16AA x469A99 x191F70 xF51533 x3C9016 x76B63F x405000 x594403 x708C99  x16687C x9809B7 x89223D x3E954F xBC214C x9BAE11 xF88EA3 xE2E1EB x7685A4 xD7EDE7 xEB2EF5 x9A01E0 xB3593A xE0E16A xF7D005 x929AC4 xA4B654 x32FEBA xAA6E62 x565E50 x6B2515 xC0D001 x9A43C9 x796017 x61D073 x9B5EC8 x1ED727 }
+			owned_provinces = { x7BCBCC x6BB70E xC88562 xBCF376 xD9CD9D xAF4F59 x522F82 xE6667B x80D080 x0E69B9 x33CC4D x6F16AA x469A99 x191F70 xF51533 x3C9016 x76B63F x405000 x594403 x708C99  x16687C x9809B7 x89223D x3E954F xBC214C x9BAE11 xF88EA3 xE2E1EB x7685A4 xD7EDE7 xEB2EF5 x9A01E0 xB3593A xE0E16A xF7D005 x929AC4 xA4B654 x32FEBA xAA6E62 x565E50 x6B2515 xC0D001 x9A43C9 x796017 x61D073 x9B5EC8 x1ED727 xD5648D x2E1A32 x2CF115 xB63D94 xC05001 x668A47 x23F98B x83F33B x56FD87 x2790A8 xEE9B40 x891792 x405080 x76C012 x793FDE }
 		} 
-		create_state = {
-			country = c:ADY
-			owned_provinces = { xD5648D x2E1A32 x2CF115 xB63D94 }
-		}
-		create_state = {
-			country = c:KCH
-			owned_provinces = { xC05001 x668A47 x23F98B x83F33B x56FD87 x2790A8 }
-		}
-		create_state = {
-			country = c:NOS
-			owned_provinces = { xEE9B40 } 
-		}
-		create_state = {
-			country = c:IGH
-			owned_provinces = { x891792 } 
-		}
+
 		create_state = {
 			country = c:KAB
-			owned_provinces = { x405080 x76C012 x793FDE } 
+			owned_provinces = {  } 
 		}
 		
 		add_homeland = russian 

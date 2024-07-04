@@ -1,6 +1,6 @@
 ﻿POPS = {
 	s:STATE_DAGESTAN = {
-		region_state:DGS = {
+		region_state:RSF = {
 			create_pop = {
 				culture = north_caucasian
 				size = 1400000
@@ -38,20 +38,6 @@
 				size = 50000
 			}
 		}
-		region_state:IGH = {
-			create_pop = {
-				culture = north_caucasian
-				size = 1000
-			}
-			create_pop = {
-				culture = chechen
-				size = 3000
-			}
-			create_pop = {
-				culture = russian
-				size = 5000
-			}
-		}
 	}
 	s:STATE_KUBAN = {
 		region_state:RSF = {
@@ -75,68 +61,7 @@
 				culture = mongol
 				size = 5000
 			}
-		}
-		region_state:IGH = {
-			create_pop = {
-				culture = north_caucasian
-				size = 5000
-			}
-			create_pop = {
-				culture = chechen
-				size = 25000
-			}
-			create_pop = {
-				culture = russian
-				size = 5000
-			}
-		}
-		region_state:ADY = {
-			create_pop = {
-				culture = circassian
-				size = 100000
-			}
-			create_pop = {
-				culture = north_caucasian
-				size = 50000
-			}
-			create_pop = {
-				culture = russian
-				size = 10000
-			}
-			create_pop = {
-				culture = armenian
-				size = 10000
-			}
-		}
-		region_state:KAB = {
-			create_pop = {
-				culture = north_caucasian
-				size = 100000
-			}
-			create_pop = {
-				culture = russian
-				size = 50000
-			}
-		}
-		region_state:KCH = {
-			create_pop = {
-				culture = karachay
-				size = 150000
-			}
-			create_pop = {
-				culture = circassian
-				size = 100000
-			}
-			create_pop = {
-				culture = north_caucasian
-				size = 50000
-			}
-			create_pop = {
-				culture = russian
-				size = 50000
-			}
-		}
-		region_state:NOS = {
+			
 			create_pop = {
 				culture = ossetic
 				size = 500000
@@ -145,6 +70,9 @@
 				culture = russian
 				size = 50000
 			}
+		}
+		region_state:NOS = {
+			
 		}
 	}
 	s:STATE_ARMENIA = {
