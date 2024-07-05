@@ -222,7 +222,7 @@
     s:STATE_WAKE_ISLAND = {
         region_state:USS = {
             create_pop = {
-                culture = yankee
+                culture = Mid-Atlantic
                 size = 1000
             }
         }

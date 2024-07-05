@@ -296,7 +296,7 @@
 		}
 		region_state:USS = {
 			create_pop = {
-				culture = yankee
+				culture = Mid-Atlantic
 				size = 1964
 			}
 		}

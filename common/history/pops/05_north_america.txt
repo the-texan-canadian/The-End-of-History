@@ -2,15 +2,15 @@
     s:STATE_DISTRICT_OF_COLUMBIA = {
         region_state:USS = { 
             create_pop = {
-                culture = yankee
+                culture = afro_american
                 size = 180000
             }       
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 40000
             }
             create_pop = {
-                culture = afro_american
+                culture = Mid-Atlantic
                 size = 400000
             }
         }
@@ -20,19 +20,15 @@
             create_pop = {
                 culture = cajun
                 religion = catholic
-                size = 450000
+                size = 500000
             }
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 1000000
             }
             create_pop = {
                 culture = afro_american
                 size = 1300000
-            }
-            create_pop = {
-                culture = yankee
-                size = 500000
             }
             create_pop = {
                 culture = afro_antillean
@@ -44,16 +40,21 @@
     s:STATE_NEW_YORK = {
         region_state:USS = {
             create_pop = {
-                culture = yankee
-                size = 12000000
+                culture = New_Yorker
+                size = 10000000
             }
             create_pop = {
-                culture = yankee
+                culture = Upstater
+                religion = catholic				
+                size = 2000000
+            }			
+            create_pop = {
+                culture = New_Yorker
                 religion = jewish
                 size = 1800000
             }
             create_pop = {
-                culture = yankee
+                culture = New_Yorker
                 religion = catholic
                 size = 500000
             }
@@ -67,7 +68,7 @@
             }
             create_pop = {
                 culture = iroquoian
-                size = 150000
+                size = 50000
             }
             create_pop = {
                 culture = amish
@@ -78,16 +79,15 @@
     s:STATE_VIRGINIA = { 
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Southern 
                 size = 1800000
             }
             create_pop = {
-                culture = yankee
+                culture = Mid-Atlantic
                 size = 2000000
             }
             create_pop = {
-                culture = dixie
-                religion = catholic
+                culture = Appalachian
                 size = 500000
             }
             create_pop = {
@@ -107,7 +107,7 @@
                 size = 2000
             }
             create_pop = {
-                culture = yankee
+                culture = Alaskan
                 size = 550000
             }
             create_pop = {
@@ -119,40 +119,28 @@
     s:STATE_WASHINGTON = {
         region_state:USS = {
             create_pop = {
-                culture = yankee
-                size = 4500000
+                culture = Cascadian
+                size = 4000000
             }       
             create_pop = {
-                culture = nez_perce
-                size = 15000
-            }
-            create_pop = {
-                culture = salish
-                size = 60000
+                culture = plateauen
+                size = 560000
             }
             create_pop = {
                 culture = han
-                size = 500000
+                size = 200000
             }
         }
     }
     s:STATE_OREGON = {
         region_state:USS = {
             create_pop = {
-                culture = yankee
-                size = 3500000
+                culture = Cascadian
+                size = 3000000
             }           
             create_pop = {
-                culture = salish
-                size = 20000
-            }
-            create_pop = {
-                culture = paiute
-                size = 15000
-            }
-            create_pop = {
-                culture = nez_perce
-                size = 15000
+                culture = plateauen
+                size = 500000
             }
             create_pop = {
                 culture = han
@@ -163,20 +151,8 @@
     s:STATE_IDAHO = {
         region_state:USS = {
             create_pop = {
-                culture = paiute
-                size = 10000
-            }
-            create_pop = {
-                culture = nez_perce
-                size = 15000
-            }
-            create_pop = {
-                culture = dixie
-                size = 800000
-            }
-            create_pop = {
-                culture = yankee
-                size = 1000000
+                culture = Mountain_Men
+                size = 1800000
             }
         }
     }
@@ -187,11 +163,11 @@
                 size = 2000
             }
             create_pop = {
-                culture = yankee
+                culture = Middle_American
                 size = 3000000
             }
             create_pop = {
-                culture = dixie
+                culture = Mountain_Men
                 size = 1000000
             }
             create_pop = {
@@ -215,11 +191,11 @@
                 size = 3000
             }
             create_pop = {
-                culture = yankee
+                culture = Mountain_Men
                 size = 400000
             }
             create_pop = {
-                culture = dixie
+                culture = Middle_American
                 size = 600000
             }
         }
@@ -235,12 +211,8 @@
                 size = 7000
             }
             create_pop = {
-                culture = yankee
-                size = 800000
-            }
-            create_pop = {
-                culture = dixie
-                size = 700000
+                culture = Mountain_Men
+                size = 1500000
             }
         }
     }
@@ -255,12 +227,8 @@
                 size = 4000
             }
             create_pop = {
-                culture = dixie
-                size = 600000
-            }
-            create_pop = {
-                culture = yankee
-                size = 800000
+                culture = Middle_American
+                size = 1400000
             }
         }
     }
@@ -275,12 +243,8 @@
                 size = 5000
             }
             create_pop = {
-                culture = dixie
-                size = 600000
-            }
-            create_pop = {
-                culture = yankee
-                size = 700000
+                culture = Middle_American
+                size = 1300000
             }
         }
     }
@@ -292,19 +256,15 @@
             }
             create_pop = {
                 culture = dakota
-                size = 30000
+                size = 3000
             }
             create_pop = {
                 culture = caddoan
                 size = 5000
             }
             create_pop = {
-                culture = dixie
-                size = 700000
-            }
-            create_pop = {
-                culture = yankee
-                size = 1000000
+                culture = Middle_American
+                size = 1700000
             }
         }
     }
@@ -319,12 +279,12 @@
                 size = 5000
             }
             create_pop = {
-                culture = dixie
+                culture = Mid-Western
                 size = 800000
             }
             create_pop = {
-                culture = yankee
-                size = 1000000
+                culture = Middle_American
+                size = 100000
             }
         }
     }
@@ -347,13 +307,10 @@
                 size = 20000
             }
             create_pop = {
-                culture = dixie
-                size = 2500000
+                culture = Middle_American
+                size = 4500000
             }
-            create_pop = {
-                culture = yankee
-                size = 2000000
-            }
+
         }
     }
     s:STATE_ARKANSAS = {
@@ -364,7 +321,7 @@
                 size = 100000
             }
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 1500000
             }
             create_pop = {
@@ -372,9 +329,13 @@
                 size = 1000000
             }
             create_pop = {
-                culture = yankee
-                size = 500000
+                culture = Lower_Ohio
+                size = 200000
             }
+            create_pop = {
+                culture = Ozarker
+                size = 300000
+            }			
             create_pop = {
                 culture = cherokee
                 size = 15000
@@ -389,16 +350,11 @@
                 size = 100000
             }
             create_pop = {
-                culture = dixie
-                size = 2500000
+                culture = Mid-Western
+                size = 2600000
             }
             create_pop = {
-                culture = yankee
-                size = 1000000
-            }
-            create_pop = {
-                culture = dixie
-                religion = catholic
+                culture = Lower_Ohio
                 size = 100000
             }
             create_pop = {
@@ -418,12 +374,8 @@
                 size = 20000
             }
             create_pop = {
-                culture = yankee
-                size = 2000000
-            }
-            create_pop = {
-                culture = dixie
-                size = 2000000
+                culture = Mid-Western
+                size = 4000000
             }
         }
     }
@@ -438,11 +390,11 @@
                 size = 30000
             }
             create_pop = {
-                culture = yankee
+                culture = NorthWoods
                 size = 4000000
             }
             create_pop = {
-                culture = dixie
+                culture = Great_Lakers
                 size = 2000000
             }
         }
@@ -450,15 +402,15 @@
     s:STATE_WISCONSIN = {
         region_state:USS = {
             create_pop = {
-                culture = algonquian
+                culture = Mid-Western
                 size = 50000
             }
             create_pop = {
-                culture = yankee
+                culture = Great_Lakers
                 size = 5000000
             }
             create_pop = {
-                culture = dixie
+                culture = NorthWoods
                 size = 2000000
             }
         }
@@ -466,16 +418,16 @@
     s:STATE_INDIANA = {
         region_state:USS = {
             create_pop = {
-                culture = yankee
-                size = 4500000
+                culture = Great_Lakers
+                size = 4300000
             }
             create_pop = {
-                culture = irish
+                culture = Mid-Western
                 size = 500000
             }
             create_pop = {
-                culture = dixie
-                size = 1000000
+                culture = Northern_Ohio
+                size = 1200000
             }
             create_pop = {
                 culture = afro_american
@@ -486,29 +438,12 @@
     s:STATE_MICHIGAN = {
         region_state:USS = {
             create_pop = {
-                culture = yankee
+                culture = Great_Lakers
                 size = 5000000
             }
             create_pop = {
-                culture = dixie
+                culture = Northern_Ohio
                 size = 1500000
-            }
-            create_pop = {
-                culture = algonquian
-                size = 20000
-            }
-            create_pop = {
-                culture = siouan
-                size = 20000
-            }
-            create_pop = {
-                culture = irish
-                size = 500000
-            }
-            create_pop = {
-                culture = yankee
-                religion = catholic
-                size = 20000
             }
             create_pop = {
                 culture = amish
@@ -519,11 +454,15 @@
     s:STATE_OHIO = {
         region_state:USS = {
             create_pop = {
-                culture = yankee
-                size = 8000000
+                culture = Great_Lakers
+                size = 4000000
+            }		
+            create_pop = {
+                culture = Northern_Ohio
+                size = 4000000
             }
             create_pop = {
-                culture = dixie
+                culture = Lower_Ohio
                 size = 2000000
             }
             create_pop = {
@@ -543,11 +482,11 @@
     s:STATE_KENTUCKY = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Lower_Ohio
                 size = 3000000
             }
             create_pop = {
-                culture = yankee
+                culture = Appalachian
                 size = 1000000
             }
             create_pop = {
@@ -559,111 +498,91 @@
     s:STATE_TENNESSEE = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Lower_Ohio
                 size = 3000000
             }
             create_pop = {
-                culture = cherokee
-                size = 20000
-            }
-            create_pop = {
-                culture = yankee
-                size = 1000000
+                culture = Appalachian
+                size = 1020000
             }
             create_pop = {
                 culture = afro_american
                 size = 1000000
-            }
-            create_pop = {
-                culture = irish
-                size = 100000
             }
         }
     }
     s:STATE_MISSISSIPPI = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
-                size = 3000000
+                culture = Southern
+                size = 3500000
             }
             create_pop = {
                 culture = afro_american
                 size = 1000000
-            }
-            create_pop = {
-                culture = yankee
-                size = 500000
             }
         }
     }
     s:STATE_ALABAMA = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
-                size = 2500000
+                culture = Southern 
+                size = 3500000
             }
             create_pop = {
                 culture = afro_american
                 size = 1500000
             }
             create_pop = {
-                culture = yankee
-                size = 1000000
-            }
-            create_pop = {
-                culture = cherokee
-                size = 20000
-            }
-            create_pop = {
-                culture = muskogean
-                size = 20000
+                culture = Appalachian
+                size = 120000
             }
         }
     }
     s:STATE_FLORIDA = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Floridian
                 size = 10000000
             }
             create_pop = {
-                culture = afro_american
-                size = 3000000
+                culture = afro_american 
+                size = 2000000
             }
+			create_pop = {
+                culture = cariban
+                size = 1000000
+            }			
             create_pop = {
-                culture = yankee
+                culture = Southern
                 size = 5000000
             }
             create_pop = {
                 culture = muskogean
-                size = 50000
+                size = 10000
             }
         }
     }
     s:STATE_GEORGIA = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
-                size = 5000000
+                culture = Southern 
+                size = 7000000
             }
             create_pop = {
-                culture = cherokee
+                culture = Appalachian
                 size = 50000
             }
             create_pop = {
                 culture = afro_american
                 size = 3000000
             }
-            create_pop = {
-                culture = yankee
-                size = 2000000
-            }
         }
     }
     s:STATE_WEST_VIRGINIA = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Appalachian
                 size = 1000000
             }
             create_pop = {
@@ -671,7 +590,7 @@
                 size = 500000
             }
             create_pop = {
-                culture = yankee
+                culture = Appalachian
                 size = 500000
             }
             create_pop = {
@@ -683,7 +602,7 @@
     s:STATE_MARYLAND = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 2000000
             }
             create_pop = {
@@ -691,7 +610,7 @@
                 size = 2000000
             }
             create_pop = {
-                culture = yankee
+                culture = Mid-Atlantic
                 size = 3000000
             }
         }
@@ -700,7 +619,7 @@
     s:STATE_DELAWARE = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 500000
             }
             create_pop = {
@@ -708,7 +627,7 @@
                 size = 200000
             }
             create_pop = {
-                culture = yankee
+                culture = Mid-Atlantic
                 size = 500000
             }
         }
@@ -717,7 +636,7 @@
     s:STATE_PENNSYLVANIA = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 500000
             }
             create_pop = {
@@ -729,25 +648,29 @@
                 size = 2000000
             }
             create_pop = {
-                culture = yankee
-                size = 6000000
+                culture = Appalachian
+                size = 3000000
+            }
+            create_pop = {
+                culture = Mid-Atlantic
+                size = 3000000
             }
         }
     }
     s:STATE_NEW_JERSEY = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
-                size = 500000
-            }
-            create_pop = {
                 culture = afro_american
                 size = 1500000
             }
             create_pop = {
-                culture = yankee
-                size = 8000000
+                culture = New_Yorker
+                size = 4500000
             }
+            create_pop = {
+                culture = Mid-Atlantic
+                size = 4000000
+            }			
             create_pop = {
                 culture = amish
                 size = 5000
@@ -757,7 +680,7 @@
     s:STATE_ILLINOIS = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Lower_Ohio
                 size = 500000
             }
             create_pop = {
@@ -765,15 +688,19 @@
                 size = 2000000
             }
             create_pop = {
-                culture = yankee
-                size = 6000000
+                culture = Great_Lakers
+                size = 4000000
+            }			
+            create_pop = {
+                culture = Northern_Ohio
+                size = 2000000
             }
         }
     }
     s:STATE_RHODE_ISLAND = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 5000
             }
             create_pop = {
@@ -781,7 +708,7 @@
                 size = 100000
             }
             create_pop = {
-                culture = yankee
+                culture = New_Englander
                 size = 800000
             }
         }
@@ -789,23 +716,27 @@
     s:STATE_CONNECTICUT = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 20000
             }
             create_pop = {
                 culture = afro_american
-                size = 500000
-            }
+                size = 50000
+            } 
             create_pop = {
-                culture = yankee
-                size = 2000000
-            }
+                culture = New_Englander
+                size = 187500 
+            }	
+            create_pop = {
+                culture = New_Yorker
+                size = 12500
+            }				
         }
     }
     s:STATE_MASSACHUSETTS = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 10000
             }
             create_pop = {
@@ -813,7 +744,7 @@
                 size = 1000000
             }
             create_pop = {
-                culture = yankee
+                culture = New_Englander
                 size = 6000000
             }
         }
@@ -821,7 +752,7 @@
     s:STATE_NEW_HAMPSHIRE = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 5000
             }
             create_pop = {
@@ -829,7 +760,7 @@
                 size = 50000
             }
             create_pop = {
-                culture = yankee
+                culture = New_Englander
                 size = 1000000
             }
         }
@@ -837,7 +768,7 @@
     s:STATE_VERMONT = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 500
             }
             create_pop = {
@@ -845,7 +776,7 @@
                 size = 10000
             }
             create_pop = {
-                culture = yankee
+                culture = New_Englander
                 size = 500000
             }
         }
@@ -853,7 +784,7 @@
     s:STATE_MAINE = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Southern
                 size = 500
             }
             create_pop = {
@@ -861,7 +792,7 @@
                 size = 50000
             }
             create_pop = {
-                culture = yankee
+                culture = New_Englander
                 size = 1000000
             }
         }
@@ -869,7 +800,7 @@
     s:STATE_NORTH_CAROLINA = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Southern 
                 size = 6000000
             }
             create_pop = {
@@ -877,7 +808,7 @@
                 size = 3000000
             }
             create_pop = {
-                culture = yankee
+                culture = Appalachian
                 size = 2000000
             }
         }
@@ -885,7 +816,7 @@
     s:STATE_UTAH = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Basinfolk
                 size = 800000
             }
             create_pop = {
@@ -893,7 +824,7 @@
                 size = 200000
             }
             create_pop = {
-                culture = yankee
+                culture = Mountain_Men
                 size = 1000000
             }
         }
@@ -901,44 +832,32 @@
     s:STATE_SOUTH_CAROLINA = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
-                size = 4000000
+                culture = Southern 
+                size = 5000000
             }
             create_pop = {
                 culture = afro_american
                 size = 1500000
-            }
-            create_pop = {
-                culture = yankee
-                size = 1000000
             }
         }
     }
     s:STATE_HAWAIIAN_ISLANDS = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
-                size = 5000
-            }
-            create_pop = {
                 culture = afro_american
                 size = 50000
             }
             create_pop = {
-                culture = yankee
-                size = 800000
+                culture = American_Hawaiian
+                size = 815000
             }
             create_pop = {
                 culture = hawaiian
-                size = 300000
+                size = 30000
             }
             create_pop = {
                 culture = han
-                size = 500000
-            }
-            create_pop = {
-                culture = british
-                size = 10000
+                size = 50000
             }
         }
     }
@@ -1175,19 +1094,15 @@
     s:STATE_TEXAS = {
         region_state:USS = {
             create_pop = {
-                culture = dixie
+                culture = Texan
                 size = 7000000
             }
             create_pop = {
-                culture = yankee
+                culture = Southern
                 size = 3000000
             }
             create_pop = {
                 culture = siouan
-                size = 100000
-            }
-            create_pop = {
-                culture = caddoan
                 size = 100000
             }
             create_pop = {
@@ -1199,16 +1114,8 @@
     s:STATE_NEVADA = {
         region_state:USS = {
             create_pop = {
-                culture = paiute
-                size = 50000
-            }
-            create_pop = {
-                culture = dixie
-                size = 1000000
-            }
-            create_pop = {
-                culture = yankee
-                size = 800000
+                culture = Basinfolk
+                size = 1800000
             }
             create_pop = {
                 culture = mexican
@@ -1216,7 +1123,7 @@
             }
             create_pop = {
                 culture = navajo
-                size = 100000
+                size = 10000
             }
             create_pop = {
                 culture = oodham
@@ -1228,7 +1135,7 @@
         region_state:USS = {
             create_pop = {
                 culture = oodham
-                size = 20000
+                size = 10000
             }
             create_pop = {
                 culture = mexican
@@ -1240,19 +1147,15 @@
             }
             create_pop = {
                 culture = navajo
-                size = 200000
-            }
-            create_pop = {
-                culture = apache
                 size = 100000
             }
             create_pop = {
-                culture = dixie
-                size = 4000000
+                culture = apache
+                size = 10000
             }
             create_pop = {
-                culture = yankee
-                size = 3000000
+                culture = Southwestern
+                size = 7000000
             }
         }
     }
@@ -1275,12 +1178,8 @@
                 size = 50000
             }
             create_pop = {
-                culture = dixie
-                size = 1000000
-            }
-            create_pop = {
-                culture = yankee
-                size = 1000000
+                culture = Southwestern
+                size = 2000000
             }
         }
     }
@@ -1292,19 +1191,31 @@
             }
             create_pop = {
                 culture = mexican
-                size = 6000000
+                size = 1000000
             }
             create_pop = {
-                culture = dixie
+                culture = SoCal
+                size = 1000000
+            }				
+            create_pop = {
+                culture = NorCal
+                size = 1000000
+            }			
+            create_pop = {
+                culture = Valleyan
                 size = 10000000
             }
             create_pop = {
-                culture = yankee
-                size = 15000000
+                culture = Bayfolk
+                size = 10000000
             }
             create_pop = {
+                culture = Southwestern
+                size = 5000000
+            }			
+            create_pop = {
                 culture = han
-                size = 2000000
+                size = 200000
             }
         }
     }
