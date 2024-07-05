@@ -1,4 +1,17 @@
 ﻿l_english:
+
+ # Social Fabric group
+ lawgroup_social_fabric:0 "Social Fabric"
+ lawgroup_social_fabric_desc:0 "The social fabric of a society encompasses the various laws and policies that dictate what society allows from the public space to the bedroom."
+ 
+ law_traditionalist_social_fabric:0 "Traditionalist Society"
+ law_traditionalist_social_fabric_desc:0 ""
+ 
+ law_moderate_social_fabric:0 "Moderate Society"
+ law_moderate_social_fabric_desc:0 ""
+ 
+ law_progressive_social_fabric:0 "Progressive Society"
+ law_progressive_social_fabric_desc:0 ""
   
  # Environmental Policies group
  lawgroup_environmental:0 "Environmental Policies"
