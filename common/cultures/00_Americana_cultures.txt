@@ -1,7 +1,7 @@
 ﻿New_Englander={
 	color= rgb{ 0 99 56 } # Brother John green
 	religion = protestant
-	traits = { anglophone Northeastern american_heritage european_heritage }
+	traits = { anglophone Northeastern american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -126,7 +126,7 @@
 Upstater={
 	color= rgb{ 105 110 77 } # Hudson green
 	religion = protestant
-	traits = { anglophone Northeastern american_heritage european_heritage }
+	traits = { anglophone Northeastern american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -251,7 +251,7 @@ Upstater={
 New_Yorker={
 	color= rgb{ 0 56 132 } # New York Blue
 	religion = protestant
-	traits = { anglophone Northeastern american_heritage european_heritage }
+	traits = { anglophone Northeastern american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -377,7 +377,7 @@ New_Yorker={
 Mid-Atlantic={
 	color= rgb{ 16 40 90 } # Chesapeake Blue
 	religion = protestant
-	traits = { anglophone Northeastern Mid-Atlantic american_heritage european_heritage }
+	traits = { anglophone Northeastern Mid-Atlantic american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -502,7 +502,7 @@ Mid-Atlantic={
 Appalachian={
 	color= rgb{ 0 56 132 } # New York Blue
 	religion = protestant
-	traits = { anglophone Dixieland american_heritage european_heritage }
+	traits = { anglophone Dixieland american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -627,7 +627,7 @@ Appalachian={
 Southern={
 	color=rgb{ 0 40 104 } # Confed blue
 	religion = catholic
-	traits = { anglophone Dixieland american_heritage european_heritage }
+	traits = { anglophone Dixieland american_culture_group european_heritage }
 	male_common_first_names = {
 		Andrew Alexander Atticus Alpheus Alfred Allen Arthur Augustus Archibald Algernon Ambrose Asa Arthur Angus Abner Auburn Archer Adam Arnold Amos Alben Alwyn
 		Braxton Basil Birkett Bushrod Benedict
@@ -745,7 +745,7 @@ Southern={
 Lower_Ohio={
 	color=rgb{ 103 198 176 } # Lower Ohio blue
 	religion = catholic
-	traits = { anglophone Dixieland american_heritage european_heritage }
+	traits = { anglophone Dixieland american_culture_group european_heritage }
 	male_common_first_names = {
 		Andrew Alexander Atticus Alpheus Alfred Allen Arthur Augustus Archibald Algernon Ambrose Asa Arthur Angus Abner Auburn Archer Adam Arnold Amos Alben Alwyn
 		Braxton Basil Birkett Bushrod Benedict
@@ -863,7 +863,7 @@ Lower_Ohio={
 Ozarker={
 	color=rgb{ 178 200 239 } # Ozark Blue
 	religion = catholic
-	traits = { anglophone Dixieland american_heritage european_heritage }
+	traits = { anglophone Dixieland american_culture_group european_heritage }
 	male_common_first_names = {
 		Andrew Alexander Atticus Alpheus Alfred Allen Arthur Augustus Archibald Algernon Ambrose Asa Arthur Angus Abner Auburn Archer Adam Arnold Amos Alben Alwyn
 		Braxton Basil Birkett Bushrod Benedict
@@ -981,7 +981,7 @@ Ozarker={
 Northern_Ohio={
 	color=rgb{ 0 28 90 } # Upper Ohio blue
 	religion = catholic
-	traits = { anglophone Great_Lakes_American american_heritage european_heritage }
+	traits = { anglophone Great_Lakes_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Andrew Alexander Atticus Alpheus Alfred Allen Arthur Augustus Archibald Algernon Ambrose Asa Arthur Angus Abner Auburn Archer Adam Arnold Amos Alben Alwyn
 		Braxton Basil Birkett Bushrod Benedict
@@ -1100,7 +1100,7 @@ Northern_Ohio={
 Great_Lakers={
 	color= rgb{ 8 38 66 } # Great Lakes Blue
 	religion = protestant
-	traits = { anglophone Great_Lakes_American american_heritage european_heritage }
+	traits = { anglophone Great_Lakes_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -1225,7 +1225,7 @@ Great_Lakers={
 Mid-Western={
 	color= rgb{ 15 136 179 } # Midwest Lake Blue
 	religion = protestant
-	traits = { anglophone Middle_Americana american_heritage european_heritage }
+	traits = { anglophone Middle_Americana american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -1350,7 +1350,7 @@ Mid-Western={
 NorthWoods={
 	color= rgb{ 50 78 117 } # New York Blue
 	religion = protestant
-	traits = { anglophone Great_Lakes_American american_heritage european_heritage }
+	traits = { anglophone Great_Lakes_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -1475,7 +1475,7 @@ NorthWoods={
 Middle_American={
 	color= rgb{ 163 193 219 } # Middle American Blue
 	religion = protestant
-	traits = { anglophone Middle_Americana american_heritage european_heritage }
+	traits = { anglophone Middle_Americana american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -1600,7 +1600,7 @@ Middle_American={
 Mountain_Men={
 	color= rgb{ 8 78 88 } # New York Blue
 	religion = protestant
-	traits = { anglophone Rocky_American american_heritage european_heritage }
+	traits = { anglophone Rocky_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -1725,7 +1725,7 @@ Mountain_Men={
 Basinfolk={
 	color= rgb{ 62 106 169 } # New York Blue
 	religion = protestant
-	traits = { anglophone Rocky_American american_heritage european_heritage }
+	traits = { anglophone Rocky_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -1850,7 +1850,7 @@ Basinfolk={
 Southwestern={
 	color= rgb{ 102 136 184 } # New York Blue
 	religion = protestant
-	traits = { anglophone Rocky_American american_heritage european_heritage }
+	traits = { anglophone Rocky_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -1975,7 +1975,7 @@ Southwestern={
 plateauen={
 	color= rgb{ 139 167 204 }
 	religion = protestant
-	traits = { anglophone Rocky_American american_heritage european_heritage }
+	traits = { anglophone Rocky_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -2100,7 +2100,7 @@ plateauen={
 Cascadian={
 	color= rgb{ 18 47 89 } # New York Blue
 	religion = protestant
-	traits = { anglophone Rocky_American Pacific_American american_heritage european_heritage }
+	traits = { anglophone Rocky_American Pacific_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -2225,7 +2225,7 @@ Cascadian={
 Bayfolk={
 	color= rgb{ 1 18 44 } # New York Blue
 	religion = protestant
-	traits = { anglophone Pacific_American american_heritage european_heritage }
+	traits = { anglophone Pacific_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -2350,7 +2350,7 @@ Bayfolk={
 Valleyan={
 	color= rgb{ 1 61 59 } # New York Blue
 	religion = protestant
-	traits = { anglophone Pacific_American american_heritage european_heritage }
+	traits = { anglophone Pacific_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -2475,7 +2475,7 @@ Valleyan={
 NorCal={
 	color= rgb{ 0 45 66 } # New York Blue
 	religion = protestant
-	traits = { anglophone Pacific_American american_heritage european_heritage }
+	traits = { anglophone Pacific_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -2600,7 +2600,7 @@ NorCal={
 SoCal={
 	color= rgb{ 0 77 76 } # New York Blue
 	religion = protestant
-	traits = { anglophone Pacific_American american_heritage european_heritage }
+	traits = { anglophone Pacific_American american_culture_group european_heritage }
 	male_common_first_names = {
 		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
 		Benjamin Bartholomew Byron Benedict Barnabas Bildad
@@ -2725,7 +2725,7 @@ SoCal={
 Texan={
 	color=rgb{ 0 39 104 } # Texan blue
 	religion = catholic
-	traits = { anglophone Dixieland american_heritage european_heritage }
+	traits = { anglophone Dixieland american_culture_group european_heritage }
 	male_common_first_names = {
 		Andrew Alexander Atticus Alpheus Alfred Allen Arthur Augustus Archibald Algernon Ambrose Asa Arthur Angus Abner Auburn Archer Adam Arnold Amos Alben Alwyn
 		Braxton Basil Birkett Bushrod Benedict
@@ -2843,7 +2843,7 @@ Texan={
 Floridian={
 	color=rgb{ 0 40 89 } # Confed blue
 	religion = catholic
-	traits = { anglophone Dixieland american_heritage european_heritage }
+	traits = { anglophone Dixieland american_culture_group european_heritage }
 	male_common_first_names = {
 		Andrew Alexander Atticus Alpheus Alfred Allen Arthur Augustus Archibald Algernon Ambrose Asa Arthur Angus Abner Auburn Archer Adam Arnold Amos Alben Alwyn
 		Braxton Basil Birkett Bushrod Benedict
@@ -2961,7 +2961,7 @@ Floridian={
 Alaskan={
 	color=rgb{ 0 40 89 } # Confed blue
 	religion = catholic
-	traits = { anglophone North_Western american_heritage european_heritage }
+	traits = { anglophone North_Western american_culture_group european_heritage }
 	male_common_first_names = {
 		Andrew Alexander Atticus Alpheus Alfred Allen Arthur Augustus Archibald Algernon Ambrose Asa Arthur Angus Abner Auburn Archer Adam Arnold Amos Alben Alwyn
 		Braxton Basil Birkett Bushrod Benedict
@@ -3079,7 +3079,7 @@ Alaskan={
 American_Hawaiian={
 	color=rgb{ 0 40 89 } # Confed blue
 	religion = catholic
-	traits = { anglophone North_Western american_heritage european_heritage }
+	traits = { anglophone North_Western american_culture_group european_heritage }
 	male_common_first_names = {
 		Andrew Alexander Atticus Alpheus Alfred Allen Arthur Augustus Archibald Algernon Ambrose Asa Arthur Angus Abner Auburn Archer Adam Arnold Amos Alben Alwyn
 		Braxton Basil Birkett Bushrod Benedict
@@ -3192,4 +3192,1258 @@ American_Hawaiian={
 	ethnicities = {
 		1 = caucasian
 	}
+}
+
+prairie_canadian={
+	color= rgb{ 39 64 34 }
+	religion = protestant
+	traits = { anglophone european_heritage }
+	male_common_first_names={
+		Albert
+		Alexander
+		Alfred
+		Angus
+		Archibald
+		Arthur
+		Charles
+		Christopher
+		Colin
+		David
+		Edmund
+		Frederick
+		George
+		Gordon
+		Hugh
+		James
+		John
+		Joseph
+		Mackenzie
+		Mark
+		Matthew
+		Michael
+		Nicholas
+		Norman
+		Patrick
+		Paul
+		Peter
+		Robert
+		Samuel
+		Simon
+		Sydney
+		Thomas
+		William
+	}
+	female_common_first_names = {
+		Agnes
+		Alice
+		Amelia
+		Anne
+		Berengera
+		Caroline
+		Charlotte
+		Clara
+		Clementina
+		Constance
+		Edith
+		Eleanor
+		Eliza
+		Ellen
+		Emily
+		Ethelwyn
+		Florence
+		Frances
+		Georgina
+		Grizelda
+		Harriet
+		Helena
+		Henriette
+		Hortense
+		Jane
+		Josephine
+		Julia
+		Katie
+		Lily
+		Louisa
+		Lucy
+		Margaret
+		Martha
+		Mary
+		Matilda
+		Pamelia
+		Pauline
+		Pearl
+		Rebecca
+		Rhoda
+		Rosanna
+		Sarah
+		Victoria
+		Virna
+	}	
+	noble_last_names = {
+		Abbott
+		Acheson
+		Bishop
+		Byng
+		Colborne
+		Hamilton-Temple-Blackwood
+		Kempt
+		Lambton
+		Lansdowne
+		Lennox
+		Lisgar
+		Lorne
+		Macdonald
+		Monck
+		Preston
+		Stanley
+		Thomson
+		Whitworth-Aylmer
+		Young
+	}
+	common_last_names={
+		Affleck
+		Armour
+		Bates
+		Beavan
+		Beckwith
+		Bernard
+		Bethune
+		Bishop
+		Blewett
+		Borden
+		Bowell
+		Bradford
+		Brown
+		Calder
+		Campbell
+		Caron
+		Churchill
+		Clark
+		Coleman
+		Conan
+		Corrigan
+		Crawford
+		Currie
+		Curzon
+		Cushing
+		Deeks
+		Dickey
+		Diggs
+		Dougall
+		Duncan
+		Field
+		Fleming
+		Garner
+		Graham
+		Guthrie
+		Harrison
+		Hayes
+		Herbert
+		Holmes
+		Hughes
+		Jennings
+		Jones
+		Katzmann
+		Kemp
+		Kennedy
+		King
+		Langton
+		Lawson
+		Lefevre
+		Leprohon
+		Mackenzie
+		MacNab
+		Maitland
+		McDonald
+		McIlwraith
+		McIsaac
+		McKellar
+		Merrick
+		Mewburn
+		Mitchell
+		Monthomery
+		Moodie
+		Morin
+		Mountcastle
+		Murray
+		Neil
+		Newhall
+		Panet
+		Parke
+		Patterson
+		Piers
+		Pope
+		Pottinger
+		Rae
+		Robertson
+		Rogers
+		Ross
+		Sedgewick
+		Shaw
+		Sheard
+		Sivell
+		Smith
+		Strong
+		Thompson
+		Tisdale
+		Tonge
+		Traill
+		Trenholme
+		Vail
+		Vining
+		Walker
+		Walshe
+		Wetherald
+	}
+	graphics = european
+	ethnicities = {
+		1 = caucasian
+	}
+}
+
+western_canadian={
+	color= rgb{ 65 102 58 }
+	religion = protestant
+	traits = { anglophone european_heritage }
+	male_common_first_names={
+		Albert
+		Alexander
+		Alfred
+		Angus
+		Archibald
+		Arthur
+		Charles
+		Christopher
+		Colin
+		David
+		Edmund
+		Frederick
+		George
+		Gordon
+		Hugh
+		James
+		John
+		Joseph
+		Mackenzie
+		Mark
+		Matthew
+		Michael
+		Nicholas
+		Norman
+		Patrick
+		Paul
+		Peter
+		Robert
+		Samuel
+		Simon
+		Sydney
+		Thomas
+		William
+	}
+	female_common_first_names = {
+		Agnes
+		Alice
+		Amelia
+		Anne
+		Berengera
+		Caroline
+		Charlotte
+		Clara
+		Clementina
+		Constance
+		Edith
+		Eleanor
+		Eliza
+		Ellen
+		Emily
+		Ethelwyn
+		Florence
+		Frances
+		Georgina
+		Grizelda
+		Harriet
+		Helena
+		Henriette
+		Hortense
+		Jane
+		Josephine
+		Julia
+		Katie
+		Lily
+		Louisa
+		Lucy
+		Margaret
+		Martha
+		Mary
+		Matilda
+		Pamelia
+		Pauline
+		Pearl
+		Rebecca
+		Rhoda
+		Rosanna
+		Sarah
+		Victoria
+		Virna
+	}	
+	noble_last_names = {
+		Abbott
+		Acheson
+		Bishop
+		Byng
+		Colborne
+		Hamilton-Temple-Blackwood
+		Kempt
+		Lambton
+		Lansdowne
+		Lennox
+		Lisgar
+		Lorne
+		Macdonald
+		Monck
+		Preston
+		Stanley
+		Thomson
+		Whitworth-Aylmer
+		Young
+	}
+	common_last_names={
+		Affleck
+		Armour
+		Bates
+		Beavan
+		Beckwith
+		Bernard
+		Bethune
+		Bishop
+		Blewett
+		Borden
+		Bowell
+		Bradford
+		Brown
+		Calder
+		Campbell
+		Caron
+		Churchill
+		Clark
+		Coleman
+		Conan
+		Corrigan
+		Crawford
+		Currie
+		Curzon
+		Cushing
+		Deeks
+		Dickey
+		Diggs
+		Dougall
+		Duncan
+		Field
+		Fleming
+		Garner
+		Graham
+		Guthrie
+		Harrison
+		Hayes
+		Herbert
+		Holmes
+		Hughes
+		Jennings
+		Jones
+		Katzmann
+		Kemp
+		Kennedy
+		King
+		Langton
+		Lawson
+		Lefevre
+		Leprohon
+		Mackenzie
+		MacNab
+		Maitland
+		McDonald
+		McIlwraith
+		McIsaac
+		McKellar
+		Merrick
+		Mewburn
+		Mitchell
+		Monthomery
+		Moodie
+		Morin
+		Mountcastle
+		Murray
+		Neil
+		Newhall
+		Panet
+		Parke
+		Patterson
+		Piers
+		Pope
+		Pottinger
+		Rae
+		Robertson
+		Rogers
+		Ross
+		Sedgewick
+		Shaw
+		Sheard
+		Sivell
+		Smith
+		Strong
+		Thompson
+		Tisdale
+		Tonge
+		Traill
+		Trenholme
+		Vail
+		Vining
+		Walker
+		Walshe
+		Wetherald
+	}
+	graphics = european
+	ethnicities = {
+		1 = caucasian
+	}
+}
+
+interior_canadian={
+	color= rgb{ 83 125 75 }
+	religion = protestant
+	traits = { anglophone european_heritage }
+	male_common_first_names={
+		Albert
+		Alexander
+		Alfred
+		Angus
+		Archibald
+		Arthur
+		Charles
+		Christopher
+		Colin
+		David
+		Edmund
+		Frederick
+		George
+		Gordon
+		Hugh
+		James
+		John
+		Joseph
+		Mackenzie
+		Mark
+		Matthew
+		Michael
+		Nicholas
+		Norman
+		Patrick
+		Paul
+		Peter
+		Robert
+		Samuel
+		Simon
+		Sydney
+		Thomas
+		William
+	}
+	female_common_first_names = {
+		Agnes
+		Alice
+		Amelia
+		Anne
+		Berengera
+		Caroline
+		Charlotte
+		Clara
+		Clementina
+		Constance
+		Edith
+		Eleanor
+		Eliza
+		Ellen
+		Emily
+		Ethelwyn
+		Florence
+		Frances
+		Georgina
+		Grizelda
+		Harriet
+		Helena
+		Henriette
+		Hortense
+		Jane
+		Josephine
+		Julia
+		Katie
+		Lily
+		Louisa
+		Lucy
+		Margaret
+		Martha
+		Mary
+		Matilda
+		Pamelia
+		Pauline
+		Pearl
+		Rebecca
+		Rhoda
+		Rosanna
+		Sarah
+		Victoria
+		Virna
+	}	
+	noble_last_names = {
+		Abbott
+		Acheson
+		Bishop
+		Byng
+		Colborne
+		Hamilton-Temple-Blackwood
+		Kempt
+		Lambton
+		Lansdowne
+		Lennox
+		Lisgar
+		Lorne
+		Macdonald
+		Monck
+		Preston
+		Stanley
+		Thomson
+		Whitworth-Aylmer
+		Young
+	}
+	common_last_names={
+		Affleck
+		Armour
+		Bates
+		Beavan
+		Beckwith
+		Bernard
+		Bethune
+		Bishop
+		Blewett
+		Borden
+		Bowell
+		Bradford
+		Brown
+		Calder
+		Campbell
+		Caron
+		Churchill
+		Clark
+		Coleman
+		Conan
+		Corrigan
+		Crawford
+		Currie
+		Curzon
+		Cushing
+		Deeks
+		Dickey
+		Diggs
+		Dougall
+		Duncan
+		Field
+		Fleming
+		Garner
+		Graham
+		Guthrie
+		Harrison
+		Hayes
+		Herbert
+		Holmes
+		Hughes
+		Jennings
+		Jones
+		Katzmann
+		Kemp
+		Kennedy
+		King
+		Langton
+		Lawson
+		Lefevre
+		Leprohon
+		Mackenzie
+		MacNab
+		Maitland
+		McDonald
+		McIlwraith
+		McIsaac
+		McKellar
+		Merrick
+		Mewburn
+		Mitchell
+		Monthomery
+		Moodie
+		Morin
+		Mountcastle
+		Murray
+		Neil
+		Newhall
+		Panet
+		Parke
+		Patterson
+		Piers
+		Pope
+		Pottinger
+		Rae
+		Robertson
+		Rogers
+		Ross
+		Sedgewick
+		Shaw
+		Sheard
+		Sivell
+		Smith
+		Strong
+		Thompson
+		Tisdale
+		Tonge
+		Traill
+		Trenholme
+		Vail
+		Vining
+		Walker
+		Walshe
+		Wetherald
+	}
+	graphics = european
+	ethnicities = {
+		1 = caucasian
+	}
+}
+
+north_mexican={
+	color=rgb{ 186 98 58 }
+	religion = catholic
+	traits = { hispanophone european_heritage }
+	male_common_first_names={
+		Adrian_2
+		Agustin
+		Ambrosio
+		Amilcar
+		Anastasio
+		Andres
+		Antonio
+		Bernardo
+		Blas
+		Dionisio
+		Eleuterio
+		Emeterio
+		Emiliano
+		Emilio
+		Enrique
+		Ernesto
+		Fausto
+		Felipe
+		Francisco
+		Francisco_Javier
+		Felix
+		Flavio
+		Gabriel
+		Gaspar
+		Genovevo
+		Gregorio
+		Ignacio
+		Jeronimo
+		Joaquin
+		Jesus
+		JosE_
+		Jose_Manuel
+		Jose_Maria
+		Juan
+		Juan_Bautista
+		Justo
+		Lazaro
+		Manuel
+		Mariano
+		Martin_2
+		Melchor
+		Miguel
+		Moises
+		Nicolas_2
+		Pablo
+		Pascual
+		Pedro
+		Policarpio
+		Porfirio
+		Ramon
+		Reynaldo
+		Ricardo
+		Romulo
+		Salvador
+		Sebastian
+		Tiburcio
+		Tomas
+		Valentin
+		Valeriano
+		Venustiano
+		Vicente
+		Victoriano
+		Alvaro
+		Angel
+	}
+	female_common_first_names = {
+		Carlota
+		Carmen
+		Camerina
+		Concepcion
+		Cristina
+		Eulalia
+		Gertrudis
+		Ignacia
+		Isabel
+		Josefa
+		Laureana
+		Leona
+		Luisa
+		Manuela
+		Maria
+		Mercedes
+		Rita
+		Teodora
+	}	
+	noble_last_names = {
+		Diaz_2
+		Huarte
+		de_Ampudia
+		de_Cos
+		de_Iturbide
+		Lerdo_de_Tejada
+		de_Romay
+		de_Terreros
+		de_Yermo
+	}
+	common_last_names={
+		Aceituno
+		Alarcon
+		Almonte
+		Arciniegas
+		Arguello
+		Arista
+		Ayanegui
+		Baranda
+		Barberena
+		Barragan
+		Berriozabal
+		Betanzos
+		Bocanegra
+		Bravo
+		Bustamante
+		Bustillos
+		Canalizo
+		Carracosa
+		Carranza
+		Carreon
+		Caserta
+		Castellanos
+		Ceron
+		Cervantes
+		Coello
+		Comonfort
+		Corona
+		Corra
+		Corral
+		Correa
+		Corzo
+		Couto
+		Echeverria
+		Escandon
+		Escobedo
+		Esquinca
+		Fagoaga
+		Farfan
+		Fernandez_del_Valle
+		Flores
+		Fuentes
+		Garza
+		Gonzalez
+		Guerrero
+		Godoy
+		Gomez
+		Hinojosa
+		Hoyos
+		Huerta
+		Kosterlitzky
+		Lara
+		Larrainzar
+		Lozada
+		Lopez_de_Santa_Anna
+		Magana
+		Magon
+		Maldonado
+		Martinez_del_Rio
+		Mejia
+		Miramon
+		Moguel
+		Molina
+		Muzquiz
+		Obregon
+		Ogazon
+		Ojeda
+		Ortega
+		Palacio
+		Palafox
+		Parada
+		Parres
+		Pedraza
+		Pimentel
+		Pineda
+		Pineiro
+		Preciado
+		Rabasa
+		Ramos
+		Reyes
+		Rincon_Gallardo
+		Robles
+		Rodriguez
+		Rojas
+		Ruiz_2
+		Salas
+		Sarmaniego_del_Castillo
+		Sanchez
+		Tajonar
+		Tovilla
+		Trejo
+		Utrilla
+		Villa
+		Villalobos
+		Vazquez
+		Vazquez_de_la_Cadena
+		Velasco
+		Woll
+		Zapata
+		Zaragoza
+		Zuloaga
+		Alvarez
+		Zimbron
+	}
+	ethnicities = {
+		1 = south_american
+	}
+	graphics = european
+}
+
+western_mexican={
+	color=rgb{ 186 98 58 }
+	religion = catholic
+	traits = { hispanophone european_heritage }
+	male_common_first_names={
+		Adrian_2
+		Agustin
+		Ambrosio
+		Amilcar
+		Anastasio
+		Andres
+		Antonio
+		Bernardo
+		Blas
+		Dionisio
+		Eleuterio
+		Emeterio
+		Emiliano
+		Emilio
+		Enrique
+		Ernesto
+		Fausto
+		Felipe
+		Francisco
+		Francisco_Javier
+		Felix
+		Flavio
+		Gabriel
+		Gaspar
+		Genovevo
+		Gregorio
+		Ignacio
+		Jeronimo
+		Joaquin
+		Jesus
+		JosE_
+		Jose_Manuel
+		Jose_Maria
+		Juan
+		Juan_Bautista
+		Justo
+		Lazaro
+		Manuel
+		Mariano
+		Martin_2
+		Melchor
+		Miguel
+		Moises
+		Nicolas_2
+		Pablo
+		Pascual
+		Pedro
+		Policarpio
+		Porfirio
+		Ramon
+		Reynaldo
+		Ricardo
+		Romulo
+		Salvador
+		Sebastian
+		Tiburcio
+		Tomas
+		Valentin
+		Valeriano
+		Venustiano
+		Vicente
+		Victoriano
+		Alvaro
+		Angel
+	}
+	female_common_first_names = {
+		Carlota
+		Carmen
+		Camerina
+		Concepcion
+		Cristina
+		Eulalia
+		Gertrudis
+		Ignacia
+		Isabel
+		Josefa
+		Laureana
+		Leona
+		Luisa
+		Manuela
+		Maria
+		Mercedes
+		Rita
+		Teodora
+	}	
+	noble_last_names = {
+		Diaz_2
+		Huarte
+		de_Ampudia
+		de_Cos
+		de_Iturbide
+		Lerdo_de_Tejada
+		de_Romay
+		de_Terreros
+		de_Yermo
+	}
+	common_last_names={
+		Aceituno
+		Alarcon
+		Almonte
+		Arciniegas
+		Arguello
+		Arista
+		Ayanegui
+		Baranda
+		Barberena
+		Barragan
+		Berriozabal
+		Betanzos
+		Bocanegra
+		Bravo
+		Bustamante
+		Bustillos
+		Canalizo
+		Carracosa
+		Carranza
+		Carreon
+		Caserta
+		Castellanos
+		Ceron
+		Cervantes
+		Coello
+		Comonfort
+		Corona
+		Corra
+		Corral
+		Correa
+		Corzo
+		Couto
+		Echeverria
+		Escandon
+		Escobedo
+		Esquinca
+		Fagoaga
+		Farfan
+		Fernandez_del_Valle
+		Flores
+		Fuentes
+		Garza
+		Gonzalez
+		Guerrero
+		Godoy
+		Gomez
+		Hinojosa
+		Hoyos
+		Huerta
+		Kosterlitzky
+		Lara
+		Larrainzar
+		Lozada
+		Lopez_de_Santa_Anna
+		Magana
+		Magon
+		Maldonado
+		Martinez_del_Rio
+		Mejia
+		Miramon
+		Moguel
+		Molina
+		Muzquiz
+		Obregon
+		Ogazon
+		Ojeda
+		Ortega
+		Palacio
+		Palafox
+		Parada
+		Parres
+		Pedraza
+		Pimentel
+		Pineda
+		Pineiro
+		Preciado
+		Rabasa
+		Ramos
+		Reyes
+		Rincon_Gallardo
+		Robles
+		Rodriguez
+		Rojas
+		Ruiz_2
+		Salas
+		Sarmaniego_del_Castillo
+		Sanchez
+		Tajonar
+		Tovilla
+		Trejo
+		Utrilla
+		Villa
+		Villalobos
+		Vazquez
+		Vazquez_de_la_Cadena
+		Velasco
+		Woll
+		Zapata
+		Zaragoza
+		Zuloaga
+		Alvarez
+		Zimbron
+	}
+	ethnicities = {
+		1 = south_american
+	}
+	graphics = european
+}
+
+east_mexican={
+	color=rgb{ 186 98 58 }
+	religion = catholic
+	traits = { hispanophone european_heritage }
+	male_common_first_names={
+		Adrian_2
+		Agustin
+		Ambrosio
+		Amilcar
+		Anastasio
+		Andres
+		Antonio
+		Bernardo
+		Blas
+		Dionisio
+		Eleuterio
+		Emeterio
+		Emiliano
+		Emilio
+		Enrique
+		Ernesto
+		Fausto
+		Felipe
+		Francisco
+		Francisco_Javier
+		Felix
+		Flavio
+		Gabriel
+		Gaspar
+		Genovevo
+		Gregorio
+		Ignacio
+		Jeronimo
+		Joaquin
+		Jesus
+		JosE_
+		Jose_Manuel
+		Jose_Maria
+		Juan
+		Juan_Bautista
+		Justo
+		Lazaro
+		Manuel
+		Mariano
+		Martin_2
+		Melchor
+		Miguel
+		Moises
+		Nicolas_2
+		Pablo
+		Pascual
+		Pedro
+		Policarpio
+		Porfirio
+		Ramon
+		Reynaldo
+		Ricardo
+		Romulo
+		Salvador
+		Sebastian
+		Tiburcio
+		Tomas
+		Valentin
+		Valeriano
+		Venustiano
+		Vicente
+		Victoriano
+		Alvaro
+		Angel
+	}
+	female_common_first_names = {
+		Carlota
+		Carmen
+		Camerina
+		Concepcion
+		Cristina
+		Eulalia
+		Gertrudis
+		Ignacia
+		Isabel
+		Josefa
+		Laureana
+		Leona
+		Luisa
+		Manuela
+		Maria
+		Mercedes
+		Rita
+		Teodora
+	}	
+	noble_last_names = {
+		Diaz_2
+		Huarte
+		de_Ampudia
+		de_Cos
+		de_Iturbide
+		Lerdo_de_Tejada
+		de_Romay
+		de_Terreros
+		de_Yermo
+	}
+	common_last_names={
+		Aceituno
+		Alarcon
+		Almonte
+		Arciniegas
+		Arguello
+		Arista
+		Ayanegui
+		Baranda
+		Barberena
+		Barragan
+		Berriozabal
+		Betanzos
+		Bocanegra
+		Bravo
+		Bustamante
+		Bustillos
+		Canalizo
+		Carracosa
+		Carranza
+		Carreon
+		Caserta
+		Castellanos
+		Ceron
+		Cervantes
+		Coello
+		Comonfort
+		Corona
+		Corra
+		Corral
+		Correa
+		Corzo
+		Couto
+		Echeverria
+		Escandon
+		Escobedo
+		Esquinca
+		Fagoaga
+		Farfan
+		Fernandez_del_Valle
+		Flores
+		Fuentes
+		Garza
+		Gonzalez
+		Guerrero
+		Godoy
+		Gomez
+		Hinojosa
+		Hoyos
+		Huerta
+		Kosterlitzky
+		Lara
+		Larrainzar
+		Lozada
+		Lopez_de_Santa_Anna
+		Magana
+		Magon
+		Maldonado
+		Martinez_del_Rio
+		Mejia
+		Miramon
+		Moguel
+		Molina
+		Muzquiz
+		Obregon
+		Ogazon
+		Ojeda
+		Ortega
+		Palacio
+		Palafox
+		Parada
+		Parres
+		Pedraza
+		Pimentel
+		Pineda
+		Pineiro
+		Preciado
+		Rabasa
+		Ramos
+		Reyes
+		Rincon_Gallardo
+		Robles
+		Rodriguez
+		Rojas
+		Ruiz_2
+		Salas
+		Sarmaniego_del_Castillo
+		Sanchez
+		Tajonar
+		Tovilla
+		Trejo
+		Utrilla
+		Villa
+		Villalobos
+		Vazquez
+		Vazquez_de_la_Cadena
+		Velasco
+		Woll
+		Zapata
+		Zaragoza
+		Zuloaga
+		Alvarez
+		Zimbron
+	}
+	ethnicities = {
+		1 = south_american
+	}
+	graphics = european
 }

@@ -958,8 +958,12 @@
         region_state:CAN = {
             create_pop = {
                 culture = anglo_canadian
-                size = 3000000
-            }       
+                size = 1000000
+            }  
+            create_pop = {
+                culture = prairie_canadian
+                size = 2000000
+            }   			
             create_pop = {
                 culture = siouan
                 size = 100000
@@ -978,8 +982,16 @@
         region_state:CAN = {
             create_pop = {
                 culture = anglo_canadian
-                size = 4000000
-            }       
+                size = 500000
+            }  
+            create_pop = {
+                culture = interior_canadian
+                size = 500000
+            } 			
+            create_pop = {
+                culture = western_canadian
+                size = 3000000
+            }     			
             create_pop = {
                 culture = salish
                 size = 150000
@@ -1000,6 +1012,10 @@
                 culture = anglo_canadian
                 size = 1000000
             }       
+            create_pop = {
+                culture = prairie_canadian
+                size = 1000000
+            }       			
             create_pop = {
                 culture = siouan
                 size = 100000
@@ -1222,9 +1238,13 @@
     s:STATE_SONORA = {
         region_state:MEX = {
             create_pop = {
-                culture = mexican
-                size = 1500000
+                culture = mexican 
+                size = 100000
             }
+            create_pop = {
+                culture = north_mexican
+                size = 500000
+            }			
             create_pop = {
                 culture = oodham
                 size = 50000
@@ -1235,8 +1255,12 @@
         region_state:MEX = {
             create_pop = {
                 culture = mexican
-                size = 2000000
+                size = 1000000
             }
+            create_pop = {
+                culture = north_mexican
+                size = 2000000
+            }				
             create_pop = {
                 culture = oodham
                 size = 50000
@@ -1251,8 +1275,12 @@
         region_state:MEX = {
             create_pop = {
                 culture = mexican
-                size = 6000000
+                size = 1000000
             }
+            create_pop = {
+                culture = north_mexican
+                size = 5000000
+            }				
             create_pop = {
                 culture = oodham
                 religion = catholic
@@ -1269,15 +1297,23 @@
             create_pop = {
                 culture = mexican
                 size = 5000000
-            }       
-        }
+            }
+            create_pop = {
+                culture = east_mexican
+                size = 5000000
+            } 			
+        }		
     }
     s:STATE_DURANGO = {
         region_state:MEX = {
             create_pop = {
                 culture = mexican
-                size = 2000000
+                size = 900000
             }
+            create_pop = {
+                culture = north_mexican
+                size = 2000000
+            }				
             create_pop = {
                 culture = oodham
                 size = 50000
@@ -1292,8 +1328,12 @@
         region_state:MEX = {
             create_pop = {
                 culture = mexican
-                size = 2000000
+                size = 900000
             }
+           create_pop = {
+                culture = western_mexican
+                size = 2000000
+            }			
             create_pop = {
                 culture = oodham
                 size = 50000
@@ -1328,8 +1368,12 @@
         region_state:MEX = {
             create_pop = {
                 culture = mexican
-                size = 2000000
+                size = 900000
             }
+            create_pop = {
+                culture = east_mexican
+                size = 2000000
+            } 			
             create_pop = {
                 culture = mayan
                 size = 500000
@@ -1371,8 +1415,12 @@
         region_state:MEX = {
             create_pop = {
                 culture = mexican
-                size = 2000000
+                size = 900000
             }
+            create_pop = {
+                culture = western_mexican
+                size = 10000000
+            }				
             create_pop = {
                 culture = zapotec
                 size = 100000
@@ -1395,8 +1443,12 @@
         region_state:MEX = {
             create_pop = {
                 culture = mexican
-                size = 4000000
+                size = 1000000
             }
+            create_pop = {
+                culture = western_mexican
+                size = 30000000
+            }				
             create_pop = {
                 culture = zapotec
                 size = 200000
@@ -1418,9 +1470,13 @@
     s:STATE_JALISCO = {
         region_state:MEX = {
             create_pop = {
-                culture = mexican
+                culture = mexican 
                 size = 10000000
             }
+            create_pop = {
+                culture = western_mexican
+                size = 10000000
+            }			
             create_pop = {
                 culture = oodham
                 religion = catholic
@@ -1432,8 +1488,12 @@
         region_state:MEX = {
             create_pop = {
                 culture = mexican
-                size = 2000000
+                size = 900000
             }
+            create_pop = {
+                culture = north_mexican
+                size = 2000000
+            }				
             create_pop = {
                 culture = nahua
                 size = 200000
@@ -1443,9 +1503,13 @@
     s:STATE_CHIAPAS = {
         region_state:MEX = {
             create_pop = {
-                culture = mexican
-                size = 4000000
+                culture = mexican 
+                size = 1000000
             }
+            create_pop = {
+                culture = east_mexican
+                size = 3000000
+            }			
             create_pop = {
                 culture = mayan
                 size = 1000000
@@ -1458,7 +1522,11 @@
         region_state:ZAP = {
             create_pop = {
                 culture = mexican
-                size = 500000
+                size = 100000
+            }		
+            create_pop = {
+                culture = east_mexican
+                size = 400000
             }
             create_pop = {
                 culture = mayan
@@ -1473,9 +1541,13 @@
     s:STATE_BAJA_CALIFORNIA = {
         region_state:MEX = {
             create_pop = {
-                culture = mexican
+                culture = mexican 
                 size = 5000000
             }
+            create_pop = {
+                culture = north_mexican
+                size = 5000000
+            }			
             create_pop = {
                 culture = oodham
                 size = 200000

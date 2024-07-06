@@ -850,7 +850,7 @@
     s:STATE_HAIDA_GWAII = {
         region_state:CAN = {
             create_pop = {
-                culture = anglo_canadian
+                culture = western_canadian
                 size = 4210
             }
         }
@@ -858,7 +858,7 @@
     s:STATE_VANCOUVER_ISLAND = {
         region_state:CAN = {
             create_pop = {
-                culture = anglo_canadian
+                culture = western_canadian
                 size = 759690
             }
         }
