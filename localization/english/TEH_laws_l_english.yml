@@ -1,5 +1,21 @@
 ﻿l_english:
 
+
+ # Drug Laws group
+ lawgroup_drug_legalization:0 "Drug Legalization"
+ lawgroup_drug_legalization_desc:0 ""
+ 
+ law_drugs_criminalized:0 "Drug Use Criminalized"
+ law_drugs_criminalized_desc:0 ""
+ 
+ law_medicinal_only:0 "Medicinal Use Only"
+ law_medicinal_only_desc:0 ""
+ 
+ law_recreational:0 "Recreational Use Legalized"
+ law_recreational_desc:0 ""
+ 
+ 
+
  # Social Fabric group
  lawgroup_social_fabric:0 "Social Fabric"
  lawgroup_social_fabric_desc:0 "The social fabric of a society encompasses the various laws and policies that dictate what society allows from the public space to the bedroom."
