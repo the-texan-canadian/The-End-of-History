@@ -1,6 +1,17 @@
 ﻿l_english:
 
 
+ # Term Limit Laws
+ lawgroup_term_limits:0 "Term Limits"
+ lawgroup_term_limits_desc:0 ""
+ 
+ law_no_term_limit:0 "No Term Limits"
+ law_no_term_limit_desc:0 ""
+ 
+ law_yes_term_limit: "Term Limits"
+ law_yes_term_limit_desc:0 ""
+
+
  # Drug Laws group
  lawgroup_drug_legalization:0 "Drug Legalization"
  lawgroup_drug_legalization_desc:0 ""
