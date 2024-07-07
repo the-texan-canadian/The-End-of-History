@@ -1,18 +1,4 @@
 ﻿DIPLOMACY = {
-	c:ENG ?= {
-		create_diplomatic_pact = {
-			country = c:CYM
-			type = puppet
-		}
-		create_diplomatic_pact = {
-			country = c:SCO
-			type = puppet
-		}
-		create_diplomatic_pact = {
-			country = c:NIR
-			type = puppet
-		}
-	}
 	c:RSF ?= {
 		create_diplomatic_pact = {
 			country = c:ABK
@@ -30,26 +16,79 @@
 			country = c:SOS
 			type = puppet
 		}
-
+}
+c:POR ?= { #Macau wouldn't become Chinese until December of 1991
 		create_diplomatic_pact = {
-			country = c:ARM
-			type = protectorate
+			country = c:MAO 
+			type = puppet
+		}
+	}
+c:PRC ?= { 
+		create_diplomatic_pact = {
+			country = c:HKN 
+			type = puppet
+		}
+	}
+c:TRK ?= { 
+		create_diplomatic_pact = {
+			country = c:NCY
+			type = puppet
+		}
+	}
+c:FNL ?= { 
+		create_diplomatic_pact = {
+			country = c:ALA
+			type = puppet
+		}
+	}
+c:DEN ?= { 
+		create_diplomatic_pact = {
+			country = c:FAO
+			type = puppet
 		}
 		create_diplomatic_pact = {
-			country = c:BYL
-			type = protectorate
+			country = c:GRN
+			type = puppet
+		}
+	}
+c:USS ?= { #Unsure if these are gonna be kept, but im too tired to do anything more with them now
+		create_diplomatic_pact = {
+			country = c:UVI 
+			type = puppet
 		}
 		create_diplomatic_pact = {
-			country = c:KZK
-			type = protectorate
+			country = c:UPR 
+			type = puppet
+		}
+	}
+c:GBR ?= { #Semi-Autonomous territories Bermuda, and whatnot. In the future replace with better subject types
+		create_diplomatic_pact = {
+			country = c:CAY
+			type = puppet
 		}
 		create_diplomatic_pact = {
-			country = c:KYR
-			type = protectorate
+			country = c:BMD
+			type = puppet
 		}
 		create_diplomatic_pact = {
-			country = c:TJK
-			type = protectorate
+			country = c:ADK
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:TCI
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:BVI
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:JSY
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:GSY
+			type = puppet
 		}
 	}
 }

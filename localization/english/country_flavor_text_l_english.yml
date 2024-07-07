@@ -18,7 +18,7 @@
   AUZ_FLAVOR_TEXT:0 "Australia, the land of opportunity & the 'Dream.' While the position of the US falters, Australia, despite its shortcomings and more warm environment the continent spanning country has revered the name 'The Land Of Opportunity.' However internal political divisions & the warming climate seek to ruin Australia's chance at being a bastion of prosperity. Can Australia successfully traverse the modern world?"
   
   # Balkans
-  SRB_FLAVOR_TEXT:0 "Serbia sits as a rump state and final remnant of the failed Yugoslav experiment. Having lost both Montenegro & Kosovo in the last few years, the nation longs for a victory. Will Serbia regain the lost glory of Yugoslavia?"
+  YUG_FLAVOR_TEXT:0 "The Federal Republic of Yugoslavia inherits the legacy of the past Yugoslavs, and very little else. Many of the former republics have violently seceded only a couple of years ago. Will Yugoslavia reclaim its glory, or will a new power emerge from the ashes?"
   
   # Europe
   ENG_FLAVOR_TEXT:0 "England has roared through the 20th century exerting force as a great power, however multiple recessions, widescale political corruption and waning legitimacy have called the act of union into question. Can England retain its control over its dominions? Or has leaving the European market been the final straw?"
@@ -64,6 +64,6 @@
   
   # Nonsense Countries
   GLI_FLAVOR_TEXT:2 "Galicia is a small and unremarkable country populated by cathedral enthusiasts. Will Galicia regain its past glory?"
-  GENERIC_FLAVOR_TEXT:0 "The 21st Century is a time of relative peace & prosperity, however exploitation by the wealthy, waning standards of living and global communication have brought with it a resurgence in political activism and societal shifts like none ever seen. What will this new wave of political expression bring?
+  GENERIC_FLAVOR_TEXT:0 "The world stands in the final days of the old millenium. The beginning of a new one beckoning it closer, while looking back on the Cold War politics of the past century, culminating in the collapse of the Soviet Union. New technologies are emerging and the old wars by sword, however cold, are giving way to the pen and peace. What will this new millenium bring for the world?"
   REV_GENERIC_FLAVOR_TEXT:1 "Dissatisfied with the direction that the so-called organized government was taking, these revolutionaries have decided to take up arms to overthrow it. Will they succeed in seizing power or will they be crushed like so many forgotten revolutions of the past?"
   DECENTRALIZED_FLAVOR_TEXT:0 "Encroached upon by more organized powers, this country struggles to maintain their autonomy. Will they see the dawn of a new century, or will their name survive only in history books?"
