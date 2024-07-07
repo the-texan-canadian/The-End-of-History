@@ -7,9 +7,12 @@
  Middle_Americana:0 "Midwestern"
  Great_Lakes_American:0 "Great Lakes American" 
  North_Western:0 "North Western" 
+ anglo_canadian:0 "East Canadian" 
+ 
  
  New_Englander:0 "New Englander"
  New_Yorker:0 "New Yorker"
+ Upstater:0 "Upstater" 
  Mid-Atlantic:0 "Mid-Atlantic"
  Appalachian:0 "Appalachian"
  Southern:0 "Southern"
@@ -71,7 +74,7 @@
  scottish:0 "Scottish"
  australian:0 "Aussie"
  kiwi:0 "Kiwi"
- anglo_canadian:0 "Canadian"
+
  caper:0 "Caper"
  italian_culture_group:0 "Italian"
  north_italian:0 "North Italian"
