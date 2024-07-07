@@ -1,0 +1,762 @@
+﻿# Entries used in the Power Bloc CoA customization preview.
+# The order defines the order in which they are listed.
+#
+# Format:
+# filename = {
+#     # How many colors options to show for this piece. Optional, will assume 0 if missing, where 0 means
+#     # this is a textured asset that doesn't require custom colors.
+#     colors = 3
+#
+#     # Which piece is this? Available: shield pattern, shield_frame, center, top, side.
+#     piece = center
+# }
+
+#Star
+
+pb_sphereplus_star_01.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_02.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_03.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_04.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_05.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_06.dds = {
+    colors = 2
+    piece = center
+}
+
+pb_sphereplus_star_07.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_08.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_09.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_10.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_11.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_12.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_13.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_star_14.dds = {
+    colors = 1
+    piece = center
+}
+
+#Sun
+
+pb_sphereplus_sun_01.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_sun_02.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_sun_03.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_sun_04.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_sun_05.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_sun_06.dds = {
+    colors = 2
+    piece = center
+}
+
+pb_sphereplus_sun_07.dds = {
+    colors = 2
+    piece = center
+}
+
+pb_sphereplus_sun_08.dds = {
+    colors = 1
+    piece = center
+}
+
+#Iberian
+
+pb_sphereplus_iberian_00.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_iberian_01.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_iberian_04.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_iberian_05.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_iberian_06.dds = {
+    colors = 1
+    piece = center
+}
+
+#Christian
+pb_sphereplus_christian_00.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_christian_01.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_christian_02.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_christian_03.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_christian_04.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_christian_05.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_christian_06.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_christian_07.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_christian_08.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_christian_09.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_christian_10.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_christian_11.dds = {
+    colors = 1
+    piece = center
+}
+
+#Animal
+pb_sphereplus_animal_01.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_02.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_03.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_04.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_05.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_06.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_07.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_08.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_09.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_10.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_iberian_02.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_iberian_03.dds = {
+    colors = 1
+    piece = center
+}
+
+
+pb_sphereplus_animal_11.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_12.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_13.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_14.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_15.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_16.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_17.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_18.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_19.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_20.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_21.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_22.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_animal_23.dds = {
+    colors = 1
+    piece = center
+}
+
+#Vanguard
+pb_sphereplus_vanguard_01.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_02.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_03.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_04.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_05.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_06.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_07.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_08.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_09.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_10.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_11.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_12.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_vanguard_13.dds = {
+    colors = 1
+    piece = center
+}
+
+#National
+pb_sphereplus_national_01.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_02.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_03.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_04.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_05.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_06.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_07.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_08.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_09.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_10.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_iberian_02.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_iberian_03.dds = {
+    colors = 1
+    piece = center
+}
+
+
+pb_sphereplus_national_11.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_12.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_13.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_14.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_15.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_16.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_17.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_18.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_19.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_20.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_21.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_22.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_23.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_24.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_25.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_26.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_27.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_28.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_29.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_30.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_31.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_32.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_33.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_34.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_35.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_36.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_37.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_38.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_39.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_40.dds = {
+    colors = 1
+    piece = center
+}
+
+pb_sphereplus_national_41.dds = {
+    colors = 1
+    piece = center
+}
+
+#Shield Patterns
+
+pb_sphereplus_shield_pattern_00.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+
+pb_sphereplus_shield_pattern_01.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+
+pb_sphereplus_shield_pattern_02.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+
+pb_sphereplus_shield_pattern_03.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+
+pb_sphereplus_shield_pattern_04.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+
+pb_sphereplus_shield_pattern_05.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+
+pb_sphereplus_shield_pattern_06.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+
+pb_sphereplus_shield_pattern_07.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+
+pb_sphereplus_shield_pattern_08.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+pb_sphereplus_shield_pattern_09.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+pb_sphereplus_shield_pattern_10.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+pb_sphereplus_shield_pattern_11.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+pb_sphereplus_shield_pattern_12.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+pb_sphereplus_shield_pattern_13.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+pb_sphereplus_shield_pattern_14.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+pb_sphereplus_shield_pattern_15.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+pb_sphereplus_shield_pattern_16.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+pb_sphereplus_shield_pattern_17.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+pb_sphereplus_shield_pattern_18.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+pb_sphereplus_shield_pattern_19.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+
+pb_sphereplus_shield_pattern_20.dds = {
+    colors = 2
+    piece = shield_pattern
+}
+
+pb_frame_sphereplus_01.dds = {
+    colors = 0
+    piece = shield_frame
+}
+
+pb_frame_sphereplus_02.dds = {
+    colors = 0
+    piece = shield_frame
+}
+
+pb_frame_sphereplus_03.dds = {
+    colors = 0
+    piece = shield_frame
+}
+
+#Textured Emblems
+
+pb_frame_sphereplus_textured_01.dds = {
+    colors = 0
+    piece = shield_frame
+}
+pb_frame_sphereplus_textured_02.dds = {
+    colors = 0
+    piece = shield_frame
+}
+pb_frame_sphereplus_textured_03.dds = {
+    colors = 0
+    piece = shield_frame
+}
+pb_frame_sphereplus_textured_04.dds = {
+    colors = 0
+    piece = shield_frame
+}
+pb_frame_sphereplus_textured_05.dds = {
+    colors = 0
+    piece = shield_frame
+}
+pb_frame_sphereplus_textured_06.dds = {
+    colors = 0
+    piece = shield_frame
+}
