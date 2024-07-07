@@ -222,10 +222,9 @@
  ig_industrialists:0 "Business Interests"
  ig_industrialists_only_icon:0 "@industrialists_bpm!"
  ig_industrialists_desc:0 "A non-ideological power bloc representing the interests of big businesses. Generally committed to limiting government oversight, on all other issues they side with whatever benefits monopoly capital at any moment."
-
- ig_landowners:0 "Corporate Interests"
+ ig_landowners:0 "Aristocratic Interests"
  ig_landowners_only_icon:0 "@landowners_bpm!"
- ig_landowners_desc:0 "A non-ideological power bloc representing the interests of modern business magnates. Generally committed to expanding their economic influence, they are plagued by rivalries over market control and corporate dominance."
+ ig_landowners_desc:0 "A non-ideological power bloc representing the interests of traditionally powerful families. Generally committed to preserving their power, they are plagued by squabbles over ancient grudges."
  ig_slaver_interests:0 "Slaver Interests"
  ig_slaver_interests_desc:0 "A non-ideological power bloc representing the interests of slaveholders. Generally committed to defending the right to their 'property', they are otherwise divided over most other issues."
 
