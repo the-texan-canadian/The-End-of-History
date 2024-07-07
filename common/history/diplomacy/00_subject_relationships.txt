@@ -17,7 +17,7 @@
 			type = puppet
 		}
 }
-c:POR ?= { #Macau wouldn't become Chinese until December of 1991
+c:POR ?= { #Macau wouldn't become Chinese until December of 1999
 		create_diplomatic_pact = {
 			country = c:MAO 
 			type = puppet
@@ -60,10 +60,39 @@ c:USS ?= { #Unsure if these are gonna be kept, but im too tired to do anything m
 			country = c:UPR 
 			type = puppet
 		}
+		create_diplomatic_pact = {
+			country = c:GUA 
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:ASM
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:NMI
+			type = puppet
+		}
+		#compact of free associations, please represent with dedicated subject type when we get around to them 
+		create_diplomatic_pact = {
+			country = c:PLA 
+			type = protectorate
+		}
+		create_diplomatic_pact = {
+			country = c:MCN 
+			type = protectorate
+		}
+		create_diplomatic_pact = {
+			country = c:MSL 
+			type = protectorate
+		}
 	}
 c:GBR ?= { #Semi-Autonomous territories Bermuda, and whatnot. In the future replace with better subject types
 		create_diplomatic_pact = {
 			country = c:CAY
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:PTC
 			type = puppet
 		}
 		create_diplomatic_pact = {
@@ -88,6 +117,68 @@ c:GBR ?= { #Semi-Autonomous territories Bermuda, and whatnot. In the future repl
 		}
 		create_diplomatic_pact = {
 			country = c:GSY
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:AGL
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:MRR
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:GIB
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:MNX
+			type = puppet
+		}
+	}
+c:FRC ?= { 
+		create_diplomatic_pact = {
+			country = c:NCD
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:WFT
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:REU
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:MYT
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:GDL
+			type = puppet
+		}
+	}
+c:NZL ?= { 
+		create_diplomatic_pact = {
+			country = c:COO
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:TKL
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:NIU
+			type = puppet
+		}
+	}
+c:NDL ?= { 
+		create_diplomatic_pact = {
+			country = c:CRC
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:ARB
 			type = puppet
 		}
 	}
