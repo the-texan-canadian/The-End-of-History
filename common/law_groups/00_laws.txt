@@ -41,6 +41,15 @@ lawgroup_election_fairness = {
 	regressive_movement_chance = 0.35
 }
 
+lawgroup_term_limits = {
+	law_group_category = power_structure
+	base_enactment_days = 150
+	affected_by_regime_change = yes
+	
+	progressive_movement_chance = 4
+	regressive_movement_chance = 0.1
+}
+
 lawgroup_citizenship = {
 	law_group_category = power_structure
 	affected_by_regime_change = yes
