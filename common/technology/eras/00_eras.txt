@@ -1,21 +1,21 @@
 ﻿# When changing these, don't forget to update progress bonuses in events and JEs
 
-era_1 = { #Pre-1836
+era_1 = { # Early 20th Century/Cold War (modeled for backwards nations)
 	technology_cost = 7500 # for progress bonuses, use an approximate third: 2500
 }
 
-era_2 = { #1836-1861
+era_2 = { #1999-2010
 	technology_cost = 10000 # for progress bonuses, use an approximate third: 3500
 }
 
-era_3 = { #1862-1886
+era_3 = { #2010-2020
 	technology_cost = 12500 # for progress bonuses, use an approximate third: 4150
 }
 
-era_4 = { #1887-1911
+era_4 = { #2020-2030
 	technology_cost = 15000 # for progress bonuses, use an approximate third: 5000
 }
 
-era_5 = { #1911-1936
+era_5 = { #2030-2040
 	technology_cost = 17500 # for progress bonuses, use an approximate third: 5850
 }
