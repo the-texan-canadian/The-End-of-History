@@ -26,7 +26,7 @@
 		}
 		
 		add_homeland = cu:New_Englander
-		add_homeland = cu:New_Yorker
+		add_homeland = cu:Mid-Atlantic
 		add_homeland = cu:Upstater		
 		add_homeland = cu:iroquoian
 	}
@@ -237,7 +237,7 @@
 		}
 		
 		add_homeland = cu:Cascadian	
-		add_homeland = cu:plateauen			
+		add_homeland = cu:Basinfolk			
 		add_homeland = cu:nez_perce
 		add_homeland = cu:salish
 	}
@@ -248,7 +248,7 @@
 		}
 		
 		add_homeland = cu:Cascadian	
-		add_homeland = cu:plateauen			
+		add_homeland = cu:Basinfolk			
 		add_homeland = cu:salish
 		add_homeland = cu:nez_perce
 	}
@@ -270,7 +270,7 @@
 				x742D27 x017E79 x150652 x9F53C7 x904040 xD5F00A xEBE9CE x687718 x129391 x66CBE4 x433C79 xA891E3 xCEB851 x83741F xD0C000 xB1E3F4 xFD4329 x7854CE xAB4C21 x307992 xA90729 x812CF7 x719099 xE85180 x704257 x1BE078 xC5CFEF x1DAD86 x25C53C x26A01D xBBFA06 x8C51FE xD07052 x0B9901 x4B60B0 x820130 x52080F xE86EE3 x348ACD x32230C x8C7A20 xA69111 xEB212F xF2C402 x4F6919 xBF0C47 x6EA57A xEBAEAA x22BFC4 x669059 x07E17F xF642DA x31580F x05E33E x61CB37 x511F34 xC97B5E x88B597 xD04000 x5B5900 x724089 x125FB0 x63F85D x86F203 x50C000 x72823F xDE4C96 x52EB7C x15CB9B x5AE64F x34EDA2 x4E209F xC8FA49
 			}
 		}
-		add_homeland = cu:Middle_American	
+		add_homeland = cu:Mid-Western	
 		add_homeland = cu:Mountain_Men			
 		add_homeland = cu:siouan
 		add_homeland = cu:paiute
@@ -285,7 +285,7 @@
 			}
 		}
 		
-		add_homeland = cu:Middle_American	
+		add_homeland = cu:Mid-Western	
 		add_homeland = cu:Mountain_Men			
 		add_homeland = cu:siouan
 		add_homeland = cu:paiute
@@ -303,7 +303,7 @@
 			}
 		}
 
-		add_homeland = cu:Middle_American	
+		add_homeland = cu:Mid-Western	
 		add_homeland = cu:Mountain_Men			
 		add_homeland = cu:dakota
 		add_homeland = cu:siouan
@@ -316,7 +316,7 @@
 				xB7F25B xBB73D1 x98A328 xE5FDC3 x17235E x9255F2 x9D100E x647FB6 x329C17 xCE5B60 xDD5888 xD000C0 x3160D9 xEF51A8 x080BEC x913BCB x7A9921 x0020C0 x0EADCE x96B71E xB5FEC3 xBEFC85 x20A1FA xAB458E xA4C2F6 xFAD908 x2D7D62 xAA3B6E x298347 xE24F6E x30BADD x5BED05 x184A57 xAF6E5B x198845 x96D61E xF03169 x746873 x9EA3FF x6B9ADF xA5A929 x002DE6 x3EB1F2 xF3479B x3816BA x9FB4C1 x18D7A9 xA5970F 
 			}
 		}
-		add_homeland = cu:Middle_American			
+		add_homeland = cu:Mid-Western			
 		add_homeland = cu:dakota		
 	}
 	s:STATE_SOUTH_DAKOTA = {
@@ -328,7 +328,7 @@
 				x3F22C3 x5E7877 xFA9899 x0A6682
 			}
 		}
-		add_homeland = cu:Middle_American			
+		add_homeland = cu:Mid-Western			
 		add_homeland = cu:dakota		
 	}
 	s:STATE_NEBRASKA = {
@@ -339,7 +339,7 @@
 				x3CA80A x75B4EE x1204FB xFB92A2 xF823F6 xCC97E9 x26D7F5 x9215D8 x574C53 x46C0C9 xF500FF x369A5E x10C040 x574B34 x5AE35B x996A90 xF7CF1A xD08040 xABDA2C xA8C3AF 
 				x675507 x085848 x63FAC0 xB83435 x5BD057 x6298F3 xD1616D x09025B x814008 x394431 x782001 xE2B0F1 x9B4CC5 xD7F409 x671F4C x5A6816
 			}
-		add_homeland = cu:Middle_American			
+		add_homeland = cu:Mid-Western			
 		add_homeland = cu:dakota		
 	}
 	s:STATE_KANSAS = {
@@ -351,7 +351,7 @@
 				x770EB3 xBE4BF0 x6C6CF4 x5196C1 x05C8DA x8E9862 x94CB2D x49EB3C x405BB7 x17C2F0 xEB0DEB xAF6622 xD3D517 x231FA5
 			}
 		}
-		add_homeland = cu:Middle_American			
+		add_homeland = cu:Mid-Western			
 		add_homeland = cu:siouan
 	}
 	s:STATE_OKLAHOMA = {
@@ -362,7 +362,7 @@
 				xA07F85 x9A9935 x94D9C2 xF98E99 x7A707B x8BDF6D x5F2DBA x4BE9C6 xC03040 xE1CC08 x158786 x8CD89B x269541 x32D681 xF6681C x47C329 x286941 xD6ADF2 xAE0966 xEF15A7 x49BF7D xBFD5C4 
 			}
 		}
-		add_homeland = cu:Middle_American			
+		add_homeland = cu:Mid-Western			
 		add_homeland = cu:cherokee	
 		add_homeland = cu:siouan
 	}
@@ -404,8 +404,7 @@
 				x9A9297 x8D5116 x84B824 x5CFCFE x658093 x5D35AB x929D22 x7388CD xBE054B x282692 x59C9CA x45FBF5 x865EB8 x289431 x28022C xE7EF56 x9D934A xA8B1F6 x1B6243 x0FAD27 x36ECCB xDE887C x1B5B1A xCDECF0 x373F2F xF09A2C x6AD1DD 
 			}
 		}
-		add_homeland = cu:Great_Lakers			
-		add_homeland = cu:NorthWoods			
+		add_homeland = cu:Great_Lakers				
 		add_homeland = cu:Mid-Western	
 		add_homeland = cu:dakota
 		add_homeland = cu:algonquian
@@ -417,7 +416,6 @@
 		}
 		
 		add_homeland = cu:Great_Lakers			
-		add_homeland = cu:NorthWoods			
 		add_homeland = cu:Mid-Western			
 		add_homeland = cu:dakota
 		add_homeland = cu:algonquian	
@@ -428,14 +426,13 @@
 			owned_provinces = { x27EF03 xC9A306 x708040 x2A554C xF13865 x4BAF24 x5DA55B x73BE17 xF04080 xE36812 x71AF12 x89D198 x005339 xED4D2B x26B0DF xE2E68F xC02000 x30D889 x285A9A xE236DD x9977A5 x886CA2 x9CE5F6 xE12B89 xC72917 }
 		}
 		add_homeland = cu:Great_Lakers		
-		add_homeland = cu:Northern_Ohio
+		add_homeland = cu:Lower_Ohio
 	}
 	s:STATE_MICHIGAN = {
 		create_state = {
 			country = c:USS
 			owned_provinces = { x0B0C98 x70C000 x055AA0 x28FA31 x95E27E x6486DD xF01A7B x50412A x286086 x319D44 x43FD92 x7F1133 x2455A8 x83AA0C x94D7BA xE51181 xF62CC4 x40E080 x42E736 x69C402 x87E8D4 xF0C000 x8E8D40 xC1AE21 x569D0A x1BA1F4 x5F7EE0 xB41FE2 x4FD630 x649AB4 x53CE7E xECE19B xE76A88 xE24063 xE65320 x11C5A2 xAE4DDC x700040 x8BD355 x9293C6 xC44B48 xB34192 x4017DC xD49785 x35EAD6 x96E11B x781E75 x5E05A9 xFDA0D8 x4D1908 }
 		}
-		add_homeland = cu:NorthWoods		
 		add_homeland = cu:Great_Lakers		
 	}
 	s:STATE_OHIO = {
@@ -556,7 +553,7 @@
 			owned_provinces = { xF00000 x503169 x552873 xA14B4E x716F90 }
 		}
 		
-		add_homeland = cu:New_Yorker
+		add_homeland = cu:Mid-Atlantic
 		add_homeland = cu:Mid-Atlantic	
 	}
 	s:STATE_ILLINOIS = {
@@ -566,7 +563,7 @@
 		}
 		
 		add_homeland = cu:Great_Lakers
-		add_homeland = cu:Northern_Ohio		
+		add_homeland = cu:Lower_Ohio		
 	}
 	s:STATE_CONNECTICUT = {
 		create_state = {

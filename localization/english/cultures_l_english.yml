@@ -10,23 +10,30 @@
  anglo_canadian:0 "East Canadian" 
  
  
+ New_Yorker:0 "New Yorker" 
+ Northern_Ohio:0 "Upper Ohioan"  
+ NorthWoods:0 "North Woods" 
+ Middle_American:0 "Middle American" 
+ plateauen:0 "plateauen"
+ 
  New_Englander:0 "New Englander"
- New_Yorker:0 "New Yorker"
+ 
+
+ 
  Upstater:0 "Upstater" 
  Mid-Atlantic:0 "Mid-Atlantic"
  Appalachian:0 "Appalachian"
  Southern:0 "Southern"
- Lower_Ohio:0 "Lower Ohioan"
+ Lower_Ohio:0 "Ohioan"
  Ozarker:0 "Ozarker"
- Northern_Ohio:0 "Upper Ohioan"
  Great_Lakers:0 "Great Lakers" 
  Mid-Western:0 "Mid-Western"
- NorthWoods:0 "North Woods"
- Middle_American:0 "Middle American"
+
+
  Mountain_Men:0 "Mountain Men"
  Basinfolk:0 "Basin folk"
  Southwestern:0 "South western"
- plateauen:0 "plateauen"
+
  Cascadian:0 "Cascadian"  
  Bayfolk:0 "San Franciscans"
  Valleyan:0 "Valleyan"
@@ -35,6 +42,7 @@
  Texan:0 "Texan"
  Floridian:0 "Floridian"  
  Alaskan:0 "Alaskan"
+ 
  American_Hawaiian:0 "American Hawaiian"
  prairie_canadian:0 "Prairie Canadian" 
  interior_canadian:0 "Interior canadian" 
