@@ -209,9 +209,9 @@
  party_radical_chi:0 "[SCOPE.GetRootScope.GetCountry.GetCustom('chi_radical_party_name')]"
  party_chi_left_kuomintang:0 "Kuomintang (Left)"
 
-# RSF
- party_conparty_rus_reactionariesservative_rus:0 "[SCOPE.GetRootScope.GetCountry.GetCustom('rus_conservative_party_name')]"
- :0 "United Russia"
+# RUS
+ party_conservative_rus:0 "[SCOPE.GetRootScope.GetCountry.GetCustom('rus_conservative_party_name')]"
+ party_rus_reactionaries:0 "Union of the Russian People"
 
  party_agrarian_rus:0 "[SCOPE.GetRootScope.GetCountry.GetCustom('rus_agrarian_party_name')]"
  party_rus_land_liberty:0 "Land and Liberty"

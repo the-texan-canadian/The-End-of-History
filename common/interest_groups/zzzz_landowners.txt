@@ -25,22 +25,22 @@
 			set_ig_trait = ig_trait:ig_trait_rural_well_oiled_machine
 			set_ig_trait = ig_trait:ig_trait_right_systematic_opposition
 		}
-		# Sloviki
+		# Squattocracy
 		if = {
 			limit = {
-				c:RSF ?= this
+				country_has_primary_culture = cu:australian
 			}
 			ig:ig_landowners = {
-				set_interest_group_name = ig_sloviki
+				set_interest_group_name = ig_squattocracy
 			}
 		}
-		# American Corporations
+		# Local Governors
 		else_if = {
 			limit = {
-				c:USS ?= this
+				c:TUR ?= this
 			}
 			ig:ig_landowners = {
-				set_interest_group_name = ig_american_corporations
+				set_interest_group_name = ig_local_governors
 			}
 		}
 		# Junkers

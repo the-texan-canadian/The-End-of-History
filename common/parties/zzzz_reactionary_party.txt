@@ -73,17 +73,13 @@ reactionary_party = {
 					THIS = c:POR
 				}
 			}
-			
-			# United Russia Party
 			triggered_desc = {
 				desc = party_rus_reactionaries
 				trigger = {
-					exists = c:RSF
-					THIS = c:RSF
+					exists = c:RUS
+					THIS = c:RUS
 				}
 			}
-			
-			
 			triggered_desc = {
 				desc = party_reactionary_jap
 				trigger = {

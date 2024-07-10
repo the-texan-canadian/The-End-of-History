@@ -183,7 +183,6 @@
  ig_slavophiles:0 "Slavophiles"
  ig_slavophiles_desc:0 "Slavophiles believe that Russia must not be tainted by the western thought - they are skeptical of liberal reforms and socialist revolution, thinking that only some things need to change to let Russia remain powerful, one and indivisible. They are adamant in rejecting majority of reforms, only by divine providence recognizing serfdom as an ill that Russia must eradicate to avoid falling behind the rest of the world, believing that only technical innovations should be imported from the west, and even those should be scrutinized."
 
- 
  ig_legitimists:0 "Legitimists"
  ig_legitimists_desc:0 "$ig_reactionaries_desc$"
  ig_carlists:0 "Carlists"
@@ -222,6 +221,10 @@
  ig_industrialists:0 "Business Interests"
  ig_industrialists_only_icon:0 "@industrialists_bpm!"
  ig_industrialists_desc:0 "A non-ideological power bloc representing the interests of big businesses. Generally committed to limiting government oversight, on all other issues they side with whatever benefits monopoly capital at any moment."
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
  ig_landowners:0 "Aristocratic Interests"
  ig_landowners_only_icon:0 "@landowners_bpm!"
  ig_landowners_desc:0 "A non-ideological power bloc representing the interests of traditionally powerful families. Generally committed to preserving their power, they are plagued by squabbles over ancient grudges."
@@ -243,10 +246,3 @@
 
 # GUI
  MARGINAL_TITLE_ACCORDION:0 "[concept_marginalized] [Concept('concept_interest_group', '$concept_interest_groups$')]"
-
- # New Groups
- ig_sloviki:0 "Sloviki"
- ig_sloviki_desc:0 "The 'Sloviki' represents the class of influential and often wealthy individuals in Russia who have gained power and resources through a combination of political maneuvering, connections to state power, and economic exploitation. Often emerging during periods of significant social and political upheaval, the Sloviki have amassed substantial wealth and social influence primarily through control over key industries, state enterprises, and natural resources. Their influence extends deeply into both political and economic spheres, often blurring the lines between state and private interests."
- ig_american_corporations:0 "American Corporations"
- ig_american_corporations_desc:0 "The 'American Corporations' represents the class of business entities in the United States that have occupied significant sectors of the economy with substantial legal and financial backing. Often the pioneers in their respective industries, American corporations have gained immense wealth and social influence primarily through the proceeds of manufacturing, technology, finance, and services. They have played a crucial role in driving innovation, shaping consumer behavior, and influencing policy through their economic power and lobbying efforts. Their presence is marked by significant contributions to the country's GDP, job creation, and global economic footprint."
-
