@@ -424,7 +424,7 @@ USS =
 
 	tier = empire
 	
-	cultures = { yankee dixie }
+	cultures = { New_Englander Upstater Mid-Atlantic Appalachian Southern Lower_Ohio Ozarker Great_Lakers Mid-Western Mountain_Men Basinfolk Southwestern Cascadian Bayfolk Valleyan NorCal SoCal Texan Floridian Alaskan American_Hawaiian }
 	capital = STATE_DISTRICT_OF_COLUMBIA
 }
 MCO = 
@@ -523,18 +523,18 @@ CAN =
 
 	tier = kingdom
 	
-	cultures = { anglo_canadian franco_canadian }
+	cultures = { anglo_canadian prairie_canadian western_canadian interior_canadian north_mexican franco_canadian }
 	capital = STATE_ONTARIO
 }
 BLZ = 
 {
 	color = { 98 217 230 }
 	
-	country_type = unrecognized
+	country_type = recognized
 
 	tier = principality
 	
-	cultures = { mayan central_american }
+	cultures = { mayan Belizeans }
 	capital = STATE_GUATEMALA
 }
 SYC = 
@@ -567,7 +567,7 @@ MEX =
 
 	tier = kingdom
 	
-	cultures = { mexican central_american mayan nahuatl }
+	cultures = { western_mexican mexican east_mexican mayan nahuatl }
 	capital = STATE_MEXICO
 }
 VZL = 
@@ -1304,7 +1304,7 @@ PNM =
 
 	tier = kingdom
 	
-	cultures = { central_american }
+	cultures = { Panamanian }
 	capital = STATE_PANAMA
 }
 COS = 
@@ -1315,7 +1315,7 @@ COS =
 
 	tier = kingdom
 	
-	cultures = { central_american }
+	cultures = { Costa_Rican }
 	capital = STATE_COSTA_RICA
 }
 NIC = 
@@ -1326,7 +1326,7 @@ NIC =
 
 	tier = kingdom
 	
-	cultures = { central_american }
+	cultures = { Nicaraguan }
 	capital = STATE_NICARAGUA
 }
 HON = 
@@ -1337,7 +1337,7 @@ HON =
 
 	tier = kingdom
 	
-	cultures = { central_american }
+	cultures = { Honduran }
 	capital = STATE_HONDURAS
 }
 GUT = 
@@ -1348,7 +1348,7 @@ GUT =
 
 	tier = kingdom
 	
-	cultures = { central_american }
+	cultures = { guatemalan }
 	capital = STATE_GUATEMALA
 }
 SAO = 
@@ -4593,7 +4593,7 @@ LAL =
 
 	tier = principality
 	
-	cultures = { central_american }
+	cultures = { el_salvadoran }
 	capital = STATE_GUATEMALA
 }
 SUL = 
