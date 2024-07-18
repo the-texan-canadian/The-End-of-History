@@ -3816,7 +3816,7 @@ interior_canadian={
 }
 
 north_mexican={
-	color=rgb{ 186 98 58 }
+	color=rgb{ 19 114 80 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -4027,7 +4027,7 @@ north_mexican={
 }
 
 western_mexican={
-	color=rgb{ 186 98 58 }
+	color=rgb{ 22 117 83 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -4238,7 +4238,7 @@ western_mexican={
 }
 
 east_mexican={
-	color=rgb{ 186 98 58 }
+	color=rgb{ 0 104 67 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -4449,7 +4449,7 @@ east_mexican={
 }
 
 Belizeans ={
-	color= hsv{ 0.51 0.21 0.67 }
+	color= rgb{ 23 22 150 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -4583,7 +4583,7 @@ Belizeans ={
 }
 
 guatemalan ={
-	color= hsv{ 0.51 0.21 0.67 }
+	color= rgb{ 82 157 212 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -4717,7 +4717,7 @@ guatemalan ={
 }
 
 el_salvadoran ={
-	color= hsv{ 0.51 0.21 0.67 }
+	color= rgb{ 1 69 178 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -4851,7 +4851,7 @@ el_salvadoran ={
 }
 
 Honduran ={
-	color= hsv{ 0.51 0.21 0.67 }
+	color= rgb{ 0 116 211 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -4985,7 +4985,7 @@ Honduran ={
 }
 
 Nicaraguan ={
-	color= hsv{ 0.51 0.21 0.67 }
+	color= rgb{ 0 102 200 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -5119,7 +5119,7 @@ Nicaraguan ={
 }
 
 Costa_Rican ={
-	color= hsv{ 0.51 0.21 0.67 }
+	color= rgb{ 0 39 130 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -5253,7 +5253,7 @@ Costa_Rican ={
 }
 
 Panamanian ={
-	color= hsv{ 0.51 0.21 0.67 }
+	color= rgb{ 8 35 88 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -5379,6 +5379,217 @@ Panamanian ={
 		Vigil
 		Zelaya
 		Zeledon
+	}
+	ethnicities = {
+		1 = south_american
+	}
+	graphics = european
+}
+
+mexican={
+	color= rgb{ 3 103 67 }
+	religion = catholic
+	traits = { hispanophone european_heritage }
+	male_common_first_names={
+		Adrian_2
+		Agustin
+		Ambrosio
+		Amilcar
+		Anastasio
+		Andres
+		Antonio
+		Bernardo
+		Blas
+		Dionisio
+		Eleuterio
+		Emeterio
+		Emiliano
+		Emilio
+		Enrique
+		Ernesto
+		Fausto
+		Felipe
+		Francisco
+		Francisco_Javier
+		Felix
+		Flavio
+		Gabriel
+		Gaspar
+		Genovevo
+		Gregorio
+		Ignacio
+		Jeronimo
+		Joaquin
+		Jesus
+		JosE_
+		Jose_Manuel
+		Jose_Maria
+		Juan
+		Juan_Bautista
+		Justo
+		Lazaro
+		Manuel
+		Mariano
+		Martin_2
+		Melchor
+		Miguel
+		Moises
+		Nicolas_2
+		Pablo
+		Pascual
+		Pedro
+		Policarpio
+		Porfirio
+		Ramon
+		Reynaldo
+		Ricardo
+		Romulo
+		Salvador
+		Sebastian
+		Tiburcio
+		Tomas
+		Valentin
+		Valeriano
+		Venustiano
+		Vicente
+		Victoriano
+		Alvaro
+		Angel
+	}
+	female_common_first_names = {
+		Carlota
+		Carmen
+		Camerina
+		Concepcion
+		Cristina
+		Eulalia
+		Gertrudis
+		Ignacia
+		Isabel
+		Josefa
+		Laureana
+		Leona
+		Luisa
+		Manuela
+		Maria
+		Mercedes
+		Rita
+		Teodora
+	}	
+	noble_last_names = {
+		Diaz_2
+		Huarte
+		de_Ampudia
+		de_Cos
+		de_Iturbide
+		Lerdo_de_Tejada
+		de_Romay
+		de_Terreros
+		de_Yermo
+	}
+	common_last_names={
+		Aceituno
+		Alarcon
+		Almonte
+		Arciniegas
+		Arguello
+		Arista
+		Ayanegui
+		Baranda
+		Barberena
+		Barragan
+		Berriozabal
+		Betanzos
+		Bocanegra
+		Bravo
+		Bustamante
+		Bustillos
+		Canalizo
+		Carracosa
+		Carranza
+		Carreon
+		Caserta
+		Castellanos
+		Ceron
+		Cervantes
+		Coello
+		Comonfort
+		Corona
+		Corra
+		Corral
+		Correa
+		Corzo
+		Couto
+		Echeverria
+		Escandon
+		Escobedo
+		Esquinca
+		Fagoaga
+		Farfan
+		Fernandez_del_Valle
+		Flores
+		Fuentes
+		Garza
+		Gonzalez
+		Guerrero
+		Godoy
+		Gomez
+		Hinojosa
+		Hoyos
+		Huerta
+		Kosterlitzky
+		Lara
+		Larrainzar
+		Lozada
+		Lopez_de_Santa_Anna
+		Magana
+		Magon
+		Maldonado
+		Martinez_del_Rio
+		Mejia
+		Miramon
+		Moguel
+		Molina
+		Muzquiz
+		Obregon
+		Ogazon
+		Ojeda
+		Ortega
+		Palacio
+		Palafox
+		Parada
+		Parres
+		Pedraza
+		Pimentel
+		Pineda
+		Pineiro
+		Preciado
+		Rabasa
+		Ramos
+		Reyes
+		Rincon_Gallardo
+		Robles
+		Rodriguez
+		Rojas
+		Ruiz_2
+		Salas
+		Sarmaniego_del_Castillo
+		Sanchez
+		Tajonar
+		Tovilla
+		Trejo
+		Utrilla
+		Villa
+		Villalobos
+		Vazquez
+		Vazquez_de_la_Cadena
+		Velasco
+		Woll
+		Zapata
+		Zaragoza
+		Zuloaga
+		Alvarez
+		Zimbron
 	}
 	ethnicities = {
 		1 = south_american
