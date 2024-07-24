@@ -578,7 +578,7 @@ VZL =
 
 	tier = kingdom
 	
-	cultures = { north_andean afro_caribeno }
+	cultures = { venezuelan afro_caribeno }
 	capital = STATE_MIRANDA
 }
 ELS = 
@@ -589,7 +589,7 @@ ELS =
 
 	tier = principality
 	
-	cultures = { central_american }
+	cultures = { el_salvadoran }
 	capital = STATE_SAN_SALVADOR
 }
 MZB = 
@@ -1205,7 +1205,7 @@ URU =
 
 	tier = kingdom
 	
-	cultures = { platinean }
+	cultures = { Uruguayan }
 	capital = STATE_URUGUAY
 }
 ARG = 
@@ -1227,7 +1227,7 @@ CHL =
 
 	tier = kingdom
 	
-	cultures = { south_andean }
+	cultures = { chilean }
 	capital = STATE_SANTIAGO
 }
 ECU = 
@@ -1238,7 +1238,7 @@ ECU =
 
 	tier = kingdom
 	
-	cultures = { north_andean }
+	cultures = { ecuadorian }
 	capital = STATE_ECUADOR
 }
 PEU = 
@@ -1249,7 +1249,7 @@ PEU =
 
 	tier = kingdom
 	
-	cultures = { quechua south_andean }
+	cultures = { quechua peruvian }
 	capital = STATE_LIMA
 }
 BOL = 
@@ -1260,7 +1260,7 @@ BOL =
 
 	tier = kingdom
 	
-	cultures = { quechua south_andean }
+	cultures = { quechua bolivian }
 	capital = STATE_SANTA_CRUZ
 }
 BRZ = 
@@ -1271,7 +1271,7 @@ BRZ =
 
 	tier = kingdom
 	
-	cultures = { amazonian afro_brazilian brazilian }
+	cultures = { amazonian afro_brazilian central_brazilian western_brazilian south_brazilian brazilian }
 	capital = STATE_RIO_DE_JANEIRO
 }
 PRG = 
@@ -1282,7 +1282,7 @@ PRG =
 
 	tier = kingdom
 	
-	cultures = { amazonian afro_brazilian brazilian }
+	cultures = { amazonian Paraguayan }
 	capital = STATE_BAJO_PARAGUAY
 }
 CMB = 
@@ -1293,7 +1293,7 @@ CMB =
 
 	tier = kingdom
 	
-	cultures = { north_andean afro_caribeno }
+	cultures = { colombian afro_caribeno }
 	capital = STATE_CUNDINAMARCA
 }
 PNM = 

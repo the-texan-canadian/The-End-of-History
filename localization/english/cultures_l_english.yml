@@ -9,7 +9,21 @@
  North_Western:0 "North Western" 
  anglo_canadian:0 "East Canadian" 
  
-
+ Belizeans:0 "Belizeans" 
+ guatemalan:0 "Guatemalan" 
+ el_salvadoran:0 "El Salvadoran" 
+ Honduran:0 "Honduran" 
+ Nicaraguan:0 "Nicaraguan" 
+ Costa_Rican:0 "Costa Rican" 
+ Panamanian:0 "Panamanian"  
+ 
+ brazilian:0 "Northern Brazilian" 
+ western_brazilian:0 "Western Brazilian" 
+ south_brazilian:0 "South Brazilian" 
+ central_brazilian:0 "Central Brazilian" 
+ Uruguayan:0 "Uruguayan"  
+ Paraguayan:0 "Paraguayan"
+ platinean:0 "Argentinian"
  
  New_Englander:0 "New Englander" 
  Upstater:0 "Upstater" 
