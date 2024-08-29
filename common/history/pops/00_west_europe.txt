@@ -412,6 +412,10 @@
             create_pop = {
                 culture = british
                 religion = atheism
+                size = 2000000
+            }
+            create_pop = {
+                culture = british
                 size = 1000000
             }
             create_pop = {
@@ -987,7 +991,7 @@
         region_state:SWS = {
             create_pop = {
                 culture = swiss
-                size = 2000000
+                size = 5000000
             }
         }
     }
@@ -995,10 +999,10 @@
         region_state:SWS = {
             create_pop = {
                 culture = swiss
-                size = 3000000
+                size = 5000000
             }
         }
-    }
+    }	
     s:STATE_WESTPHALIA = {
         region_state:GER = {
             create_pop = {

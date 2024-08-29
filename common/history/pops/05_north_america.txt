@@ -40,7 +40,7 @@
     s:STATE_NEW_YORK = {
         region_state:USS = {
             create_pop = {
-                culture = New_Yorker
+                culture = Mid-Atlantic
                 size = 10000000
             }
             create_pop = {
@@ -49,12 +49,12 @@
                 size = 2000000
             }			
             create_pop = {
-                culture = New_Yorker
+                culture = Mid-Atlantic
                 religion = jewish
                 size = 1800000
             }
             create_pop = {
-                culture = New_Yorker
+                culture = Mid-Atlantic
                 religion = catholic
                 size = 500000
             }
@@ -123,7 +123,7 @@
                 size = 4000000
             }       
             create_pop = {
-                culture = plateauen
+                culture = Basinfolk
                 size = 560000
             }
             create_pop = {
@@ -139,7 +139,7 @@
                 size = 3000000
             }           
             create_pop = {
-                culture = plateauen
+                culture = Basinfolk
                 size = 500000
             }
             create_pop = {
@@ -163,7 +163,7 @@
                 size = 2000
             }
             create_pop = {
-                culture = Middle_American
+                culture = Mid-Western
                 size = 3000000
             }
             create_pop = {
@@ -195,7 +195,7 @@
                 size = 400000
             }
             create_pop = {
-                culture = Middle_American
+                culture = Mid-Western
                 size = 600000
             }
         }
@@ -227,7 +227,7 @@
                 size = 4000
             }
             create_pop = {
-                culture = Middle_American
+                culture = Mid-Western
                 size = 1400000
             }
         }
@@ -243,7 +243,7 @@
                 size = 5000
             }
             create_pop = {
-                culture = Middle_American
+                culture = Mid-Western
                 size = 1300000
             }
         }
@@ -263,7 +263,7 @@
                 size = 5000
             }
             create_pop = {
-                culture = Middle_American
+                culture = Mid-Western
                 size = 1700000
             }
         }
@@ -283,7 +283,7 @@
                 size = 800000
             }
             create_pop = {
-                culture = Middle_American
+                culture = Mid-Western
                 size = 100000
             }
         }
@@ -307,7 +307,7 @@
                 size = 20000
             }
             create_pop = {
-                culture = Middle_American
+                culture = Mid-Western
                 size = 4500000
             }
 
@@ -390,7 +390,7 @@
                 size = 30000
             }
             create_pop = {
-                culture = NorthWoods
+                culture = Great_Lakers
                 size = 4000000
             }
             create_pop = {
@@ -426,7 +426,7 @@
                 size = 500000
             }
             create_pop = {
-                culture = Northern_Ohio
+                culture = Lower_Ohio
                 size = 1200000
             }
             create_pop = {
@@ -442,7 +442,7 @@
                 size = 5000000
             }
             create_pop = {
-                culture = Northern_Ohio
+                culture = Lower_Ohio
                 size = 1500000
             }
             create_pop = {
@@ -458,7 +458,7 @@
                 size = 4000000
             }		
             create_pop = {
-                culture = Northern_Ohio
+                culture = Lower_Ohio
                 size = 4000000
             }
             create_pop = {
@@ -664,7 +664,7 @@
                 size = 1500000
             }
             create_pop = {
-                culture = New_Yorker
+                culture = Mid-Atlantic
                 size = 4500000
             }
             create_pop = {
@@ -692,7 +692,7 @@
                 size = 4000000
             }			
             create_pop = {
-                culture = Northern_Ohio
+                culture = Lower_Ohio
                 size = 2000000
             }
         }
@@ -728,7 +728,7 @@
                 size = 187500 
             }	
             create_pop = {
-                culture = New_Yorker
+                culture = Mid-Atlantic
                 size = 12500
             }				
         }

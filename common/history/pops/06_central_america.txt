@@ -2,7 +2,7 @@
 	s:STATE_SAN_SALVADOR = {
 		region_state:ELS = {
 			create_pop = {
-				culture = central_american
+				culture = el_salvadoran
 				size = 620800
 			}
 		}
@@ -10,7 +10,7 @@
 	s:STATE_GUATEMALA = {
 		region_state:GUT = {
 			create_pop = {
-				culture = central_american
+				culture = guatemalan
 				size = 1232045
 			}
 			create_pop = {
@@ -24,7 +24,7 @@
 				size = 35412
 			}
 			create_pop = {
-				culture = central_american
+				culture = Belizeans
 				size = 15487
 			}
 			create_pop = {
@@ -36,7 +36,7 @@
 	s:STATE_HONDURAS = {
 		region_state:HON = {
 			create_pop = {
-				culture = central_american
+				culture = Honduran
 				size = 821418
 			}
 			create_pop = {
@@ -48,7 +48,7 @@
 	s:STATE_NICARAGUA = {
 		region_state:NIC = {
 			create_pop = {
-				culture = central_american
+				culture = Nicaraguan
 				size = 581418
 			}
 			create_pop = {
@@ -60,7 +60,7 @@
 	s:STATE_COSTA_RICA = {
 		region_state:COS = {
 			create_pop = {
-				culture = central_american
+				culture = Costa_Rican
 				size = 452685
 			}
 		}
@@ -68,7 +68,7 @@
 	s:STATE_PANAMA = {
 		region_state:PNM = {
 			create_pop = {
-				culture = central_american
+				culture = Panamanian
 				size = 214501
 			}
 			create_pop = {
@@ -122,10 +122,6 @@
 			create_pop = {
 				culture = afro_caribeno
 				size = 230145
-			}
-			create_pop = {
-				culture = yankee
-				size = 8945
 			}
 		}
 	}
